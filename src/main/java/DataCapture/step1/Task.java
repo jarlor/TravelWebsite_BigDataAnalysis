@@ -12,9 +12,9 @@ public class Task {
      */
     public Document getHtml1(String filePath) throws IOException{
         /**********   Begin   **********/
-        Document document = Jsoup.parse(new File(filePath),"UTF-8");
+        Document doc = Jsoup.parse(new File(filePath),"UTF-8");
 
-        return document;
+        return doc;
         /**********   End   **********/
     }
 
