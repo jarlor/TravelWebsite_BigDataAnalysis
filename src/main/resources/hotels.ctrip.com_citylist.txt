@@ -1,0 +1,1127 @@
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+<title>国内酒店城市列表,国内酒店大全【携程酒店】</title>
+<meta name="keywords" content="酒店大全,城市酒店,酒店导航,国内酒店预订"/>
+<meta name="description" content="国内酒店城市列表，携程酒店覆盖国内大中小1300个城市、景点城市的酒店预订及价格查询，包括全国各城市的酒店电话、酒店地址、酒店图片、酒店地理位置、酒店客房信息、酒店价格以及住过酒店用户的真实点评等信息。选择携程订酒店，那才是说走就走。"/>
+<meta http-equiv="x-dns-prefetch-control" content="on" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link rel="dns-prefetch" href="//webresource.c-ctrip.com" /><link rel="dns-prefetch" href="//pic.c-ctrip.com" /><link rel="dns-prefetch" href="//s.c-ctrip.com" /><link rel="apple-touch-startup-image" href="//pic.c-ctrip.com/h5/common/640.png" sizes="320x460" /><link rel="apple-touch-startup-image" href="//pic.c-ctrip.com/h5/common/940.png" sizes="640x920" /><link rel="apple-touch-startup-image" href="//pic.c-ctrip.com/h5/common/1004.png" sizes="768x1004" /><link rel="apple-touch-icon-precomposed" sizes="57x57" href="//pic.c-ctrip.com/h5/common/57.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="//pic.c-ctrip.com/h5/common/72.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="//pic.c-ctrip.com/h5/common/114.png" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="//pic.c-ctrip.com/h5/common/144.png" />
+<style>
+.inputSel{ color:#666666 }
+</style>
+
+</head>
+
+<body id="mainbody"  >
+<link rel="stylesheet" type="text/css" href="//webresource.c-ctrip.com/ResHotelOnline/R1/search/css/seo/hotel_lp_destination.css?releaseno=2019-01-22-09-03-46" />
+
+    <div id="jsContainer" class="jsContainer" style="height:0">
+                                <textarea id="jsSaveStatus" style="display:none;"></textarea>
+                                <div id="tuna_alert" style="display:none;position:absolute;z-index:999;overflow:hidden;"></div>
+                                <div id="tuna_jmpinfo" style="visibility:hidden;position:absolute;z-index:120;"></div>
+                                <div style="position: var absolute;top:0; z-index: 120;display:none" id="tuna_calendar" class="tuna_calendar"></div>
+                                </div>
+    <input type="hidden" id="CorrelationId" name="CorrelationId" value="614264827617600197"/><link href="//webresource.c-ctrip.com/ResCRMOnline/R1/pageheader/css/PageHeader_v2.css?temp=6,381,429,185,860,657,811" rel="stylesheet" /><div class="cui_hd_cont">
+<div id="cui_hd" class="cui_hd">
+<input type="hidden" id="_searchboxNo_" value="ws_www20140409"><input type="hidden" id="_newHeaderFlag_" value="true">
+<div class="ctriplogo">
+<a title="携程旅行网" href="http://www.ctrip.com">携程旅行网</a>
+</div>
+<div class="nav-bar">
+<ul class="language">
+<li>
+<a href="http://www.ctrip.com/" rel="nofollow" class="selected" id="cui_lang_cn" onmouseover="this.className= 'selected language_current';document.getElementById('cui_lang_list').parentNode.style.display='block';" onmouseout="this.className= 'selected';document.getElementById('cui_lang_list').parentNode.style.display='none';"><span><em class="ico-global"></em>Language<b class="arrow"></b></span></a>
+<div class="language_wrap drowndrop" style="display: none;" onmouseover="document.getElementById('cui_lang_cn').className= 'selected language_current';this.style.display='block';" onmouseout="document.getElementById('cui_lang_cn').className= 'selected';this.style.display='none';">
+<ul class="language_list" id="cui_lang_list">
+<li class="active">
+<a id="ctrip_cn" class="language_big5" href="//www.ctrip.com">简体中文</a>
+</li>
+<li>
+<a id="ctrip_eng" class="language_en" href="https://www.trip.com/?locale=en_US">English (United States)</a>
+</li>
+<li>
+<a id="ctrip_uk" class="language_gb" href="https://uk.trip.com/?locale=en_gb">English (United Kingdom)</a>
+</li>
+<li>
+<a id="ctrip_hk" class="language_hk" href="http://hk.trip.com/?locale=zh_hk">繁&#39636;中文 (香港)</a>
+</li>
+<li>
+<a id="ctrip_hk_en" class="language_hk" href="https://hk.trip.com/?locale=en_hk">English(Hong Kong)</a>
+</li>
+<li>
+<a id="ctrip_korea" class="language_korea" href="https://kr.trip.com/?locale=ko_KR">韩语版</a>
+</li>
+<li>
+<a id="ctrip_jap" class="language_jap" href="https://jp.trip.com/?locale=ja_JP">日语版</a>
+</li>
+<li>
+<a id="ctrip_sg" class="language_sg" href="https://sg.trip.com/?locale=en_SG">English (Singapore)</a>
+</li>
+<li>
+<a id="ctrip_au" class="language_au" href="https://au.trip.com/?locale=en_au">English (Australia)</a>
+</li>
+<li>
+<a id="ctrip_de" class="language_de" href="https://de.trip.com/?locale=de_DE">Deutsch</a>
+</li>
+<li>
+<a id="ctrip_fr" class="language_fr" href="https://fr.trip.com/?locale=fr_FR">Fran&ccedil;ais</a>
+</li>
+<li>
+<a id="ctrip_es" class="language_es" href="https://es.trip.com/?locale=es_ES">Espa&ntilde;ol</a>
+</li>
+<li>
+<a id="ctrip_it" class="language_it" href="https://it.trip.com/?locale=it_IT">Italiano</a>
+</li>
+<li class="last">
+<a id="ctrip_ru" class="language_ru" href="https://ru.trip.com/?locale=ru_RU">Русский</a>
+</li>
+<li>
+<a id="ctrip_th" class="language_th" href="https://th.trip.com/?locale=th_TH">泰国站</a>
+</li>
+<li>
+<a id="ctrip_id" class="language_id" href="https://id.trip.com/?locale=id_ID">Bahasa Indonesia</a>
+</li>
+<li>
+<a id="ctrip_my" class="language_my" href="https://my.trip.com/?locale=ms_MY">Bahasa Malaysia</a>
+</li>
+<li>
+<a id="ctrip_my_en" class="language_my" href="https://my.trip.com/?locale=en_my">English (Malaysia)</a>
+</li>
+<li>
+<a id="ctrip_vn" class="language_vn" href="https://vn.trip.com/?locale=vi_VN">越南语</a>
+</li>
+<li>
+<a id="ctrip_nl" class="language_nl" href="https://nl.trip.com/?locale=nl_NL">荷兰语</a>
+</li>
+<li>
+<a id="ctrip_pl" class="language_pl" href="https://pl.trip.com/?locale=pl_PL">波兰语&gt;</a>
+</li>
+<li>
+<a id="ctrip_gr" class="language_gr" href="https://gr.trip.com/?locale=el_GR">希腊语</a>
+</li>
+<li>
+<a id="ctrip_tr" class="language_tr" href="https://tr.trip.com/?locale=tr_TR">土耳其语</a>
+</li>
+<li>
+<a id="ctrip_pt" class="language_pt" href="https://br.trip.com/?locale=pt_BR">巴西葡萄牙语</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="cui_service">
+<li>
+<a target="_blank" rel="nofollow" href="http://kefu.ctrip.com">客服中心</a>
+</li>
+</ul>
+<ul class="cui_service service_1180">
+<li id="cui_service_cn">
+<a href="#" class="service_tel" onmouseover="this.className= 'service_tel service_current';document.getElementById('cui_service_cn').children[1].style.display='block';" onmouseout="this.className= 'service_tel';document.getElementById('cui_service_cn').children[1].style.display='none';"><span title="免境内长话费">境内：<em class="service_telnum">95010</em><b class="arrow"></b></span></a>
+<div class="service_wrap drowndrop" onmouseover="document.getElementById('cui_service_cn').children[0].className= 'service_tel service_current';this.style.display='block';" onmouseout="document.getElementById('cui_service_cn').children[0].className= 'service_tel';this.style.display='none';">
+<ul class="service_list">
+<li>
+<dl>
+<dd>香港（中国）：<em>+852-3069-9966</em>
+</dd>
+<dd>境外：<em>+86-21-3406-4888</em>
+</dd>
+</dl>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="cui_wireless" id="head_float_level">
+<li>
+<a href="http://app.ctrip.com" class="wireless wireless_link" target="_blank" rel="nofollow" id="linkid"><i class="cui_ico_app"></i></a>
+<div id="head_float_box_app" class="cui_wireless_box" style="display: none;">
+<i class="cui_ico_chatarrow" style="right:40px;"></i>
+<div class="cui_wireless_inbox">
+<dl class="cui_wireless_type">
+<dt>手机扫码快速下载</dt>
+<dd>
+<img src="//pic.c-ctrip.com/platform/online/home/er_ctrip_app.jpg" alt=""></dd>
+</dl>
+<a href="http://app.ctrip.com" class="cui_link_app">携程旅行手机版<i>&gt;</i></a>
+</div>
+</div>
+</li>
+<li>
+<a href="#" class="wireless wireless_nolink" id="nolinkid"><i class="cui_ico_wechat"></i></a>
+<div id="head_float_box_weixin" class="cui_wireless_box" style="display: none;">
+<i class="cui_ico_chatarrow"></i>
+<div class="cui_wireless_inbox">
+<dl class="cui_wireless_type">
+<dt>携程订阅号:helloctrip</dt>
+<dd>
+<img src="//pic.c-ctrip.com/platform/online/home/er_ctrip_wechat.jpg" alt=""></dd>
+</dl>扫一扫,领旅行福利</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div><div id="cui_nav">
+<div class="base_nav">
+<ul id="cui_nav_ul" class="cui_nav cui_content">
+<li id="cui_c_ph_hp">
+<a id="c_ph_hp" class="cui_nav_non" href="http://www.ctrip.com/">首页</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_hotel" class="cui_nav_current">
+<a id="nav_hotel" class="cui_nav_has" href="http://hotels.ctrip.com/">酒店<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_hotel" class="cui_sub_nav">
+<li id="ul_c_ph_hotel_h">
+<a id="c_ph_hotel_h" class="cui_sub_current" href="http://hotels.ctrip.com/">国内酒店</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hoteli_h">
+<a id="c_ph_hoteli_h" href="http://hotels.ctrip.com/international/">海外酒店</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_apartment_h">
+<a id="c_ph_apartment_h" href="http://hotels.ctrip.com/apartment">海外民宿+短租</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_tuan_h">
+<a id="c_ph_tuan_h" href="http://tuan.ctrip.com">团购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hotsale_h">
+<a id="c_ph_hotsale_h" href="http://hotels.ctrip.com/hotsale">特价酒店</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_tujia_h">
+<a id="c_ph_tujia_h" rel="nofollow" href="http://hotels.ctrip.com/tujia/">途家公寓</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocanj_h">
+<a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotel">酒店+景点</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_inn_h">
+<a id="c_ph_inn_h" href="http://inn.ctrip.com">客栈民宿</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_meetingroom_h">
+<a id="c_ph_meetingroom_h" href="http://meeting.ctrip.com/?channel=0#ctm_ref=mtg_meetingroom_2dh">团队房&bull;长住房</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_meeting_h">
+<a id="c_ph_meeting_h" href="http://meeting.ctrip.com/?channel=1#ctm_ref=mtg_meeting_2dh">会议</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotel"></i>酒店订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_vac">
+<a id="nav_vac" class="cui_nav_has" href="http://vacations.ctrip.com/">旅游<span class="label-cn" id="ACT_Label_22" style="display:none"><em>趣过年</em><i class="triangle"></i></span><i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_vac" class="cui_sub_nav">
+<li id="ul_c_ph_vacations_v">
+<a id="c_ph_vacations_v" href="http://vacations.ctrip.com/">旅游首页<span class="label-cn" id="ACT_Label_23" style="display:none"><em>春节特惠</em><i class="triangle"></i></span></a>
+</li>
+<li class="divider " style="display:none"></li>
+<li id="ul_c_ph_around_v">
+<a id="c_ph_around_v" href="http://weekend.ctrip.com/around/">周末游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_vacationsd_v">
+<a id="c_ph_vacationsd_v" href="http://vacations.ctrip.com/grouptravel/">跟团游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocan_v">
+<a id="c_ph_taocan_v" href="https://vacations.ctrip.com/idiytour">自由行</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_cruise_v">
+<a id="c_ph_cruise_v" href="http://cruise.ctrip.com/">邮轮</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocanj_v">
+<a id="c_ph_taocanj_v" href="http://taocan.ctrip.com/sh/">酒店+景点</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_huodong_v">
+<a id="c_ph_huodong_v" href="https://huodong.ctrip.com/">当地玩乐</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_zhutiyou_v">
+<a id="c_ph_zhutiyou_v" href="http://vacations.ctrip.com/themetravel/">主题游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_baotuan_v">
+<a id="c_ph_baotuan_v" href="http://vacations.ctrip.com/dingzhi">定制旅行</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_youxue_v">
+<a id="c_ph_youxue_v" href="http://vacations.ctrip.com/youxue">游学</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_visa_v">
+<a id="c_ph_visa_v" href="http://vacations.ctrip.com/visa">签证</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_mice_v">
+<a id="c_ph_mice_v" href="http://mice.ctrip.com">企业会奖</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hh_v">
+<a id="c_ph_hh_v" target="_blank" rel="nofollow" href="http://www.hhtravel.com/#ctm_ref=hh_ct_thp_nav">高端游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_golf_v">
+<a id="c_ph_golf_v" href="http://fun.iwanoutdoor.com/">爱玩户外</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_insurance_v">
+<a id="c_ph_insurance_v" href="http://vacations.ctrip.com/insurance">保险</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_deals_v">
+<a id="c_ph_deals_v" href="http://vacations.ctrip.com/tours/deals/index">特卖汇</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/PkgOrderList.aspx"><i class="cui-icon-vacations"></i>旅游订单 &gt;</a>
+</div>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_gentuan">
+<a id="nav_gentuan" class="cui_nav_non" DividerClass="divider_spec" href="http://vacations.ctrip.com/grouptravel">跟团游</a>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_ziyouxing">
+<a id="nav_ziyouxing" class="cui_nav_non" DividerClass="divider_spec" href="https://vacations.ctrip.com/idiytour">自由行</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_flight">
+<a id="nav_flight" class="cui_nav_has" href="https://flights.ctrip.com/">机票<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_flight" class="cui_sub_nav">
+<li id="ul_c_ph_flights_f">
+<a id="c_ph_flights_f" href="https://flights.ctrip.com">国内机票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_flightsi_f">
+<a id="c_ph_flightsi_f" href="https://flights.ctrip.com/international/">国际&bull;港澳台机票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_fuzzy_f">
+<a id="c_ph_fuzzy_f" href="https://flights.ctrip.com/fuzzy/#ctm_ref=ctr_nav_flt_fz_pgs">特价机票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocan_f">
+<a id="c_ph_taocan_f" href="http://taocan.ctrip.com">机+酒</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_flightstoolbox_f">
+<a id="c_ph_flightstoolbox_f" href="http://flights.ctrip.com/actualtime">航班动态</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_bookseat_f">
+<a id="c_ph_bookseat_f" rel="nofollow" href="https://flights.ctrip.com/domestic/checkinseat/index">值机选座</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_flightorderlist_f">
+<a id="c_ph_flightorderlist_f" rel="nofollow" href="https://my.ctrip.com/Home/Order/FlightOrderList.aspx">退票改签</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_airportguides_f">
+<a id="c_ph_airportguides_f" rel="nofollow" href="https://flights.ctrip.com/booking/airport-guides.html">机场攻略</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/FlightOrderList.aspx"><i class="cui-icon-flight"></i>机票订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_trains">
+<a id="nav_trains" class="cui_nav_has" href="http://trains.ctrip.com">火车<span class="label-cn" id="ACT_Label_16" style="display:none"><em>春运</em><i class="triangle"></i></span><i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_trains" class="cui_sub_nav">
+<li id="ul_c_ph_train_t">
+<a id="c_ph_train_t" href="http://trains.ctrip.com">国内火车票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_traino_t">
+<a id="c_ph_traino_t" href="http://rails.ctrip.com">国际&bull;港台火车票</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/RailwayOrderList.aspx"><i class="cui-icon-train"></i>火车票订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_destination">
+<a id="nav_destination" class="cui_nav_has" href="http://bus.ctrip.com/">汽车票<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_destination" class="cui_sub_nav">
+<li id="ul_c_ph_bus_t">
+<a id="c_ph_bus_t" href="http://bus.ctrip.com/">汽车票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ship_t">
+<a id="c_ph_ship_t" href="http://bus.ctrip.com/ship/">船票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_yacht_t">
+<a id="c_ph_yacht_t" target="_blank" rel="nofollow" href="http://yacht.ctrip.com/">游艇帆船</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_daozy_t">
+<a id="c_ph_daozy_t" href="http://pages.c-ctrip.com/bus/xicui/201803/dzy/html/pc.html">到站游</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/QicheOrderlist.aspx"><i class="cui-icon-bus"></i>汽车票订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_car">
+<a id="nav_car" class="cui_nav_has" href="http://car.ctrip.com/#ctm_ref=chp_var_txt">用车<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_car" class="cui_sub_nav">
+<li id="ul_c_ph_car_c">
+<a id="c_ph_car_c" href="http://car.ctrip.com/#ctm_ref=chp_var_txt">用车首页</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hwzj_c">
+<a id="c_ph_hwzj_c" href="http://car.ctrip.com/hwzijia#ctm_ref=chp_var_txt">境外租车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hwdaijia_c">
+<a id="c_ph_hwdaijia_c" href="http://car.ctrip.com/hwdaijia#ctm_ref=chp_var_txt">境外接送机</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hwrizu_c">
+<a id="c_ph_hwrizu_c" href="http://car.ctrip.com/line/index">境外包车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_zj_c">
+<a id="c_ph_zj_c" href="http://car.ctrip.com/zijia#ctm_ref=chp_var_txt">国内租车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_daijia_c">
+<a id="c_ph_daijia_c" href="http://car.ctrip.com/daijia#ctm_ref=chp_var_txt">国内接送机/火车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_rizu_c">
+<a id="c_ph_rizu_c" href="http://car.ctrip.com/idayweb">国内包车</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/CarOrderList.aspx"><i class="cui-icon-car"></i>用车订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_ticket">
+<a id="nav_ticket" class="cui_nav_has" href="http://piao.ctrip.com/">门票<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_ticket" class="cui_sub_nav">
+<li id="ul_c_ph_piao_p">
+<a id="c_ph_piao_p" href="http://piao.ctrip.com/?clear=t#ctm_ref=tkt_home_tab_inland">境内门票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_piaooversea_p">
+<a id="c_ph_piaooversea_p" href="http://piao.ctrip.com/oversea#ctm_ref=tkt_home_tab_oversea">出境&bull;港澳台门票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_huodong_p">
+<a id="c_ph_huodong_p" href="https://huodong.ctrip.com#ctm_ref=ctr_hp_ttd">当地玩乐</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_wifi_p">
+<a id="c_ph_wifi_p" href="https://huodong.ctrip.com/wifi#ctm_ref=ctr_hp_wifi">出境WiFi&bull;电话卡</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_around_p">
+<a id="c_ph_around_p" href="http://you.ctrip.com/around#ctm_ref=gs-990123-290801-0-02-M001|0|0">周末游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_disney_p">
+<a id="c_ph_disney_p" href="http://pages.c-ctrip.com/ttd/manu/201712/changlong/online/index.html">长隆</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/LocalUnionOrderList.aspx"><i class="cui-icon-ticket"></i>门票玩乐订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_c_ph_you">
+<a id="c_ph_you" class="cui_nav_non" href="http://you.ctrip.com/">攻略</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_g">
+<a id="nav_g" class="cui_nav_has" href="http://g.ctrip.com/">全球购<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_g" class="cui_sub_nav">
+<li id="ul_c_ph_mdg_g">
+<a id="c_ph_mdg_g" href="http://g.ctrip.com/">名店购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ts_g">
+<a id="c_ph_ts_g" href="http://tax.ctrip.com/?bid=2&amp;cid=1&amp;pid=1">退税</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ylth_g">
+<a id="c_ph_ylth_g" href="http://g.ctrip.com/gsmarketingactive/unionpay?ctm_ref=M_gw_3home_paypal_cl">银联特惠</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_skjl_g">
+<a id="c_ph_skjl_g" href="http://card.ctrip.com/#ctm_ref=ctr_bid_0_cid_1_pid_1">万千赏</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_forex_g">
+<a id="c_ph_forex_g" href="http://forex.ctrip.com/?bid=62&amp;1=1">外币兑换</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://forex.ctrip.com/order/list/"><i class="cui-icon-foreign"></i>外币兑换订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_lpk">
+<a id="nav_lpk" class="cui_nav_has" href="http://lipin.ctrip.com">礼品卡<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_lpk" class="cui_sub_nav">
+<li id="ul_c_ph_lipin_l">
+<a id="c_ph_lipin_l" href="http://lipin.ctrip.com">礼品卡首页</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_xcb_l">
+<a id="c_ph_xcb_l" href="http://lipin.ctrip.com/xcb">礼品卡福袋</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_lipincorp_l">
+<a id="c_ph_lipincorp_l" href="http://lipin.ctrip.com/lipinonline/static/intentional">企业采购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ckzm_l">
+<a id="c_ph_ckzm_l" href="http://jr.ctrip.com/deposit/deposit/index">存款证明</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_dhq_l">
+<a id="c_ph_dhq_l" href="http://lipin.ctrip.com/voucher">兑换券</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_forexlipin_l">
+<a id="c_ph_forexlipin_l" href="http://forex.ctrip.com/?bid=12&amp;1=1">外币兑换</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/TicketOrderList.aspx"><i class="cui-icon-card"></i>礼品卡订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_sl">
+<a id="nav_sl" class="cui_nav_has" href="http://ct.ctrip.com/#ctm_ref=xcct">商旅<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_sl" class="cui_sub_nav">
+<li id="ul_c_ph_slsy_s">
+<a id="c_ph_slsy_s" href="http://ct.ctrip.com/#ctm_ref=xcct">商旅首页</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_chl_s">
+<a id="c_ph_chl_s" href="http://ct.ctrip.com/crptravel/default/landing#ctm_ref=xcpt">企业差旅平台</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hj_s">
+<a id="c_ph_hj_s" href="http://mice.ctrip.com">会议旅游</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_cruise">
+<a id="nav_cruise" class="cui_nav_non" DividerClass="divider_spec" href="http://cruise.ctrip.com">邮轮</a>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_mudidi">
+<a id="nav_mudidi" class="cui_nav_non" DividerClass="divider_spec" href="http://dst.ctrip.com/">目的地</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_more">
+<a id="nav_more" class="cui_nav_has" rel="nofollow" href="http://mall.ctrip.com">更多<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_more" class="cui_sub_nav">
+<li id="ul_finance_pc">
+<a id="finance_pc" href="https://jrweb.ctrip.com/home.htm">金融</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ypsc_m">
+<a id="c_ph_ypsc_m" href="http://mall.ctrip.com">优品商城</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_sjhy_m">
+<a id="c_ph_sjhy_m" href="http://pages.c-ctrip.com/commerce/promote/201709/other/cj/index2.html?pushcode=act_svip_pc34&amp;qrcode=act_svip_pc37">超级会员</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_tuangou_m">
+<a id="c_ph_tuangou_m" href="http://tuan.ctrip.com">团购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_cards_m">
+<a id="c_ph_cards_m" rel="nofollow" href="http://cards.ctrip.com">合作卡</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_xcyd_m">
+<a id="c_ph_xcyd_m" href="https://sport.ctrip.com/">携程运动</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="loginDivLi" class="cui_nav_myctrip cui_content">
+<ul class="cui_myctrip_log" style="display:block;" id="ulCTFullMC">
+<li class="userLogin" id="div_User"></li>
+<li class="myctrip" style="margin-top:0;">
+<span id="div_MyCtrip"></span>
+<ul class="cui_account cui_account_login" id="loginDiv" style="display:none;">
+<li>
+<div id="div_Loginbtn"></div>
+</li>
+<li class="cui_account_info">
+<a rel="nofollow" href="http://my.ctrip.com/home/Order/AllOrder.aspx#ctm_ref=ssc_hp_myctrip_allorders_a">全部订单</a>
+</li>
+<li class="divider"></li>
+<li class="account_order">
+<ul>
+<li>
+<a rel="nofollow" href="http://my.ctrip.com/Home/Order/FlightOrderList.aspx#ctm_ref=ssc_hp_myctrip_flightorders_a">机票+相关订单</a>
+</li>
+<li>
+<a rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx#ctm_ref=ssc_hp_myctrip_hotelorders_a">酒店订单</a>
+</li>
+<li>
+<a rel="nofollow" href="http://my.ctrip.com/Home/Order/PkgOrderList.aspx#ctm_ref=ssc_hp_myctrip_tourorders_a">旅游订单</a>
+</li>
+<li>
+<a rel="nofollow" href="http://my.ctrip.com/Home/Order/RailwayOrderList.aspx#ctm_ref=ssc_hp_myctrip_trainorders_a">火车票订单</a>
+</li>
+<li>
+<a rel="nofollow" class="gray" href="https://passport.ctrip.com/user/member/fastOrder#ctm_ref=ssc_hp_myctrip_phoneorders_a">手机号查订单</a>
+</li>
+</ul>
+</li>
+<li class="divider"></li>
+<li>
+<a rel="nofollow" href="https://secure.ctrip.com/webwallet/index#ctm_ref=ssc_hp_myctrip_wallet_a">携程钱包</a>
+</li>
+<li>
+<a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotel/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a">收藏</a>
+</li>
+<li>
+<a rel="nofollow" href="https://smarket.ctrip.com/Promocode/zh-cn/Promocode.aspx#ctm_ref=ssc_hp_myctrip_integral_a">票券与积分</a>
+</li>
+<li>
+<a rel="nofollow" href="http://my.ctrip.com/Home/Passenger/PassengerList.aspx#ctm_ref=ssc_hp_myctrip_info_a">常用信息</a>
+</li>
+</ul>
+</li>
+<li class="message" id="div_MyCTMessages"></li>
+</ul>
+<ul class="cui_myctrip_log" style="display:none;" id="ulCTMinMC">
+<li class="userLogin" id="div_User"></li>
+<li class="myctrip" style="margin-top:0;clear:left;">
+<span id="div_MyCtrip"></span>
+<ul class="cui_account cui_account_login" id="loginDiv" style="display:none;">
+<li>
+<div id="div_Loginbtn"></div>
+</li>
+<li class="cui_account_info">
+<a rel="nofollow" href="http://my.ctrip.com/home/Order/AllOrder.aspx#ctm_ref=ssc_hp_myctrip_allorders_a">全部订单</a>
+</li>
+<li>
+<a rel="nofollow" class="gray" href="https://passport.ctrip.com/user/member/fastOrder#ctm_ref=ssc_hp_myctrip_phoneorders_a">手机号查订单</a>
+</li>
+</ul>
+</li>
+<li class="message" id="div_MyCTMessages"></li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="nav_bh" class="cui_nav_behind" style="display:none;height:0px;"></div>
+</div><div id="ActConfig_ID" style="display:none">[{"id":"22","onlinetime":"2019/01/23 00:00:59$2019/01/25 23:55:57"},{"id":"23","onlinetime":"2019/01/15 23:55:59$2019/01/31 23:55:56"},{"id":"16","onlinetime":"2019/01/02 00:00:14$2019/02/15 23:55:36"}]</div><input type="hidden" id="popfloating_isshow" value="0"><input type="hidden" id="siteDomainHeadFloat" value="ctrip"><input type="hidden" id="bsType" value="0"><input type="hidden" id="formatTel" value="[{'formatTelNum':'95010','prefix':'境内：','sortIndex':'1','standardTelNum':'SHMobile95010','suffix':''},{'formatTelNum':'400-830-6666','prefix':'（或）','sortIndex':'2','standardTelNum':'4008306666','suffix':''},{'formatTelNum':'+ 852-3069-9966','prefix':'香港（中国）：','sortIndex':'3','standardTelNum':'85230699966','suffix':''},{'formatTelNum':'+ 86-21-3406-4888','prefix':'境外：','sortIndex':'4','standardTelNum':'34064888','suffix':''}]">
+<script> ;window.replace=function(){return ''};window.replace=function(){return""}; !function(){window.replace=function(){return""};(function(){var h=document,c=function(a){return h.getElementById(a)},k=null,l=null,m=0,d=[c("cui_nav_hotel"),c("cui_nav_vac"),c("cui_nav_flight"),c("cui_nav_trains"),c("cui_nav_destination"),c("cui_nav_car"),c("cui_nav_ticket"),c("cui_nav_g"),c("cui_nav_lpk"),c("cui_nav_sl"),c("cui_nav_more")],g={onmouseenter:function(a,b){(h.all?a.onmouseenter=b:a.onmouseover=function(a){(null==a.relatedTarget?b():this!==a.relatedTarget&&20!=this.compareDocumentPosition(a.relatedTarget)&& b())})},onmouseout:function(a,b){(h.all?a.onmouseleave=b:a.onmouseout=function(a){(null==a.relatedTarget?b():this!==a.relatedTarget&&20!=this.compareDocumentPosition(a.relatedTarget)&&b())})},addEvent:function(a,b,f){(a.addEventListener?a.addEventListener(b,f,!1):(a.attachEvent?a.attachEvent("on"+b,f):a["on"+b]=f))}},e={setTime:function(){g.onmouseenter(c("cui_nav"),function(){setTimeout(function(){m=150},30)});g.onmouseout(c("cui_nav"),function(){m=0})},initEvent:function(){for(var a=0,b=d.length;b>a;a++)(function(){var b= a;g.onmouseenter(d[b],function(){e.interFn(d[b])});g.onmouseout(d[b],function(){e.outerFn(d[b])})})(a)},reset:function(){for(var a=0,b=d.length;b>a;a++)d[a].className=(-1<d[a].className.indexOf("cui_nav_current")?"cui_nav_current":"")},padReset:function(a){for(var b=0,f=d.length;f>b;b++)(-1<d[b].className.indexOf("cui_nav_current")?d[b].className="cui_nav_current":b!==a&&(d[b].className=""))},interFn:function(a){for(var b=document.getElementById("cui_nav").getElementsByTagName("li"),f="",d=0;d<b.length;d++)b[d].className.match((/cui_nav_current/))&& (f=b[d]);null!=l&&(clearTimeout(l),l=null);k=setTimeout(function(){e.reset();(-1<a.className.indexOf("cui_nav_current")?f.className="cui_nav_current":(a.className="cui_nav_o",f.className="cui_nav_current cui_nav_unhover"))},m)},outerFn:function(a){for(var b=document.getElementById("cui_nav").getElementsByTagName("li"),d="",c=0;c<b.length;c++)b[c].className.match((/cui_nav_current/))&&(d=b[c]);null!=k&&(clearTimeout(k),k=null);l=setTimeout(function(){e.reset();(-1<a.className.indexOf("cui_nav_current")? d.className="cui_nav_current":(a.className="",d.className="cui_nav_current"))},250)},initMobile:function(){for(var a=0,b=d.length;b>a;a++)(function(){var b=a,c=d[b].getElementsByTagName("A")[0];c.href="###";c.onmousedown=function(){e.padReset(b);-1===d[b].className.indexOf("cui_nav_current")&&((-1<d[b].className.indexOf("cui_nav_o")?(d[b].className="",document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current",c.style.visibility="hidden",setTimeout(function(){c.style.visibility= "visible"},10)):(d[b].className="cui_nav_o",document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current",document.getElementsByClassName("cui_nav_current")[0].className+=" cui_nav_unhover")))}})(a)},contains:function(a){for(var b=0,c=d.length;c>b;b++)if(0<d[b].compareDocumentPosition(a)-19)return!0;return!1}};c("headStyleId")&&c("headStyleId").parentNode.removeChild(c("headStyleId"));((/ip(hone|od)|ipad/i).test(navigator.userAgent)?(e.initMobile(),g.addEvent(h.body,"click",function(a){e.contains(a.target|| a.srcElement)||e.reset()})):(e.setTime(),e.initEvent()))})()}(); </script>
+    <form name="aspnetForm" method="post" action="./citylist" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk5MjMxNDkzNA9kFgJmD2QWAmYPZBYCZg8WAh4HVmlzaWJsZWhkZG4QCB+3Y+bbuX5d5JE33LDuyU9MBzSrrOGfohe8t4yZ" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8B743A8F" />
+</div>
+            <input type="hidden" id="J_ServerDate" value="2019-01-22"/>
+
+<div id="base_bd">
+<div class="des_title"><h1><span class="ico_destination"></span>选择您要入住的目的地</h1></div>
+<div class="des_hot">
+<ul class="hot_list clearfix sec_obvious">
+<li><a href="/hotel/beijing1"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_01.jpg" alt="北京酒店"><p class="hot_city"><strong>北京</strong>0家酒店</p></a></li>
+<li><a href="/hotel/shanghai2"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_02.jpg" alt="上海酒店"><p class="hot_city"><strong>上海</strong>0家酒店</p></a></li>
+<li class="big_pic"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_ad.png" alt="最高返现201元/间夜"></li>
+<li><a href="/hotel/hong%20kong58"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_03.jpg" alt="香港酒店"><p class="hot_city"><strong>香港</strong>0家酒店</p></a></li>
+<li><a href="/hotel/hangzhou17"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_04.jpg" alt="杭州酒店"><p class="hot_city"><strong>杭州</strong>6003家酒店</p></a></li>
+</ul>
+<ul class="hot_list clearfix">
+<li><a href="/hotel/chengdu28"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_05.jpg" alt="成都酒店"><p class="hot_city"><strong>成都</strong></p></a></li>
+<li><a href="/hotel/shenzhen30"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_06.jpg" alt="深圳酒店"><p class="hot_city"><strong>深圳</strong></p></a></li>
+<li><a href="/hotel/sanya43"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_07.jpg" alt="三亚酒店"><p class="hot_city"><strong>三亚</strong></p></a></li>
+<li><a href="/hotel/ningbo375"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_08.jpg" alt="宁波酒店"><p class="hot_city"><strong>宁波</strong></p></a></li>
+<li><a href="/hotel/nanjing12"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_09.jpg" alt="南京酒店"><p class="hot_city"><strong>南京</strong></p></a></li>
+<li><a href="/hotel/xian10"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_10.jpg" alt="西安酒店"><p class="hot_city"><strong>西安</strong></p></a></li>
+<li><a href="/hotel/xiamen25"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_11.jpg" alt="厦门酒店"><p class="hot_city"><strong>厦门</strong></p></a></li>
+<li><a href="/hotel/kunming34"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_12.jpg" alt="昆明酒店"><p class="hot_city"><strong>昆明</strong></p></a></li>
+<li><a href="/hotel/suzhou14"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_13.jpg" alt="苏州酒店"><p class="hot_city"><strong>苏州</strong></p></a></li>
+<li><a href="/hotel/guangzhou32"><img src="//pic.c-ctrip.com/hotelinternational_seo/city_14.jpg" alt="广州酒店"><p class="hot_city"><strong>广州</strong></p></a></li>
+</ul>
+</div>
+<!-- FOR TEST-->
+
+<div class="des_header clearfix">
+<div class="sec_search">目的地&nbsp;&nbsp;
+<span class="search_box">
+<input type="text" class="search_key" id="txtCity" value="" name="CityName" />
+<input type="button" class="btn_search" id="btnSearch" value="搜索"/>
+</span>
+</div>
+<div class="des_group"><a href="javascript:;" class="sta_current">ABCD</a><a href="javascript:;">EFGH</a><a href="javascript:;">JKLM</a><a href="javascript:;">NOPQRS</a><a href="javascript:;">TUVWX</a><a href="javascript:;">YZ</a></div>
+</div>
+<div class="des_cont" id="c_list_1" ><div class="custom_list"><dt>A</dt><dd><a href="/hotel/abazhou1838" title="阿坝酒店">阿坝</a></dd><dd><a href="/hotel/aksu173" title="阿克苏酒店">阿克苏</a></dd><dd><a href="/hotel/aletai175" title="阿勒泰酒店">阿勒泰</a></dd><dd><a href="/hotel/ali97" title="阿里酒店">阿里</a></dd><dd><a href="/hotel/alxa7548" title="阿拉善酒店">阿拉善</a></dd><dd><a href="/hotel/ankang171" title="安康酒店">安康</a></dd><dd><a href="/hotel/anqing177" title="安庆酒店">安庆</a></dd><dd><a href="/hotel/anshan178" title="鞍山酒店">鞍山</a></dd><dd><a href="/hotel/anshun179" title="安顺酒店">安顺</a></dd><dd><a href="/hotel/anyang181" title="安阳酒店">安阳</a></dd></div><div class="custom_list"><dt>B</dt><dd><a href="/hotel/baicheng1116" title="白城酒店">白城</a></dd><dd><a href="/hotel/baise1140" title="百色酒店">百色</a></dd><dd><a href="/hotel/baishan3886" title="白山酒店">白山</a></dd><dd><a href="/hotel/baiyin1541" title="白银酒店">白银</a></dd><dd><a href="/hotel/baoding185" title="保定酒店">保定</a></dd><dd><a href="/hotel/baoji112" title="宝鸡酒店">宝鸡</a></dd><dd><a href="/hotel/baoshan197" title="保山酒店">保山</a></dd><dd><a href="/hotel/baotou141" title="包头酒店">包头</a></dd><dd><a href="/hotel/bayan nur3887" title="巴彦淖尔酒店">巴彦淖尔</a></dd><dd><a href="/hotel/bayinguoleng21130" title="巴音郭楞酒店">巴音郭楞</a></dd><dd><a href="/hotel/bazhong3966" title="巴中酒店">巴中</a></dd><dd><a href="/hotel/beihai189" title="北海酒店">北海</a></dd><dd><a href="/hotel/bengbu182" title="蚌埠酒店">蚌埠</a></dd><dd><a href="/hotel/benxi1155" title="本溪酒店">本溪</a></dd><dd><a href="/hotel/bijie22031" title="毕节酒店">毕节</a></dd><dd><a href="/hotel/binzhou1820" title="滨州酒店">滨州</a></dd><dd><a href="/hotel/boertala21468" title="博尔塔拉酒店">博尔塔拉</a></dd><dd><a href="/hotel/bozhou1078" title="亳州酒店">亳州</a></dd></div><div class="custom_list"><dt>C</dt><dd><a href="/hotel/cangzhou216" title="沧州酒店">沧州</a></dd><dd><a href="/hotel/changchun158" title="长春酒店">长春</a></dd><dd><a href="/hotel/changde201" title="常德酒店">常德</a></dd><dd><a href="/hotel/changji22032" title="昌吉酒店">昌吉</a></dd><dd><a href="/hotel/changsha206" title="长沙酒店">长沙</a></dd><dd><a href="/hotel/changzhi137" title="长治酒店">长治</a></dd><dd><a href="/hotel/changzhou213" title="常州酒店">常州</a></dd><dd><a href="/hotel/chaoyang211" title="朝阳酒店">朝阳</a></dd><dd><a href="/hotel/chaozhou215" title="潮州酒店">潮州</a></dd><dd><a href="/hotel/chengde562" title="承德酒店">承德</a></dd><dd><a href="/hotel/chengdu28" title="成都酒店">成都</a></dd><dd><a href="/hotel/chengjiang20919" title="澄江酒店">澄江</a></dd><dd><a href="/hotel/chenzhou612" title="郴州酒店">郴州</a></dd><dd><a href="/hotel/chifeng202" title="赤峰酒店">赤峰</a></dd><dd><a href="/hotel/chizhou218" title="池州酒店">池州</a></dd><dd><a href="/hotel/chongqing4" title="重庆酒店">重庆</a></dd><dd><a href="/hotel/chongzuo1896" title="崇左酒店">崇左</a></dd><dd><a href="/hotel/chuxiong21658" title="楚雄酒店">楚雄</a></dd><dd><a href="/hotel/chuzhou214" title="滁州酒店">滁州</a></dd></div><div class="custom_list"><dt>D</dt><dd><a href="/hotel/dali669326" title="大理酒店">大理</a></dd><dd><a href="/hotel/dalian6" title="大连酒店">大连</a></dd><dd><a href="/hotel/dandong221" title="丹东酒店">丹东</a></dd><dd><a href="/hotel/daqing231" title="大庆酒店">大庆</a></dd><dd><a href="/hotel/datong136" title="大同酒店">大同</a></dd><dd><a href="/hotel/daxing'anling7663" title="大兴安岭酒店">大兴安岭</a></dd><dd><a href="/hotel/dazhou1233" title="达州酒店">达州</a></dd><dd><a href="/hotel/dehong365" title="德宏酒店">德宏</a></dd><dd><a href="/hotel/deyang237" title="德阳酒店">德阳</a></dd><dd><a href="/hotel/dezhou1370" title="德州酒店">德州</a></dd><dd><a href="/hotel/dingxi1021" title="定西酒店">定西</a></dd><dd><a href="/hotel/diqing93" title="迪庆酒店">迪庆</a></dd><dd><a href="/hotel/dongying236" title="东营酒店">东营</a></dd></div></div><div class="des_cont" id="c_list_2" style="display:none" ><div class="custom_list"><dt>E</dt><dd><a href="/hotel/enshi245" title="恩施酒店">恩施</a></dd></div><div class="custom_list"><dt>F</dt><dd><a href="/hotel/fangchenggang1677" title="防城港酒店">防城港</a></dd><dd><a href="/hotel/fushun252" title="抚顺酒店">抚顺</a></dd><dd><a href="/hotel/fuxin254" title="阜新酒店">阜新</a></dd><dd><a href="/hotel/fuyang257" title="阜阳酒店">阜阳</a></dd><dd><a href="/hotel/fuzhou258" title="福州酒店">福州</a></dd><dd><a href="/hotel/fuzhou3884" title="抚州酒店">抚州</a></dd></div><div class="custom_list"><dt>G</dt><dd><a href="/hotel/gannan7844" title="甘南酒店">甘南</a></dd><dd><a href="/hotel/ganzhou268" title="赣州酒店">赣州</a></dd><dd><a href="/hotel/ganzizhou4124" title="甘孜酒店">甘孜</a></dd><dd><a href="/hotel/golog21862" title="果洛酒店">果洛</a></dd><dd><a href="/hotel/guang'an1100" title="广安酒店">广安</a></dd><dd><a href="/hotel/guangyuan267" title="广元酒店">广元</a></dd><dd><a href="/hotel/guangzhou32" title="广州酒店">广州</a></dd><dd><a href="/hotel/guigang1518" title="贵港酒店">贵港</a></dd><dd><a href="/hotel/guilin33" title="桂林酒店">桂林</a></dd><dd><a href="/hotel/guiyang38" title="贵阳酒店">贵阳</a></dd><dd><a href="/hotel/guyuan321" title="固原酒店">固原</a></dd></div><div class="custom_list"><dt>H</dt><dd><a href="/hotel/haibei7807" title="海北酒店">海北</a></dd><dd><a href="/hotel/haidong7752" title="海东酒店">海东</a></dd><dd><a href="/hotel/hainan7794" title="海南酒店">海南</a></dd><dd><a href="/hotel/haixizhou7589" title="海西酒店">海西</a></dd><dd><a href="/hotel/hami285" title="哈密市酒店">哈密市</a></dd><dd><a href="/hotel/handan275" title="邯郸酒店">邯郸</a></dd><dd><a href="/hotel/hangzhou17" title="杭州酒店">杭州</a></dd><dd><a href="/hotel/hanzhong129" title="汉中酒店">汉中</a></dd><dd><a href="/hotel/harbin5" title="哈尔滨酒店">哈尔滨</a></dd><dd><a href="/hotel/hebi951" title="鹤壁酒店">鹤壁</a></dd><dd><a href="/hotel/hechi3969" title="河池酒店">河池</a></dd><dd><a href="/hotel/hefei278" title="合肥酒店">合肥</a></dd><dd><a href="/hotel/hegang1611" title="鹤岗酒店">鹤岗</a></dd><dd><a href="/hotel/heihe281" title="黑河酒店">黑河</a></dd><dd><a href="/hotel/hengshui290" title="衡水酒店">衡水</a></dd><dd><a href="/hotel/hengyang297" title="衡阳酒店">衡阳</a></dd><dd><a href="/hotel/hetian20931" title="和田酒店">和田</a></dd><dd><a href="/hotel/heyuan693" title="河源酒店">河源</a></dd><dd><a href="/hotel/heze1074" title="菏泽酒店">菏泽</a></dd><dd><a href="/hotel/hezhou4146" title="贺州酒店">贺州</a></dd><dd><a href="/hotel/hohhot103" title="呼和浩特酒店">呼和浩特</a></dd><dd><a href="/hotel/honghe1341" title="红河酒店">红河</a></dd><dd><a href="/hotel/huai'an577" title="淮安酒店">淮安</a></dd><dd><a href="/hotel/huaibei272" title="淮北酒店">淮北</a></dd><dd><a href="/hotel/huaihua282" title="怀化酒店">怀化</a></dd><dd><a href="/hotel/huainan287" title="淮南酒店">淮南</a></dd><dd><a href="/hotel/huanggang3885" title="黄冈酒店">黄冈</a></dd><dd><a href="/hotel/huangnan7802" title="黄南酒店">黄南</a></dd><dd><a href="/hotel/huangshan23" title="黄山酒店">黄山</a></dd><dd><a href="/hotel/huangshi292" title="黄石酒店">黄石</a></dd><dd><a href="/hotel/huizhou299" title="惠州酒店">惠州</a></dd><dd><a href="/hotel/huludao1050" title="葫芦岛酒店">葫芦岛</a></dd><dd><a href="/hotel/hulunbuir4255" title="呼伦贝尔酒店">呼伦贝尔</a></dd><dd><a href="/hotel/huocheng21354" title="霍城酒店">霍城</a></dd><dd><a href="/hotel/huzhou86" title="湖州酒店">湖州</a></dd></div></div><div class="des_cont" id="c_list_3" style="display:none" ><div class="custom_list"><dt>J</dt><dd><a href="/hotel/jiamusi317" title="佳木斯酒店">佳木斯</a></dd><dd><a href="/hotel/ji'an933" title="吉安酒店">吉安</a></dd><dd><a href="/hotel/jiangmen316" title="江门酒店">江门</a></dd><dd><a href="/hotel/jiaozuo1093" title="焦作酒店">焦作</a></dd><dd><a href="/hotel/jiaxing571" title="嘉兴酒店">嘉兴</a></dd><dd><a href="/hotel/jieyang956" title="揭阳酒店">揭阳</a></dd><dd><a href="/hotel/jilin159" title="吉林市酒店">吉林市</a></dd><dd><a href="/hotel/jinan144" title="济南酒店">济南</a></dd><dd><a href="/hotel/jinchang1158" title="金昌酒店">金昌</a></dd><dd><a href="/hotel/jincheng1092" title="晋城酒店">晋城</a></dd><dd><a href="/hotel/jingdezhen305" title="景德镇酒店">景德镇</a></dd><dd><a href="/hotel/jinghe2547" title="精河酒店">精河</a></dd><dd><a href="/hotel/jingmen1121" title="荆门酒店">荆门</a></dd><dd><a href="/hotel/jingzhou328" title="荆州酒店">荆州</a></dd><dd><a href="/hotel/jinhua308" title="金华酒店">金华</a></dd><dd><a href="/hotel/jining318" title="济宁酒店">济宁</a></dd><dd><a href="/hotel/jinzhong1453" title="晋中酒店">晋中</a></dd><dd><a href="/hotel/jinzhou327" title="锦州酒店">锦州</a></dd><dd><a href="/hotel/jiujiang24" title="九江酒店">九江</a></dd><dd><a href="/hotel/jiuquan662" title="酒泉酒店">酒泉</a></dd><dd><a href="/hotel/jixi157" title="鸡西酒店">鸡西</a></dd></div><div class="custom_list"><dt>K</dt><dd><a href="/hotel/kaifeng331" title="开封酒店">开封</a></dd><dd><a href="/hotel/kashi21358" title="喀什酒店">喀什</a></dd><dd><a href="/hotel/kezilesu21482" title="克孜勒苏酒店">克孜勒苏</a></dd><dd><a href="/hotel/kunming34" title="昆明酒店">昆明</a></dd></div><div class="custom_list"><dt>L</dt><dd><a href="/hotel/laibin1892" title="来宾酒店">来宾</a></dd><dd><a href="/hotel/langfang340" title="廊坊酒店">廊坊</a></dd><dd><a href="/hotel/lanzhou100" title="兰州酒店">兰州</a></dd><dd><a href="/hotel/leshan345" title="乐山酒店">乐山</a></dd><dd><a href="/hotel/lhasa41" title="拉萨酒店">拉萨</a></dd><dd><a href="/hotel/liangshanzhou7537" title="凉山酒店">凉山</a></dd><dd><a href="/hotel/lianyungang353" title="连云港酒店">连云港</a></dd><dd><a href="/hotel/liaocheng1071" title="聊城酒店">聊城</a></dd><dd><a href="/hotel/liaoyang351" title="辽阳酒店">辽阳</a></dd><dd><a href="/hotel/liaoyuan352" title="辽源酒店">辽源</a></dd><dd><a href="/hotel/lijiang37" title="丽江酒店">丽江</a></dd><dd><a href="/hotel/lincang1236" title="临沧酒店">临沧</a></dd><dd><a href="/hotel/linfen139" title="临汾酒店">临汾</a></dd><dd><a href="/hotel/linxia21892" title="临夏酒店">临夏</a></dd><dd><a href="/hotel/linyi569" title="临沂酒店">临沂</a></dd><dd><a href="/hotel/lishui346" title="丽水酒店">丽水</a></dd><dd><a href="/hotel/liupanshui605" title="六盘水酒店">六盘水</a></dd><dd><a href="/hotel/liuzhou354" title="柳州酒店">柳州</a></dd><dd><a href="/hotel/longnan7707" title="陇南酒店">陇南</a></dd><dd><a href="/hotel/longyan348" title="龙岩酒店">龙岩</a></dd><dd><a href="/hotel/loudi918" title="娄底酒店">娄底</a></dd><dd><a href="/hotel/luan1705" title="六安酒店">六安</a></dd><dd><a href="/hotel/luohe1088" title="漯河酒店">漯河</a></dd><dd><a href="/hotel/luoyang350" title="洛阳酒店">洛阳</a></dd><dd><a href="/hotel/luzhou355" title="泸州酒店">泸州</a></dd><dd><a href="/hotel/lvliang7631" title="吕梁酒店">吕梁</a></dd></div><div class="custom_list"><dt>M</dt><dd><a href="/hotel/ma'anshan1024" title="马鞍山酒店">马鞍山</a></dd><dd><a href="/hotel/maoming1105" title="茂名酒店">茂名</a></dd><dd><a href="/hotel/meishan1148" title="眉山酒店">眉山</a></dd><dd><a href="/hotel/meizhou3053" title="梅州酒店">梅州</a></dd><dd><a href="/hotel/mianyang370" title="绵阳酒店">绵阳</a></dd><dd><a href="/hotel/mudanjiang150" title="牡丹江酒店">牡丹江</a></dd></div></div><div class="des_cont" id="c_list_4" style="display:none" ><div class="custom_list"><dt>N</dt><dd><a href="/hotel/nanchang376" title="南昌酒店">南昌</a></dd><dd><a href="/hotel/nanchong377" title="南充酒店">南充</a></dd><dd><a href="/hotel/nanning380" title="南宁酒店">南宁</a></dd><dd><a href="/hotel/nanping606" title="南平酒店">南平</a></dd><dd><a href="/hotel/nantong82" title="南通酒店">南通</a></dd><dd><a href="/hotel/nanyang385" title="南阳酒店">南阳</a></dd><dd><a href="/hotel/naqu3839" title="那曲酒店">那曲</a></dd><dd><a href="/hotel/neijiang1597" title="内江酒店">内江</a></dd><dd><a href="/hotel/ningbo375" title="宁波酒店">宁波</a></dd><dd><a href="/hotel/ningde378" title="宁德酒店">宁德</a></dd><dd><a href="/hotel/nujiang1806" title="怒江酒店">怒江</a></dd><dd><a href="/hotel/nyingchi108" title="林芝酒店">林芝</a></dd></div><div class="custom_list"><dt>O</dt><dd><a href="/hotel/ordos3976" title="鄂尔多斯酒店">鄂尔多斯</a></dd></div><div class="custom_list"><dt>P</dt><dd><a href="/hotel/panjin387" title="盘锦酒店">盘锦</a></dd><dd><a href="/hotel/panzhihua1097" title="攀枝花酒店">攀枝花</a></dd><dd><a href="/hotel/pengxi2551" title="蓬溪酒店">蓬溪</a></dd><dd><a href="/hotel/pengzhou7550" title="彭州酒店">彭州</a></dd><dd><a href="/hotel/pingdingshan3222" title="平顶山酒店">平顶山</a></dd><dd><a href="/hotel/pingliang388" title="平凉酒店">平凉</a></dd><dd><a href="/hotel/pingxiang1840" title="萍乡酒店">萍乡</a></dd><dd><a href="/hotel/pu'er3996" title="普洱酒店">普洱</a></dd><dd><a href="/hotel/putian667" title="莆田酒店">莆田</a></dd><dd><a href="/hotel/puyang1232" title="濮阳酒店">濮阳</a></dd></div><div class="custom_list"><dt>Q</dt><dd><a href="/hotel/qamdo575" title="昌都酒店">昌都</a></dd><dd><a href="/hotel/qiandongnan21778" title="黔东南酒店">黔东南</a></dd><dd><a href="/hotel/qiannan21179" title="黔南酒店">黔南</a></dd><dd><a href="/hotel/qianxinan21613" title="黔西南酒店">黔西南</a></dd><dd><a href="/hotel/qingdao7" title="青岛酒店">青岛</a></dd><dd><a href="/hotel/qingyang404" title="庆阳酒店">庆阳</a></dd><dd><a href="/hotel/qingyuan1422" title="清远酒店">清远</a></dd><dd><a href="/hotel/qinhuangdao147" title="秦皇岛酒店">秦皇岛</a></dd><dd><a href="/hotel/qinzhou1899" title="钦州酒店">钦州</a></dd><dd><a href="/hotel/qiqihar149" title="齐齐哈尔酒店">齐齐哈尔</a></dd><dd><a href="/hotel/qitaihe1599" title="七台河酒店">七台河</a></dd><dd><a href="/hotel/quanzhou406" title="泉州酒店">泉州</a></dd><dd><a href="/hotel/qujing985" title="曲靖酒店">曲靖</a></dd><dd><a href="/hotel/quzhou407" title="衢州酒店">衢州</a></dd></div><div class="custom_list"><dt>R</dt><dd><a href="/hotel/rikaze92" title="日喀则酒店">日喀则</a></dd><dd><a href="/hotel/rizhao1106" title="日照酒店">日照</a></dd></div><div class="custom_list"><dt>S</dt><dd><a href="/hotel/sanmenxia436" title="三门峡酒店">三门峡</a></dd><dd><a href="/hotel/sanming437" title="三明酒店">三明</a></dd><dd><a href="/hotel/shangluo7551" title="商洛酒店">商洛</a></dd><dd><a href="/hotel/shangqiu441" title="商丘酒店">商丘</a></dd><dd><a href="/hotel/shangrao411" title="上饶酒店">上饶</a></dd><dd><a href="/hotel/shannan439" title="山南酒店">山南</a></dd><dd><a href="/hotel/shantou447" title="汕头酒店">汕头</a></dd><dd><a href="/hotel/shanwei1436" title="汕尾酒店">汕尾</a></dd><dd><a href="/hotel/shaoguan422" title="韶关酒店">韶关</a></dd><dd><a href="/hotel/shaoxing22" title="绍兴酒店">绍兴</a></dd><dd><a href="/hotel/shaoyang1111" title="邵阳酒店">邵阳</a></dd><dd><a href="/hotel/shenyang451" title="沈阳酒店">沈阳</a></dd><dd><a href="/hotel/shijiazhuang428" title="石家庄酒店">石家庄</a></dd><dd><a href="/hotel/shiyan452" title="十堰酒店">十堰</a></dd><dd><a href="/hotel/shizuishan4216" title="石嘴山酒店">石嘴山</a></dd><dd><a href="/hotel/shuangyashan1617" title="双鸭山酒店">双鸭山</a></dd><dd><a href="/hotel/shuozhou1317" title="朔州酒店">朔州</a></dd><dd><a href="/hotel/siping440" title="四平酒店">四平</a></dd><dd><a href="/hotel/songyuan1303" title="松原酒店">松原</a></dd><dd><a href="/hotel/suihua1128" title="绥化酒店">绥化</a></dd><dd><a href="/hotel/suining1371" title="遂宁酒店">遂宁</a></dd><dd><a href="/hotel/suizhou1117" title="随州酒店">随州</a></dd><dd><a href="/hotel/suqian1472" title="宿迁酒店">宿迁</a></dd><dd><a href="/hotel/suzhou14" title="苏州酒店">苏州</a></dd><dd><a href="/hotel/suzhou521" title="宿州酒店">宿州</a></dd></div></div><div class="des_cont" id="c_list_5" style="display:none" ><div class="custom_list"><dt>T</dt><dd><a href="/hotel/tacheng455" title="塔城酒店">塔城</a></dd><dd><a href="/hotel/taian454" title="泰安酒店">泰安</a></dd><dd><a href="/hotel/taiyuan105" title="太原酒店">太原</a></dd><dd><a href="/hotel/taizhou578" title="台州酒店">台州</a></dd><dd><a href="/hotel/taizhou579" title="泰州酒店">泰州</a></dd><dd><a href="/hotel/tangshan468" title="唐山酒店">唐山</a></dd><dd><a href="/hotel/tianshui464" title="天水酒店">天水</a></dd><dd><a href="/hotel/tieling1048" title="铁岭酒店">铁岭</a></dd><dd><a href="/hotel/tongchuan118" title="铜川酒店">铜川</a></dd><dd><a href="/hotel/tonghua456" title="通化酒店">通化</a></dd><dd><a href="/hotel/tongliao458" title="通辽酒店">通辽</a></dd><dd><a href="/hotel/tongling459" title="铜陵酒店">铜陵</a></dd><dd><a href="/hotel/tongren22033" title="铜仁酒店">铜仁</a></dd><dd><a href="/hotel/turpan40" title="吐鲁番市酒店">吐鲁番市</a></dd></div><div class="custom_list"><dt>U</dt><dd><a href="/hotel/ulanqab7518" title="乌兰察布酒店">乌兰察布</a></dd><dd><a href="/hotel/urumqi39" title="乌鲁木齐酒店">乌鲁木齐</a></dd></div><div class="custom_list"><dt>W</dt><dd><a href="/hotel/weifang475" title="潍坊酒店">潍坊</a></dd><dd><a href="/hotel/weihai479" title="威海酒店">威海</a></dd><dd><a href="/hotel/weinan1030" title="渭南酒店">渭南</a></dd><dd><a href="/hotel/wenshan20963" title="文山酒店">文山</a></dd><dd><a href="/hotel/wenzhou491" title="温州酒店">温州</a></dd><dd><a href="/hotel/wuhu478" title="芜湖酒店">芜湖</a></dd><dd><a href="/hotel/wuwei664" title="武威酒店">武威</a></dd><dd><a href="/hotel/wuxi13" title="无锡酒店">无锡</a></dd><dd><a href="/hotel/wuzhong7587" title="吴忠酒店">吴忠</a></dd><dd><a href="/hotel/wuzhou492" title="梧州酒店">梧州</a></dd></div><div class="custom_list"><dt>X</dt><dd><a href="/hotel/xi'an10" title="西安酒店">西安</a></dd><dd><a href="/hotel/xiangtan598" title="湘潭酒店">湘潭</a></dd><dd><a href="/hotel/xiangxi3910" title="湘西酒店">湘西</a></dd><dd><a href="/hotel/xiangyang496" title="襄阳酒店">襄阳</a></dd><dd><a href="/hotel/xianning937" title="咸宁酒店">咸宁</a></dd><dd><a href="/hotel/xianyang111" title="咸阳酒店">咸阳</a></dd><dd><a href="/hotel/xiaogan1490" title="孝感酒店">孝感</a></dd><dd><a href="/hotel/xilinguole7576" title="锡林郭勒盟酒店">锡林郭勒盟</a></dd><dd><a href="/hotel/xinganmeng21021" title="兴安盟酒店">兴安盟</a></dd><dd><a href="/hotel/xingtai947" title="邢台酒店">邢台</a></dd><dd><a href="/hotel/xining124" title="西宁酒店">西宁</a></dd><dd><a href="/hotel/xinxiang507" title="新乡酒店">新乡</a></dd><dd><a href="/hotel/xinyang510" title="信阳酒店">信阳</a></dd><dd><a href="/hotel/xinyu603" title="新余酒店">新余</a></dd><dd><a href="/hotel/xinzhou513" title="忻州酒店">忻州</a></dd><dd><a href="/hotel/xishuangbanna35" title="西双版纳酒店">西双版纳</a></dd><dd><a href="/hotel/xuancheng1006" title="宣城酒店">宣城</a></dd><dd><a href="/hotel/xuchang1094" title="许昌酒店">许昌</a></dd><dd><a href="/hotel/xuzhou512" title="徐州酒店">徐州</a></dd></div></div><div class="des_cont" id="c_list_6" style="display:none" ><div class="custom_list"><dt>Y</dt><dd><a href="/hotel/ya'an3277" title="雅安酒店">雅安</a></dd><dd><a href="/hotel/yan'an110" title="延安酒店">延安</a></dd><dd><a href="/hotel/yanbian867" title="延边酒店">延边</a></dd><dd><a href="/hotel/yancheng1200" title="盐城酒店">盐城</a></dd><dd><a href="/hotel/yangjiang692" title="阳江酒店">阳江</a></dd><dd><a href="/hotel/yangquan907" title="阳泉酒店">阳泉</a></dd><dd><a href="/hotel/yangzhou15" title="扬州酒店">扬州</a></dd><dd><a href="/hotel/yantai533" title="烟台酒店">烟台</a></dd><dd><a href="/hotel/yibin514" title="宜宾酒店">宜宾</a></dd><dd><a href="/hotel/yichang515" title="宜昌酒店">宜昌</a></dd><dd><a href="/hotel/yichun517" title="伊春酒店">伊春</a></dd><dd><a href="/hotel/yichun518" title="宜春酒店">宜春</a></dd><dd><a href="/hotel/yinchuan99" title="银川酒店">银川</a></dd><dd><a href="/hotel/yingkou1300" title="营口酒店">营口</a></dd><dd><a href="/hotel/yingtan534" title="鹰潭酒店">鹰潭</a></dd><dd><a href="/hotel/yiyang1125" title="益阳酒店">益阳</a></dd><dd><a href="/hotel/yongzhou970" title="永州酒店">永州</a></dd><dd><a href="/hotel/yueyang539" title="岳阳酒店">岳阳</a></dd><dd><a href="/hotel/yulin1113" title="玉林酒店">玉林</a></dd><dd><a href="/hotel/yulin527" title="榆林酒店">榆林</a></dd><dd><a href="/hotel/yuncheng140" title="运城酒店">运城</a></dd><dd><a href="/hotel/yunfu3933" title="云浮酒店">云浮</a></dd><dd><a href="/hotel/yushu21114" title="玉树酒店">玉树</a></dd><dd><a href="/hotel/yuxi186" title="玉溪酒店">玉溪</a></dd></div><div class="custom_list"><dt>Z</dt><dd><a href="/hotel/zaozhuang614" title="枣庄酒店">枣庄</a></dd><dd><a href="/hotel/zhangjiajie27" title="张家界酒店">张家界</a></dd><dd><a href="/hotel/zhangjiakou550" title="张家口酒店">张家口</a></dd><dd><a href="/hotel/zhangye663" title="张掖酒店">张掖</a></dd><dd><a href="/hotel/zhangzhou560" title="漳州酒店">漳州</a></dd><dd><a href="/hotel/zhanjiang547" title="湛江酒店">湛江</a></dd><dd><a href="/hotel/zhaoqing552" title="肇庆酒店">肇庆</a></dd><dd><a href="/hotel/zhaotong555" title="昭通酒店">昭通</a></dd><dd><a href="/hotel/zhengzhou559" title="郑州酒店">郑州</a></dd><dd><a href="/hotel/zhenjiang16" title="镇江酒店">镇江</a></dd><dd><a href="/hotel/zhongwei556" title="中卫酒店">中卫</a></dd><dd><a href="/hotel/zhoukou3221" title="周口酒店">周口</a></dd><dd><a href="/hotel/zhoushan19" title="舟山酒店">舟山</a></dd><dd><a href="/hotel/zhumadian551" title="驻马店酒店">驻马店</a></dd><dd><a href="/hotel/zhuzhou601" title="株洲酒店">株洲</a></dd><dd><a href="/hotel/zibo542" title="淄博酒店">淄博</a></dd><dd><a href="/hotel/zigong544" title="自贡酒店">自贡</a></dd><dd><a href="/hotel/ziyang1560" title="资阳酒店">资阳</a></dd><dd><a href="/hotel/zunyi558" title="遵义酒店">遵义</a></dd></div></div>
+<input type="hidden" id="cityId" name="cityId" value="0" />
+<input type="hidden" id="cityPY" name="cityPY" value="" />
+<input type="hidden" name="checkIn" value="2019-01-22"/>
+<input type="hidden" name="checkOut" value="2019-01-23" />
+<input type="hidden" id="page_id" name="page_id" value="102041">
+<input type="hidden" id="positionArea" name="positionArea"/>
+<input type="hidden" id="positionId" name="positionId"/>
+
+</div>
+
+
+
+ <!-- PageUrl for SEO:   aHR0cDovL2hvdGVscy5jdHJpcC5jb20vRG9tZXN0aWMvc2VvcGFnZS9jaXR5bGlzdC5hc3B4  -->
+
+
+<script type="text/ctrip-tpl" id="J_citySuggestion">
+    {{if (data = Help.format(data))}}{{/if}}
+    <div class="city_select_lhsl">
+        <a class="close" href="javascript:;">×</a>
+        <p class="title">支持中文/拼音/简拼输入</p>{{tmpl searchHistoryList }}
+        <ul class="tab_box">{{enum(key) data}}<li><span>${key}</span></li>{{/enum}}</ul>
+        {{enum(key,objs) data}}
+        <div class="city_item">
+            {{enum(k,arr) objs}}
+                {{if (k)}}
+                <div class="city_item_in">
+                    <span class="city_item_letter">${k}</span>
+                {{else}}
+                <div>
+                {{/if}}
+                {{each(index, item) arr}}<a href="javascript:void(0);" data="${item.data}">${item.display}</a>{{/each}}
+                </div>
+            {{/enum}}
+        </div>
+        {{/enum}}
+    </div>
+</script>
+<script type="text/ctrip-tpl" id="J_citySuggestionIPad">
+    {{if (data = Help.format($data.data))}}{{/if}}
+    <div class="city_select_lhsl">
+    <p class="title">
+        <a class="close CQ_suggestionClose" href="javascript:;">&times;</a></p>
+        <div class="key_word_key"><div class="CQ_suggestionKeyboard ico_key">显示键盘</div></div>
+        {{tmpl searchHistoryList}}
+        <ul class="tab_box CQ_suggestionTabContainer">
+            {{enum(key) data}}
+                <li class="CQ_suggestionTab"><span>${key}</span></li>
+            {{/enum}}
+        </ul>
+        {{enum(key,objs) data}}
+        <div class="city_item CQ_suggestionPanel">
+            {{enum(k,arr) objs}}
+                {{if (k)}}
+                <div class="city_item_in">
+                    <span class="city_item_letter">${k}</span>
+                {{else}}
+                <div>
+                {{/if}}
+                {{each(index, item) arr}}<a href="javascript:void(0);" data="${item.data}">${item.display}</a>{{/each}}
+                </div>
+            {{/enum}}
+        </div>
+        {{/enum}}
+     </div>
+</script>
+<script type="text/style" id="J_citySuggestionStyle">
+    .city_select_lhsl{width:408px;padding:10px;border:1px solid #999;background-color:#fff;}
+    .city_select_lhsl .close{float:right;width:20px;height:20px;color:#666;text-align:center;font:bold 16px/20px Simsun;}
+    .city_select_lhsl .close:hover{text-decoration:none;color:#FFA800;}
+    .city_select_lhsl .title{margin-bottom:10px;color:#999;}
+    .city_select_lhsl .tab_box{width:100%;height:22px;margin-bottom:6px;margin-top:0;border-bottom:2px solid #ccc;}
+    .city_select_lhsl .tab_box li{position:relative;float:left;display:inline;margin-right:2px;line-height:22px;cursor:pointer;}
+    .city_select_lhsl .tab_box li b{display:none;}
+    .city_select_lhsl .tab_box li span{padding:0 8px;}
+    .city_select_lhsl .tab_box .hot_selected{border-bottom:2px solid #06c;margin-bottom:-2px;font-weight:bold;color:#06c;}
+    .city_select_lhsl .tab_box .hot_selected b{position:absolute;top:23px;left:50%;display:block;width:0;height:0;margin-left:-5px;overflow:hidden;font-size:0;line-height:0;border-color:#06c transparent transparent transparent;border-style:solid dashed dashed dashed;border-width:5px;}
+    .city_select_lhsl .city_item, .city_select_lhsl .search_history_box {display:inline-block;*zoom:1;overflow:hidden;}
+    .city_select_lhsl .city_item{width:408px;}
+    .city_select_lhsl .city_item a, .city_select_lhsl .search_history_box a {float:left;display:inline;width:52px;height:22px;margin:0 2px 2px 0;padding-left:8px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;line-height:22px;color:#333;}
+    .city_select_lhsl .city_item a:hover,.city_select_lhsl .search_history_box a:hover{background-color:#2577E3;text-decoration:none;color:#fff;}
+    .city_item .city_item_in{width:378px;padding-left:30px;*zoom:1;}
+    .city_item .city_item_in:after,.city_select_lhsl .search_history_box:after{display:block;height:0;visibility:hidden;overflow:hidden;content:".";clear:both;}
+    .city_item .city_item_letter{float:left;width:30px;height:22px;margin-left:-30px;line-height:22px;text-align:center;color:#E56700;}
+    .city_select_lhsl .sarch_history_title{margin-bottom:2px;font-weight:bold;color:#06c;}
+    .city_select_lhsl .search_history_box{margin-bottom:6px;}
+</script>
+<script type="text/style" id="J_citySuggestionStyleIPad">
+    .city_select_lhsl{position:relative;width:520px;padding:10px;border:1px solid #999;background-color:#fff;font-size:16px;}
+    .key_word_key{height:48px;}
+    .ico_key,.ico_unkey{width:92px;height:43px;padding-left:65px;background:url(//pic.c-ctrip.com/ctripOnPad/un_key20131012.png) 10px 11px no-repeat;cursor:pointer;line-height:40px;font-size:18px;border-width:1px;border-style:solid;border-radius:3px;}
+    .ico_key{border-color:#f0f0f0 #cfcfcf #707070;box-shadow:0 1px 0 #cfcfcf,1px 0 0 0 #f0f0f0 inset,-1px 0 0 0 #f0f0f0 inset,0 -1px 0 0 #f0f0f0 inset;}
+    .ico_unkey{border-color:#898989 #e2e2e2 #e2e2e2;background-color:#f5f5f5;box-shadow:0 -1px 0 #e2e2e2,0 1px 0 #d1d1d1 inset;}
+    .city_select_lhsl .close{float:right;width:30px;height:30px;line-height:30px;text-align:center;color:#666;font:bold 22px/30px "Heiti SC","Heiti SC light",STHeiti,STXihei,sans-serif;}
+    .city_select_lhsl .title{position:absolute;z-index:1;top:10px;right:10px;color:#999;}
+    .city_select_lhsl .tab_box{height:30px;margin-bottom:10px;margin-top:0;border-bottom:2px solid #ccc;}
+    .city_select_lhsl .tab_box li{position:relative;z-index:1;float:left;display:inline;margin-right:10px;line-height:30px;cursor:pointer;}
+    .city_select_lhsl .tab_box li span{padding:0 8px;}
+    .city_select_lhsl .tab_box .hot_selected{border-bottom:2px solid #06c;margin-bottom:-2px;font-weight:bold;color:#06c;}
+    .city_select_lhsl .city_item{display:inline-block;width:520px;}
+    .city_select_lhsl .city_item a,.city_select_lhsl .search_history_box a{float:left;display:inline;width:70px;height:30px;margin:0 2px 10px 0;padding-left:8px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;line-height:30px;color:#333;}
+    .city_item .city_item_in{width:490px;padding-left:30px;min-height:40px;}
+    .city_item .city_item_in:after{display:block;height:0;visibility:hidden;overflow:hidden;content:".";clear:both;}
+    .city_item .city_item_letter{float:left;width:30px;height:30px;margin-left:-30px;line-height:30px;text-align:center;color:#E56700;}
+    .city_select_lhsl .sarch_history_title{margin-bottom:10px;font-weight:bold;color:#06c;}
+    .city_select_lhsl .search_history_box{margin-bottom:10px;}
+    .city_select_lhsl .search_history_box:after{display:block;clear:both;visibility:hidden;overflow:hidden;height:0;content:".";}
+    .city_select_lhsl .search_history_box a{margin-bottom:0;}
+</script>
+<script type="text/ctrip-tpl" id="J_cityFilter">
+    {{if $data.hasResult}}
+    <div class="keyword_prompting_lhsl city_suggestion_pop">
+        <p class="title">
+            <a class="close CQ_suggestionClose" href="javascript:;">×</a>
+            <span class="text_input">${$data.val}，</span>若需缩小范围，请输入更多条件。
+        </p>
+        {{if (obj = Help.groupCityFilterData($data.list))}}{{/if}}
+        {{if (city = obj.City || []).length}}
+            <div class="sug_item item_list_city">
+               {{each (i,item) city}}
+                    <a href="javascript:;" data="${item.data}">
+                        {{if (i == 0)}}<div class="sug_category">城市</div>{{/if}}
+                        {{if (arr=item.data.split("|"))}}{{/if}}
+                        <span class="city">{{tmpl Help.highlight(arr[7] + arr[5], $data.val)}}</span>
+                        <span class="num">${arr[3] || 0}家酒店</span>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+        {{if (district = obj.District || []).length}}
+            <div class="sug_item item_list_scenic">
+                {{each (i,item) district}}
+                    <a class="city_item" href="javascript:;" data="${item.data}">
+                        {{if (arr=item.data.split("|"))}}{{/if}}
+                        {{if (i == 0)}}<div class="sug_category">景区</div>{{/if}}
+                        <span class="city">{{tmpl Help.highlight(arr[1] + arr[5], $data.val)}}</span>
+                        <span class="num">${arr[3] || 0}家酒店</span>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+        {{if (sight = obj.Sight || []).length}}
+            <div class="sug_item item_list_attractions">
+                {{each (i,item) sight}}
+                    <a class="city_item" href="javascript:;" data="${item.data}">
+                        {{if (i == 0)}}<div class="sug_category">景点</div>{{/if}}
+                        {{if (arr=item.data.split("|"))}}{{/if}}
+                        <span class="city">{{tmpl Help.highlight(arr[7] + arr[5], $data.val)}}</span>
+                        <span class="num">${arr[3] || 0}家酒店</span>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+        {{if (loc = obj.Location || []).length}}
+            <div class="sug_item item_list_areaadmin">
+                {{each (i,item) loc}}
+                    <a class="city_item" href="javascript:;" data="${item.data}">
+                        {{if (i == 0)}}<div class="sug_category">行政区</div>{{/if}}
+                        {{if (arr=item.data.split("|"))}}{{/if}}
+                        <span class="city">{{tmpl Help.highlight(arr[7] + arr[5], $data.val)}}</span>
+                        <span class="num">${arr[3] || 0}家酒店</span>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+        {{if (domesticZone = obj.DomesticZone || []).length}}
+            <div class="sug_item item_list_business">
+                {{each (i,item) domesticZone}}
+                    <a href="javascript:;" data="${item.data}">
+                        {{if (i == 0)}}<div class="sug_category">商业区</div>{{/if}}
+                        {{if (arr=item.data.split("|"))}}{{/if}}
+                        <span class="city">{{tmpl Help.highlight(arr[7] + arr[5], $data.val)}}</span>
+                        <span class="num">${arr[3] || 0}家酒店</span>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+        {{if (airport = obj.Airport || []).length}}
+            <div class="sug_item item_list_airport">
+                {{each (i,item) airport}}
+                    <a href="javascript:;" data="${item.data}">
+                        {{if (i == 0)}}<div class="sug_category">机场</div>{{/if}}
+                        {{if (arr=item.data.split("|"))}}{{/if}}
+                        <span class="city">{{tmpl Help.highlight(arr[7] + arr[5], $data.val)}}</span>
+                        <span class="num">${arr[3] || 0}家酒店</span>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+        {{if (railwayStation = obj.RailwayStation || []).length}}
+            <div class="sug_item item_list_train">
+                {{each (i,item) railwayStation}}
+                    <a href="javascript:;" data="${item.data}">
+                        {{if (i == 0)}}<div class="sug_category">火车站</div>{{/if}}
+                        {{if (arr=item.data.split("|"))}}{{/if}}
+                        <span class="city">{{tmpl Help.highlight(arr[7] + arr[5], $data.val)}}</span>
+                        <span class="num">${arr[3] || 0}家酒店</span>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+        {{if $data.page.max>0}}
+            <div class="c_page_mini" style="display: block;">
+                {{if $data.page.current>0}}
+                    <a href="javascript:void(0);" page="${$data.page.current-1}">&lt;-</a>
+                {{/if}}
+                {{if $data.page.current<2}}
+                    {{loop(index) Math.min(5,$data.page.max+1)}}
+                        <a href="javascript:void(0);"{{if $data.page.current==index}} class="address_current"{{/if}} page="${index}">${index+1}</a>
+                    {{/loop}}
+                {{else $data.page.current>$data.page.max-2}}
+                    {{loop(index) Math.max(0,$data.page.max-4),$data.page.max+1}}
+                        <a href="javascript:void(0);"{{if $data.page.current==index}} class="address_current"{{/if}} page="${index}">${index+1}</a>
+                    {{/loop}}
+                {{else}}
+                    {{loop(index) Math.max(0,$data.page.current-2),Math.min($data.page.current+3,$data.page.max+1)}}
+                        <a href="javascript:void(0);"{{if $data.page.current==index}} class="address_current"{{/if}} page="${index}">${index+1}</a>
+                    {{/loop}}
+                {{/if}}
+               {{if $data.page.current<$data.page.max}}
+                    <a href="javascript:void(0);" page="${$data.page.current+1}">-&gt;</a>
+                {{/if}}
+            </div>
+        {{/if}}
+        {{if (scenicList = Help.getScenic(district))}}{{/if}}
+        {{if scenicList && scenicList.length}}
+            <div class="city_scenic_pic" style="width:400px;height:298px;left:399px;">
+                {{each (i,item) scenicList}}
+                    {{if (i==0)}}<img src="${item.pic}" width="400" height="298">{{/if}}
+                    <a href="javascript:;" data="${item.data}" style="position:absolute;top:${item.top}px;left:${item.left}px;text-decoration:none;">
+                        <div class="scenic_mark">
+                            <span class="scenic_map_num"></span>
+                            <div class="scenic_mark_inner"><span class="scenic_mark_name">${item.name}</span></div>
+                        </div>
+                    </a>
+                {{/each}}
+            </div>
+        {{/if}}
+    </div>
+    {{else}}
+    <div class="keyword_prompting_lhsl notfound_pop">
+        <p class="title"><a class="close CQ_suggestionClose" href="javascript:;">×</a>对不起，找不到：${$data.val}</p>
+    </div>
+    {{/if}}
+</script>
+<script type="text/style" id="J_cityFilterStyle">
+    .keyword_prompting_lhsl{width:398px; border:1px solid #999; background-color:#fff;}
+    .keyword_prompting_lhsl .title{height:26px; margin:0 10px 4px; padding:0 2px; border-bottom:1px dotted #ccc; line-height:26px; color:#999;}
+    .keyword_prompting_lhsl .close{float:right; width:26px; height:26px; font:bold 14px/26px Simsun; color:#666; text-align:center;}
+    .keyword_prompting_lhsl .close:hover { text-decoration:none; color:#FFA800; }
+    .keyword_prompting_lhsl .sug_item{padding-bottom: 5px; padding-top:5px; border-bottom: 1px solid #ccc; position:relative;*zoom:1;}
+    .keyword_prompting_lhsl .sug_item a{display:block; overflow:hidden; padding:5px 7px 5px 10px; color:#333;  line-height:18px; cursor:pointer;*zoom:1;}
+    .keyword_prompting_lhsl .sug_item .hover { background-color:#2577e3; color:#fff; text-decoration:none;}
+    .keyword_prompting_lhsl .sug_item .hover span, .keyword_prompting_lhsl .sug_item .hover b{color:#fff;}
+    .notfound_pop{ padding-bottom: 4px;}
+    .notfound_pop .title{ line-height:26px; overflow: hidden; margin:0 10px 4px; padding:0 2px; color: #c01111; border-bottom: 0 none;}
+    .notfound_pop .close{ margin-top: 2px;}
+    .keyword_prompting_lhsl .text_input { float:left; max-width:160px; _width:160px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
+    .keyword_prompting_lhsl .sug_item a:after{ clear:both; content:'.'; display:block; height:0; overflow:hidden; }
+    .keyword_prompting_lhsl .sug_item .num { float:left; width:75px; overflow: hidden; color:#999; text-align: right;}
+    .keyword_prompting_lhsl .sug_item .city { display:block; float: left; width:270px; padding-right:4px; overflow:hidden;}
+    .city_suggestion_pop .sug_item .city {width:195px; height:18px; white-space:nowrap; text-overflow:ellipsis;}
+    .keyword_prompting_lhsl .sug_item b{font-weight:bold; color:#06c; }
+    .keyword_prompting_lhsl .sug_category{ float:right; height:18px; line-height:18px; background-image:url(//pic.c-ctrip.com/hotels121118/ico_search_box_2.png); background-repeat: no-repeat;width:62px; padding-right:20px; padding-left:0; text-align:right;}
+    .keyword_prompting_lhsl .sug_category_hover{ color: #fff; background-color: #2577e3; background-position: right 6px; background-color:#2577e3; }
+    .keyword_prompting_lhsl .item_list_city .sug_category{background-position: right -33px;}
+    .keyword_prompting_lhsl .item_list_city .hover .sug_category{background-position: right 2px;}
+    .keyword_prompting_lhsl .item_list_airport .sug_category{background-position: right -105px;}
+    .keyword_prompting_lhsl .item_list_airport .hover .sug_category{background-position: right -67px;}
+    .keyword_prompting_lhsl .item_list_hotel .sug_category{background-position: right -165px;}
+    .keyword_prompting_lhsl .item_list_hotel .hover .sug_category{background-position: right -133px;}
+    .keyword_prompting_lhsl .item_list_landmarks .sug_category{background-position: right -204px;}
+    .keyword_prompting_lhsl .item_list_landmarks .hover .sug_category{background-position: right -238px;}
+    .keyword_prompting_lhsl .item_list_scenic .sug_category{background-position: right -271px;}
+    .keyword_prompting_lhsl .item_list_scenic .hover .sug_category{background-position: right -303px;}
+    .keyword_prompting_lhsl .item_list_traffic .sug_category{background-position: right -336px; padding-right:40px;}
+    .keyword_prompting_lhsl .item_list_traffic .hover .sug_category{background-position: right -372px;}
+    .keyword_prompting_lhsl .item_list_areaadmin .sug_category{background-position: right -410px;}
+    .keyword_prompting_lhsl .item_list_areaadmin .hover .sug_category{background-position: right -447px;}
+
+    .keyword_prompting_lhsl .item_list_train .sug_category{background-position: right -482px;}
+    .keyword_prompting_lhsl .item_list_train .hover .sug_category{background-position: right -518px;}
+
+    .keyword_prompting_lhsl .item_list_business .sug_category{background-position: right -557px;}
+    .keyword_prompting_lhsl .item_list_business .hover .sug_category{background-position: right -596px;}
+
+    .keyword_prompting_lhsl .item_list_attractions .sug_category{background-position: right -635px;}
+    .keyword_prompting_lhsl .item_list_attractions .hover .sug_category{background-position: right -674px;}
+
+    .city_suggestion_pop .sug_item .num {float:left; width:80px; overflow:hidden; color:#999; text-align:right;}
+    .city_suggestion_pop .city_scenic_pic{position:absolute; border:1px solid #999; display:none;}
+    .city_suggestion_pop .city_scenic_pic img{display:block;}
+    .city_suggestion_pop .scenic_mark{padding-left:21px;padding-top:1px;height:27px;overflow:hidden;cursor:default;white-space:nowrap; cursor:pointer;}
+    .city_suggestion_pop .scenic_mark .scenic_map_num{position:absolute;top:0;left:0;width:21px;height:27px;z-index:3;background: url(//pic.c-ctrip.com/hotels_seo/scenic_mark.png) no-repeat;_background: url(//pic.c-ctrip.com/hotels_seo/scenic_mark_ie6.png) no-repeat;}
+    .city_suggestion_pop .scenic_mark .scenic_map_num_hover{background: url(//pic.c-ctrip.com/hotels_seo/scenic_mark_hover.png) no-repeat;_background: url(//pic.c-ctrip.com/hotels_seo/scenic_mark_hover_ie6.png) no-repeat;}
+    .city_suggestion_pop .scenic_mark_inner{background-color:#fff;height:22px;line-height:22px;padding:0 10px 0 15px;;border:1px solid #A1A19D;border-left:0 none; border-top:none; border-top-right-radius:13px;border-bottom-right-radius:13px;box-shadow:2px 2px 2px 0 #ccc;position:relative;z-index:2;left:-10px;_display:inline; *zoom:1; color:#0f66cd; font-size:12px;}
+    .keyword_prompting_lhsl .c_page_mini { font: 12px/1.5 arial; margin:-1px 0 0; padding:6px 0; text-align: center; background:#fff; position:relative;}
+    .keyword_prompting_lhsl .c_page_mini a {display: inline-block; margin: 0;color: #06c;padding: 0 6px;font:14px/1.5 Tahoma, Arial, Simsun, sans-serif;text-decoration: underline;}
+    .keyword_prompting_lhsl .c_page_mini .c_page_mini_current{ color: #666;text-decoration: none;cursor: default;}
+</script>
+<script src="//webresource.c-ctrip.com/code/cquery/LABjs/Lab.js" charset="utf-8" type="text/javascript"></script>
+<script type="text/javascript">
+    // 跨城市的景区
+    var ScenicData = {
+        "D10264_21001": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_bs.jpg",
+            "top": 76,
+            "left": 250,
+            "name": "坝上，克什克腾旗"
+        },
+        "D10072_7840": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_bs.jpg",
+            "top": 192,
+            "left": 155,
+            "name": "坝上，沽源"
+        },
+        "D10072_20914": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_bs.jpg",
+            "top": 145,
+            "left": 260,
+            "name": "坝上，围场"
+        },
+        "D10072_1474": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_bs.jpg",
+            "top": 235,
+            "left": 248,
+            "name": "坝上，丰宁"
+        },
+        "D10072_21790": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_bs.jpg",
+            "top": 215,
+            "left": 78,
+            "name": "坝上，张北"
+        },
+
+        "91": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_jzg.jpg",
+            "top": 64,
+            "left": 267,
+            "name": "九寨沟，阿坝"
+        },
+        "D25_1372": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_jzg.jpg",
+            "top": 154,
+            "left": 241,
+            "name": "九寨沟，松潘"
+        },
+
+        "D105_37": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_hgh.jpg",
+            "top": 156,
+            "left": 92,
+            "name": "泸沽湖，丽江"
+        },
+
+        "D10322_21433": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_ms.jpg",
+            "top": 162,
+            "left": 137,
+            "name": "莽山，宜章"
+        },
+        "D10322_612": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_ms.jpg",
+            "top": 205,
+            "left": 139,
+            "name": "莽山，郴州"
+        },
+
+        "D281_7807": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_qhh.jpg",
+            "top": 74,
+            "left": 204,
+            "name": "青海湖，海北"
+        },
+        "D281_7752": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_qhh.jpg",
+            "top": 162,
+            "left": 326,
+            "name": "青海湖，海东"
+        },
+        "D281_7794": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_qhh.jpg",
+            "top": 234,
+            "left": 115,
+            "name": "青海湖，海南"
+        },
+
+        "D10215_3886": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_cbs.jpg",
+            "top": 174,
+            "left": 214,
+            "name": "长白山池西，白山"
+        },
+        "D10216_1466": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_cbs.jpg",
+            "top": 118,
+            "left": 238,
+            "name": "长白山池北，安图"
+        },
+        "D2603_13": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_th.jpg",
+            "top": 98,
+            "left": 155,
+            "name": "太湖，无锡"
+        },
+        "D2603_14": {
+            "pic": "//pic.c-ctrip.com/hotels_seo/scenic_th.jpg",
+            "top": 158,
+            "left": 181,
+            "name": "太湖，苏州"
+        }
+    };
+    var config = {
+        selectCityTips: '请选择酒店所在城市',
+        cityPlaceholder: '中文/拼音',
+        noExistCity: '目的地{city}不存在'
+    };
+
+    $LAB.script({ src: '//webresource.c-ctrip.com/code/cquery/cQuery_110421.src.js', charset: 'utf-8' }).wait()
+        .script({ src: '//webresource.c-ctrip.com/ResHotelOnline/R1/search/js.merge/base-bmap.js?releaseno=2019-01-22-09-03-46', charset: 'utf-8' }).wait()
+.script({ src: '//webresource.c-ctrip.com/ResHotelOnline/R1/search/js.merge/citylist.js?releaseno=2019-01-22-09-03-46', charset: 'utf-8' }).wait();
+</script>
+
+    </form>
+    <div id="base_ft">
+<p>
+<a href="http://pages.ctrip.com/public/sitemap/sitemap.htm" target="_blank" title="网站导航">网站导航</a>&nbsp;|&nbsp;<a href="http://hotels.ctrip.com/jiudian/" target="_blank" title="宾馆索引">宾馆索引</a>&nbsp;|&nbsp;<a href="http://flights.ctrip.com/booking/hot-city-flights-sitemap.html " target="_blank" title="机票索引">机票索引</a>&nbsp;|&nbsp;<a href="http://pages.ctrip.com/public/sitemap/dj.html" title="旅游索引">旅游索引</a>&nbsp;|&nbsp;<a href="http://ct.ctrip.com/crptravel/sitemap.html" title="商旅索引">商旅索引</a>&nbsp;|&nbsp;<a title="攻略索引" href="http://you.ctrip.com/sitemap/">攻略索引</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/ctripab/abctrip.htm" target="_blank" title="关于携程">关于携程</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201201/other/qygm/index.html" title="企业公民">企业公民</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://job.ctrip.com/" title="诚聘英才">诚聘英才</a>&nbsp;|&nbsp;<a rel="nofollow" title="智慧旅游" href="http://you.ctrip.com/Intelligence.html">智慧旅游</a>&nbsp; |&nbsp;<a rel="nofollow" target="_blank" href="http://u.ctrip.com/" title="分销联盟">分销联盟</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/dlhz.htm" title="代理合作">代理合作</a>&nbsp;|&nbsp;<a target="_blank" href="http://ct.ctrip.com" title="企业商旅">企业商旅</a>&nbsp;|&nbsp;<a target="_blank" href="http://ct.ctrip.com/crptravel/default/landing" title="中小企业差旅">中小企业差旅</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/ctripad/adyw.htm" title="广告业务">广告业务</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/contact.htm" title="联系我们">联系我们</a>
+</p>
+<p>
+<a rel="nofollow" href="http://pages.c-ctrip.com/cooperation/web/cooperation.html#ctm_ref=ctr_hp_btm_coop" target="_blank">加盟合作</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://join.easytrip.com/jiameng/#ctm_ref=ctr_def_btm_hsu_n_1" target="_blank" title="酒店加盟">酒店加盟</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://dst.ctrip.com/">目的地及景区合作</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="用户协议">用户协议</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="隐私政策">隐私政策</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/diploma/company.htm">营业执照</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://m.ctrip.com/webapp/vacations/tour/supplier" title="旅游度假资质">旅游度假资质</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="https://insurance.ctrip.com/portal/index.aspx">保险代理</a>&nbsp;|&nbsp;<a target="_blank" href="http://pages.ctrip.com/public/link/ctrip_link.html">友情链接</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/copyright.htm" id="copyright">Copyright&copy;</a>,&nbsp;<a href="http://www.ctrip.com/">ctrip.com</a>. All rights reserved.&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">ICP证：沪B2-20050130</a>
+</p>
+<p class="gns">
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010502002731"><i class="icon-gns"></i>沪公网备31010502002731号</a>
+</p>
+<div class="honour_wrap">
+<a href="http://www.ca-sme.com/index.credit?action=certDetail&amp;id=40288084605466f1016057ea4cb20021" class="honour1" target="_blank" rel="nofollow">信用评级</a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20110428175405415" title="工商亮照标识" class="honour2" target="_blank" rel="nofollow">上海工商</a><a href="http://credit.szfw.org/CX20111018000615000623.html" title="诚信认证示范企业" class="honour3" target="_blank" rel="nofollow">诚信网站</a><a href="http://www.zx110.org/" class="honour4" target="_blank" rel="nofollow" title="征信网">网络社会征信网</a><a href="http://www.shjbzx.cn/" class="honour5" target="_blank" rel="nofollow" title="上海市互联网违法与违规信息举报中心">信息举报中心</a><a href="https://ss.knet.cn/verifyseal.dll?sn=e12061531010025926306977" class="honour6" target="_blank" rel="nofollow" title="可信网站">可信网站</a><a href="http://www.12377.cn/" class="honour8" title="违法和不良信息举报中心" target="_blank" rel="nofollow">违法和不良信息举报中心</a>
+</div>
+</div><config id="timespan" value="20160329"></config><!--InstanceEnd name="position"-->
+<script type="text/javascript">var globalConfig={H1:'https',AjaxUrl:'accounts.ctrip.com',H3:'my.ctrip.com',PassportUrl:'passport.ctrip.com',Lang:'gb2312'};</script><script type="text/javascript" src="//webresource.c-ctrip.com/ResCRMOnline/R1/pageheader/js/ActivityController.js?temp=-481,903,944" charset="utf-8"></script>
+
+</body>
+</html>
