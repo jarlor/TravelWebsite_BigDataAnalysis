@@ -24,10 +24,11 @@ public class Task {
      * @return
      * @throws IOException
      */
-    public Document getHtml2(String filePath) throws IOException{
-        /**********   Begin   **********/
-        Document document = Jsoup.parse(new File(filePath),"UTF-8");
-        return document;
+        public Document getHtml2(String filePath) throws IOException{
+            /**********   Begin   **********/
+            Document doc = Jsoup.parse(new File(filePath),"UTF-8");
+
+            return doc;
         /**********   End   **********/
     }
 }
