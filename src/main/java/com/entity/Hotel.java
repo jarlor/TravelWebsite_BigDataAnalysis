@@ -1,8 +1,6 @@
 package com.entity;
 
 public class Hotel {
-    /*adssdasd */
-    /*dasd*/
 
     private String id;
 
