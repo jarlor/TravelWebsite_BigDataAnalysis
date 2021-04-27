@@ -17,7 +17,7 @@
 	"shortName": "",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/6742485.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/6742485.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "路氹路氹连贯公路，近路氹金光大道。 （ 凼仔）",
 	"city_id": "59",
@@ -37,7 +37,7 @@
 	"shortName": "喜来登",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/346382.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/346382.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "澳门半岛葡京路2-4号，近罗理基博士大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -57,7 +57,7 @@
 	"shortName": "葡京",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/371379.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/371379.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "路氹体育馆大马路，近射击路。 （ 凼仔）",
 	"city_id": "59",
@@ -77,7 +77,7 @@
 	"shortName": "美高梅",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/14794556.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/14794556.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "路氹氹仔东亚运大马路924-998号，赛马会旁。 （ 凼仔）",
 	"city_id": "59",
@@ -97,7 +97,7 @@
 	"shortName": "罗斯福",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/8074538.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/8074538.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "澳门半岛孙逸仙大马路，渔人码头广场内。 （ 澳门半岛）",
 	"city_id": "59",
@@ -106,7 +106,7 @@
 	"dpcount": 10068,
 	"dpscore": 98,
 	"id": "1181591",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g1/M06/D5/25/CghzflTHLBuAVImqAAdV73ewWzE099_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g1/M06/D5/25/CghzflTHLBuAVImqAAdV73ewWzE099_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.187405,
 	"lon": 113.561114,
@@ -117,7 +117,7 @@
 	"shortName": "励庭海景",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/1181591.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/1181591.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "路氹澳门路氹连贯公路，比邻莲花大桥，连接横琴岛的出入境检查站。 （ 路凼）",
 	"city_id": "59",
@@ -137,7 +137,7 @@
 	"shortName": "新濠影汇",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/2572033.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/2572033.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "路氹澳门路氹体育馆大马路西50米，近飞机场圆形地。 （ 凼仔）",
 	"city_id": "59",
@@ -157,7 +157,7 @@
 	"shortName": "永利皇宮",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/5605870.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/5605870.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "澳门半岛新口岸友谊大马路555号，近上海街宋玉生广场对面。 （ 澳门半岛）",
 	"city_id": "59",
@@ -177,7 +177,7 @@
 	"shortName": "置地广场",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/425795.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/425795.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "澳门半岛内港巴素打尔古街，近新马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -186,7 +186,7 @@
 	"dpcount": 12295,
 	"dpscore": 98,
 	"id": "345811",
-	"img": "//dimg10.c-ctrip.com/images/hotel/62000/61851/37c518d9e3ef4054bb70f525f5946230_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/62000/61851/37c518d9e3ef4054bb70f525f5946230_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.194251,
 	"lon": 113.541096,
@@ -197,7 +197,7 @@
 	"shortName": "索菲特",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/345811.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/345811.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "澳门半岛罗理基博士大马路70-106号，与贾罗布大马路交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -217,7 +217,7 @@
 	"shortName": "富豪",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/419374.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/419374.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "澳门半岛澳门新口岸广州街63号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -226,7 +226,7 @@
 	"dpcount": 4123,
 	"dpscore": 97,
 	"id": "436450",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g3/M03/9A/B6/CggYG1X6WDiAIXt7AAMgSWdsZDU286_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g3/M03/9A/B6/CggYG1X6WDiAIXt7AAMgSWdsZDU286_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.187544,
 	"lon": 113.551151,
@@ -237,7 +237,7 @@
 	"shortName": "财神酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436450.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/436450.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "澳门半岛上海街51号，近友谊大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -257,7 +257,7 @@
 	"shortName": "帝濠",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/396332.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/396332.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "澳门半岛友谊大马路956-1110号，近柏林街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -266,7 +266,7 @@
 	"dpcount": 4054,
 	"dpscore": 99,
 	"id": "371377",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g3/M0B/D6/65/CggYGlX9wDqADsRrAANRzy_F9bM838_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g3/M0B/D6/65/CggYGlX9wDqADsRrAANRzy_F9bM838_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.1896,
 	"lon": 113.558647,
@@ -277,7 +277,7 @@
 	"shortName": "金丽华",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/371377.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/371377.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "澳门半岛澳门孙逸仙大马路945号，近伦斯泰特大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -286,7 +286,7 @@
 	"dpcount": 3076,
 	"dpscore": 99,
 	"id": "345805",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g2/M02/25/5F/Cghzf1W1vg-AaL7JAANJY4j27EY004_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g2/M02/25/5F/Cghzf1W1vg-AaL7JAANJY4j27EY004_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.182338,
 	"lon": 113.551823,
@@ -297,7 +297,7 @@
 	"shortName": "文华东方",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/345805.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/345805.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "澳门半岛新口岸北京街199号，北京街与上海街交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -306,7 +306,7 @@
 	"dpcount": 7809,
 	"dpscore": 98,
 	"id": "344991",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g3/M01/F0/6D/CggYG1YV4QqADycyAB6A93QfA1g828_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g3/M01/F0/6D/CggYG1YV4QqADycyAB6A93QfA1g828_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.189322,
 	"lon": 113.553352,
@@ -317,7 +317,7 @@
 	"shortName": "维景",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/344991.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/344991.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
 }, {
 	"address": "路氹路氹城“澳门银河“综合渡假城，路氹城大马路与莲花海滨大马路交界。 （ 凼仔）",
 	"city_id": "59",
@@ -326,7 +326,7 @@
 	"dpcount": 8903,
 	"dpscore": 99,
 	"id": "2005951",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g6/M04/74/59/CggYtFcwKN2AVSyNAAaqEetGDh0703_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g6/M04/74/59/CggYtFcwKN2AVSyNAAaqEetGDh0703_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.145953,
 	"lon": 113.558657,
@@ -337,7 +337,7 @@
 	"shortName": "JW万豪",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/2005951.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
+	"url": "/hotelInfo/2005951.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
 }, {
 	"address": "路氹澳门氹仔望德圣母湾大马路。 （ 凼仔）",
 	"city_id": "59",
@@ -357,7 +357,7 @@
 	"shortName": "四季",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/419823.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
+	"url": "/hotelInfo/419823.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
 }, {
 	"address": "澳门半岛马六甲街，近友谊大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -377,7 +377,7 @@
 	"shortName": "金龙",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/345757.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
+	"url": "/hotelInfo/345757.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
 }, {
 	"address": "澳门半岛商业大马路288号，近苏亚利斯博士大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -386,7 +386,7 @@
 	"dpcount": 7285,
 	"dpscore": 99,
 	"id": "387391",
-	"img": "//dimg11.c-ctrip.com/images/hotel/26000/25555/B7E94F4A-0AA9-48E7-BB05-21D27431DFF6_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/26000/25555/B7E94F4A-0AA9-48E7-BB05-21D27431DFF6_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.187627,
 	"lon": 113.545984,
@@ -397,7 +397,7 @@
 	"shortName": "英皇娱乐",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/387391.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
+	"url": "/hotelInfo/387391.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
 }, {
 	"address": "澳门半岛约翰四世大马路，近殷皇子大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -406,7 +406,7 @@
 	"dpcount": 5902,
 	"dpscore": 98,
 	"id": "436486",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g3/M06/0B/9E/CggYGlYCsCaANTFQAAKPwsHizEA146_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g3/M06/0B/9E/CggYGlYCsCaANTFQAAKPwsHizEA146_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.18816,
 	"lon": 113.546589,
@@ -417,7 +417,7 @@
 	"shortName": "新丽华",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436486.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
+	"url": "/hotelInfo/436486.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
 }, {
 	"address": "路氹路氹城，路氹城大马路，路氹城大马路与莲花海滨大马路交界。 （ 凼仔）",
 	"city_id": "59",
@@ -426,7 +426,7 @@
 	"dpcount": 14268,
 	"dpscore": 99,
 	"id": "344983",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g3/M01/73/9A/CggYGVXnsJ6AFLJNABSkSdzcwV0690_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g3/M01/73/9A/CggYGVXnsJ6AFLJNABSkSdzcwV0690_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.148,
 	"lon": 113.55722,
@@ -437,7 +437,7 @@
 	"shortName": "银河酒店",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344983.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
+	"url": "/hotelInfo/344983.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
 }, {
 	"address": "路氹路氹连贯公路金光大道，靠近莲花海滨大马路。 （ 凼仔）",
 	"city_id": "59",
@@ -457,7 +457,7 @@
 	"shortName": "瑞吉金沙城",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/2649166.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
+	"url": "/hotelInfo/2649166.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
 }, {
 	"address": "路氹凼仔柯维纳总督马路142号，与佛山街交界处。 （ 凼仔）",
 	"city_id": "59",
@@ -477,7 +477,7 @@
 	"shortName": "君怡",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/455509.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
+	"url": "/hotelInfo/455509.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
 }, {
 	"address": "路氹氹仔嘉乐庇总督大马路822号，近美副将马路。 （ 凼仔）",
 	"city_id": "59",
@@ -490,14 +490,14 @@
 	"isSingleRec": false,
 	"lat": 22.15352,
 	"lon": 113.565482,
-	"name": "澳门盛世酒店(Inn hotel Macau)",
+	"name": "澳门盛世酒店(Inn hotelInfo Macau)",
 	"pinyin": "macau",
 	"price": 472,
 	"score": 4.5,
 	"shortName": "盛世酒店",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/345759.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
+	"url": "/hotelInfo/345759.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
 }, {
 	"address": "路氹凼仔市区沙维斯街，近柯维纳马路。 （ 凼仔）",
 	"city_id": "59",
@@ -506,7 +506,7 @@
 	"dpcount": 4576,
 	"dpscore": 96,
 	"id": "345755",
-	"img": "//dimg12.c-ctrip.com/images/hotel/63000/62985/0FAF0FCB-BA91-4292-8095-70CDC37D7F8D_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/63000/62985/0FAF0FCB-BA91-4292-8095-70CDC37D7F8D_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.154555,
 	"lon": 113.555991,
@@ -517,7 +517,7 @@
 	"shortName": "骏龙酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/345755.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/345755.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "路氹澳门路氹连贯公路，近伟龙马路。 （ 凼仔）",
 	"city_id": "59",
@@ -537,7 +537,7 @@
 	"shortName": "迎尚酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436290.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/436290.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "澳门半岛新口岸高美士街230号，靠近厦门街，近澳门理工学院。 （ 澳门半岛）",
 	"city_id": "59",
@@ -557,7 +557,7 @@
 	"shortName": "兰桂坊",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/6672182.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/6672182.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "澳门半岛东方明珠街，君悦湾第七座，近友谊桥大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -577,7 +577,7 @@
 	"shortName": "皇冠假日",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/3386088.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/3386088.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "澳门半岛罗理基博士大马路1118号，近马六甲街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -586,7 +586,7 @@
 	"dpcount": 2707,
 	"dpscore": 98,
 	"id": "345753",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g6/M0A/DF/2A/CggYslcxM9uAHEC6ABIhUpwH8so493_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g6/M0A/DF/2A/CggYslcxM9uAHEC6ABIhUpwH8so493_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.193692,
 	"lon": 113.558915,
@@ -597,7 +597,7 @@
 	"shortName": "皇家金堡",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/345753.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/345753.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "澳门半岛新口岸北京街82-86号，上海街、北京街交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -606,7 +606,7 @@
 	"dpcount": 3622,
 	"dpscore": 96,
 	"id": "425157",
-	"img": "//dimg10.c-ctrip.com/images/hotel/8000/7269/68CF04C1-4F6C-4288-8B78-5FCA1DD3BB1D_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/8000/7269/68CF04C1-4F6C-4288-8B78-5FCA1DD3BB1D_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.188356,
 	"lon": 113.552487,
@@ -617,7 +617,7 @@
 	"shortName": "澳门假日",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/425157.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/425157.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "路氹凼仔史伯泰海军将军马路2号。 （ 凼仔）",
 	"city_id": "59",
@@ -637,7 +637,7 @@
 	"shortName": "丽景湾",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/436478.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/436478.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "路氹南部游艇码头临近西提园形地。 （ 凼仔）",
 	"city_id": "59",
@@ -646,7 +646,7 @@
 	"dpcount": 4996,
 	"dpscore": 98,
 	"id": "2038055",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g1/M06/93/C7/CghzfFU-7xCAJBwRAAGD1zREgAQ496_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g1/M06/93/C7/CghzfFU-7xCAJBwRAAGD1zREgAQ496_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.142315,
 	"lon": 113.556931,
@@ -657,7 +657,7 @@
 	"shortName": "百老汇",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/2038055.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/2038055.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "路氹氹仔南部路填海区莲花海滨路。 （ 凼仔）",
 	"city_id": "59",
@@ -666,7 +666,7 @@
 	"dpcount": 2386,
 	"dpscore": 93,
 	"id": "759079",
-	"img": "//dimg10.c-ctrip.com/images/hotel/759000/758995/52d89ce26ae64adf99b360583f7bbd64_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/759000/758995/52d89ce26ae64adf99b360583f7bbd64_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.146755,
 	"lon": 113.55568,
@@ -677,7 +677,7 @@
 	"shortName": "皇庭海景",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/759079.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/759079.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "澳门半岛新口岸高美士街33号，近何贤公园。 （ 澳门半岛）",
 	"city_id": "59",
@@ -697,7 +697,7 @@
 	"shortName": "利澳",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/425804.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/425804.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "路氹连贯公路新濠天地。 （ 凼仔）",
 	"city_id": "59",
@@ -717,7 +717,7 @@
 	"shortName": "君悦",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344985.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/344985.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "澳门半岛友谊大马路355号，近广州街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -726,7 +726,7 @@
 	"dpcount": 2667,
 	"dpscore": 91,
 	"id": "428259",
-	"img": "//dimg12.c-ctrip.com/images/t1/hotel/704000/703793/186f543a709149739485426363fec33a_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/t1/hotelInfo/704000/703793/186f543a709149739485426363fec33a_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.187335,
 	"lon": 113.55208,
@@ -737,7 +737,7 @@
 	"shortName": "总统酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/428259.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/428259.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "路氹路氹城大马路，莲花海滨大马路交界。 （ 凼仔）",
 	"city_id": "59",
@@ -746,7 +746,7 @@
 	"dpcount": 3752,
 	"dpscore": 99,
 	"id": "419325",
-	"img": "//dimg13.c-ctrip.com/images/hotel/90000/89651/337086e566974ba08e8cafa5a26d9656_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/90000/89651/337086e566974ba08e8cafa5a26d9656_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.147909,
 	"lon": 113.557276,
@@ -757,7 +757,7 @@
 	"shortName": "大仓",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/419325.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/419325.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "澳门半岛澳门友谊大马路1071号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -766,7 +766,7 @@
 	"dpcount": 4339,
 	"dpscore": 95,
 	"id": "694632",
-	"img": "//dimg12.c-ctrip.com/images/t1/hotel/695000/694632/c14cc731abc6494aba1a6dfeb77ad232_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/t1/hotelInfo/695000/694632/c14cc731abc6494aba1a6dfeb77ad232_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.190316,
 	"lon": 113.55807,
@@ -777,7 +777,7 @@
 	"shortName": "华都",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/694632.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/694632.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "澳门半岛新口岸皇朝区城市日大马路，与圣德伦街交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -786,7 +786,7 @@
 	"dpcount": 6223,
 	"dpscore": 99,
 	"id": "699384",
-	"img": "//dimg10.c-ctrip.com/images/hotel/77000/76257/56992154-F7FB-4041-89DD-45575935CCDC_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/77000/76257/56992154-F7FB-4041-89DD-45575935CCDC_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.185593,
 	"lon": 113.553458,
@@ -797,7 +797,7 @@
 	"shortName": "凯旋门酒店",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/699384.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/699384.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "澳门半岛新口岸皇朝区柏嘉街，近伦斯泰特大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -806,7 +806,7 @@
 	"dpcount": 1640,
 	"dpscore": 98,
 	"id": "2801651",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g4/M01/45/23/CggYHFY5CU6AGlEeAA_v_zfk2h4584_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g4/M01/45/23/CggYHFY5CU6AGlEeAA_v_zfk2h4584_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.183638,
 	"lon": 113.555303,
@@ -817,7 +817,7 @@
 	"shortName": "雅诗阁",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/2801651.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/2801651.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
 }, {
 	"address": "路氹路环黑沙马路1918号，近九澳高顶公园。 （ 路环）",
 	"city_id": "59",
@@ -837,7 +837,7 @@
 	"shortName": "海天度假",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/392651.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
+	"url": "/hotelInfo/392651.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
 }, {
 	"address": "澳门半岛俾利喇街98-102号，近高士德大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -846,7 +846,7 @@
 	"dpcount": 1372,
 	"dpscore": 90,
 	"id": "436460",
-	"img": "//dimg13.c-ctrip.com/images/hotel/8000/7215/E686C0D305F24436B4A2CB819E49689A_R_300_225.Jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/8000/7215/E686C0D305F24436B4A2CB819E49689A_R_300_225.Jpg",
 	"isSingleRec": false,
 	"lat": 22.199376,
 	"lon": 113.551912,
@@ -857,7 +857,7 @@
 	"shortName": "富华酒店",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/436460.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
+	"url": "/hotelInfo/436460.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
 }, {
 	"address": "路氹澳门氹仔鸡颈马路1166A至1166E号，澳门国际机场对面。 （ 凼仔）",
 	"city_id": "59",
@@ -866,7 +866,7 @@
 	"dpcount": 977,
 	"dpscore": 91,
 	"id": "531723",
-	"img": "//dimg10.c-ctrip.com/images/hotel/532000/531723/457df44154d248df9597e9c3b71e6267_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/532000/531723/457df44154d248df9597e9c3b71e6267_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.155469,
 	"lon": 113.579042,
@@ -877,7 +877,7 @@
 	"shortName": "中国大酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/531723.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
+	"url": "/hotelInfo/531723.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
 }, {
 	"address": "澳门半岛友谊大马路澳门渔人码头，友谊大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -897,7 +897,7 @@
 	"shortName": "励宫",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/6656512.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
+	"url": "/hotelInfo/6656512.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
 }, {
 	"address": "澳门半岛果亚街61-77号，近风顺堂街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -917,7 +917,7 @@
 	"shortName": "澳门御龙",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/14087838.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
+	"url": "/hotelInfo/14087838.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
 }, {
 	"address": "澳门半岛松山马路1-5号，东望洋巷、得胜斜路交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -926,7 +926,7 @@
 	"dpcount": 2452,
 	"dpscore": 98,
 	"id": "425995",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g4/M01/DF/F0/CggYHFZfyhGAVNoyAAUf3v-Uqgw121_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g4/M01/DF/F0/CggYHFZfyhGAVNoyAAUf3v-Uqgw121_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.193049,
 	"lon": 113.553757,
@@ -937,7 +937,7 @@
 	"shortName": "东望洋",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/425995.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
+	"url": "/hotelInfo/425995.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
 }, {
 	"address": "澳门半岛南湾大马路493-501号，南湾大马路，殷皇子大马路交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -946,7 +946,7 @@
 	"dpcount": 3588,
 	"dpscore": 97,
 	"id": "436553",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g1/M09/67/13/CghzfFUkpVyAJFVEAAPgO-ip9Rw111_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g1/M09/67/13/CghzfFUkpVyAJFVEAAPgO-ip9Rw111_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.189489,
 	"lon": 113.545297,
@@ -957,7 +957,7 @@
 	"shortName": "京都",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/436553.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
+	"url": "/hotelInfo/436553.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
 }, {
 	"address": "澳门半岛黑沙环拱形马路118号，拱形马路、莲峰街交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -966,7 +966,7 @@
 	"dpcount": 1041,
 	"dpscore": 90,
 	"id": "1970848",
-	"img": "//dimg11.c-ctrip.com/images/hotel/78000/77806/9de7cf18b38344b2ab03df2eb610dbc1_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/78000/77806/9de7cf18b38344b2ab03df2eb610dbc1_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.20704,
 	"lon": 113.553633,
@@ -977,7 +977,7 @@
 	"shortName": "维多利亚",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/1970848.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
+	"url": "/hotelInfo/1970848.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
 }, {
 	"address": "路氹金沙城中心澳门路氹金光大道，路氹连贯公路附近。 （ 凼仔）",
 	"city_id": "59",
@@ -997,7 +997,7 @@
 	"shortName": "康莱德",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/371381.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
+	"url": "/hotelInfo/371381.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
 }, {
 	"address": "澳门半岛高可宁绅士街7-13号，与竹室正街交界处。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1006,7 +1006,7 @@
 	"dpcount": 3708,
 	"dpscore": 97,
 	"id": "425997",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g4/M09/78/A6/CggYHFYJLz6AKojnACG2Ua8JVqk435_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g4/M09/78/A6/CggYHFYJLz6AKojnACG2Ua8JVqk435_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.183298,
 	"lon": 113.54055,
@@ -1017,7 +1017,7 @@
 	"shortName": "濠璟",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/425997.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/425997.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "路氹路氹城“澳门银河“综合渡假城，路氹城大马路与莲花海滨大马路交界。 （ 凼仔）",
 	"city_id": "59",
@@ -1037,7 +1037,7 @@
 	"shortName": "丽思卡尔顿",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/2010726.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/2010726.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "澳门半岛亚美打利庇卢大马路(新马路)488号，近亚美打利庇卢大马路(新馬路舊金碧對面)。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1057,7 +1057,7 @@
 	"shortName": "新东方",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/15064348.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/15064348.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "澳门半岛得胜马路2-4号，近华士古达嘉玛花园对面。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1066,7 +1066,7 @@
 	"dpcount": 2879,
 	"dpscore": 98,
 	"id": "532028",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g4/M05/F8/D3/CggYHlXb_oyADiMrAAD8-1QAZiY055_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g4/M05/F8/D3/CggYHlXb_oyADiMrAAD8-1QAZiY055_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.193136,
 	"lon": 113.552504,
@@ -1077,7 +1077,7 @@
 	"shortName": "皇都",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/532028.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/532028.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "澳门半岛澳門司打口14-16号，近下环街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1086,7 +1086,7 @@
 	"dpcount": 4153,
 	"dpscore": 98,
 	"id": "455397",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g4/M06/7D/85/CggYHlXoTvKAckzmAA9OX67Uyn4837_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g4/M06/7D/85/CggYHlXoTvKAckzmAA9OX67Uyn4837_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.190887,
 	"lon": 113.541156,
@@ -1097,7 +1097,7 @@
 	"shortName": "最佳西方",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/455397.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/455397.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "澳门半岛新埗头街1A号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1110,14 +1110,14 @@
 	"isSingleRec": false,
 	"lat": 22.193479,
 	"lon": 113.542162,
-	"name": "澳门东亚酒店(East Asia hotel)",
+	"name": "澳门东亚酒店(East Asia hotelInfo)",
 	"pinyin": "macau",
 	"price": 419,
 	"score": 4,
 	"shortName": "东亚酒店",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/734009.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/734009.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "澳门半岛海边新街96-126号，近泗码头。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1137,7 +1137,7 @@
 	"shortName": "",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/12625782.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/12625782.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "澳门半岛哪咤庙斜巷6-6A号，银座广场停车场旁。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1146,7 +1146,7 @@
 	"dpcount": 3668,
 	"dpscore": 97,
 	"id": "998414",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g6/M05/03/56/CggYslcUi0uAOxJiAAY4JmmipPA156_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g6/M05/03/56/CggYslcUi0uAOxJiAAY4JmmipPA156_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.192003,
 	"lon": 113.547236,
@@ -1157,7 +1157,7 @@
 	"shortName": "镇兴",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/998414.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/998414.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "澳门半岛林茂巷8号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1177,7 +1177,7 @@
 	"shortName": "港湾",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/998294.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/998294.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "澳门半岛燕主教街8号，近巴素打尔古街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1197,7 +1197,7 @@
 	"shortName": "怡富酒店",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/15899529.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/15899529.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "澳门半岛约翰四世大马路8-10号，近南湾巷口。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1217,7 +1217,7 @@
 	"shortName": "遇莲客栈",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/2638240.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/2638240.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "澳门半岛澳门渔人码头，近孙逸仙大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1237,7 +1237,7 @@
 	"shortName": "莱斯酒店",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/535777.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/535777.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "澳门半岛白眼塘横街（福隆下街）43-45号，近钜记饼家总店。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1257,7 +1257,7 @@
 	"shortName": "澳莱大三元",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/533866.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/533866.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "澳门半岛福隆新街73号地下，近手信街，新马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1277,7 +1277,7 @@
 	"shortName": "大利迎宾馆",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/2706048.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/2706048.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "澳门半岛福隆新街71号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1297,7 +1297,7 @@
 	"shortName": "高华",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/4839022.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/4839022.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "路氹氹仔告利雅施利华街146号，新陶陶居斜对面。 （ 凼仔）",
 	"city_id": "59",
@@ -1317,7 +1317,7 @@
 	"shortName": "亚洲精品",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/1771323.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/1771323.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
 }, {
 	"address": "澳门半岛澳门火船头街162号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1326,7 +1326,7 @@
 	"dpcount": 585,
 	"dpscore": 97,
 	"id": "763241",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g4/M04/13/E0/CggYHlYxGQOABYrqAAknXPhScKE387_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g4/M04/13/E0/CggYHlYxGQOABYrqAAknXPhScKE387_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.191862,
 	"lon": 113.540845,
@@ -1337,7 +1337,7 @@
 	"shortName": "万事发",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/763241.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
+	"url": "/hotelInfo/763241.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
 }, {
 	"address": "澳门半岛澳门南湾巷4号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1346,7 +1346,7 @@
 	"dpcount": 221,
 	"dpscore": 89,
 	"id": "3660004",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g4/M06/C8/BF/CggYHFbC72mAedOhAAG3FGdl-i0435_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g4/M06/C8/BF/CggYHFbC72mAedOhAAG3FGdl-i0435_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.189356,
 	"lon": 113.548009,
@@ -1357,7 +1357,7 @@
 	"shortName": "家逸酒店",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/3660004.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
+	"url": "/hotelInfo/3660004.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
 }, {
 	"address": "澳门半岛镜湖马路36-38号，近美华大厦。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1366,7 +1366,7 @@
 	"dpcount": 1179,
 	"dpscore": 88,
 	"id": "2213850",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g3/M00/D7/9B/CggYG1ZgCXKAZSRuAAMAw4qVCZs706_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g3/M00/D7/9B/CggYG1ZgCXKAZSRuAAMAw4qVCZs706_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.194711,
 	"lon": 113.548737,
@@ -1377,7 +1377,7 @@
 	"shortName": "假期酒店",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/2213850.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
+	"url": "/hotelInfo/2213850.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
 }, {
 	"address": "路氹广东大马路，近孙逸仙博士大马路。 （ 凼仔）",
 	"city_id": "59",
@@ -1386,7 +1386,7 @@
 	"dpcount": 502,
 	"dpscore": 100,
 	"id": "1522818",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g3/M07/B5/31/CggYGlYQK66AeDrqAAyrGvyS0gQ727_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g3/M07/B5/31/CggYGlYQK66AeDrqAAyrGvyS0gQ727_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.158576,
 	"lon": 113.560159,
@@ -1397,7 +1397,7 @@
 	"shortName": "新濠锋",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/1522818.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
+	"url": "/hotelInfo/1522818.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
 }, {
 	"address": "澳门半岛贾伯乐提督街77号，沙嘉都喇贾罢丽街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1417,7 +1417,7 @@
 	"shortName": "天丽宾馆",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/1530516.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
+	"url": "/hotelInfo/1530516.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
 }, {
 	"address": "澳门半岛澳门新马路平线里2号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1437,7 +1437,7 @@
 	"shortName": "富都",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/6519852.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
+	"url": "/hotelInfo/6519852.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
 }, {
 	"address": "澳门半岛司打口4-6号，近火船头大街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1457,7 +1457,7 @@
 	"shortName": "澳莱英京",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/436447.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
+	"url": "/hotelInfo/436447.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
 }, {
 	"address": "澳门半岛十月初五街177-179号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1477,7 +1477,7 @@
 	"shortName": "康泰",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/4845516.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
+	"url": "/hotelInfo/4845516.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
 }, {
 	"address": "澳门半岛福隆下街30号，近澳门金碧娱乐中心后面，白眼塘横街，近大三巴牌坊。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1486,7 +1486,7 @@
 	"dpcount": 478,
 	"dpscore": 90,
 	"id": "608541",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g4/M02/E8/39/CggYHFX9fTiASof4AA_dGdfleg4518_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g4/M02/E8/39/CggYHFX9fTiASof4AA_dGdfleg4518_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.192326,
 	"lon": 113.542128,
@@ -1497,7 +1497,7 @@
 	"shortName": "文华",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/608541.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
+	"url": "/hotelInfo/608541.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
 }, {
 	"address": "澳门半岛新马路583号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1506,7 +1506,7 @@
 	"dpcount": 173,
 	"dpscore": 80,
 	"id": "2857759",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g3/M01/5D/96/CggYG1Y6aDWAT79eAAJ_UXLr8GA074_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g3/M01/5D/96/CggYG1Y6aDWAT79eAAJ_UXLr8GA074_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.193159,
 	"lon": 113.541837,
@@ -1517,7 +1517,7 @@
 	"shortName": "",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/2857759.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/2857759.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "澳门半岛沙梨头海边街86号D2楼，土地庙前地。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1537,7 +1537,7 @@
 	"shortName": "豪华宾馆",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/1497739.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/1497739.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "路氹澳门路环竹湾海滩旁，新黑沙马路。 （ 路环）",
 	"city_id": "59",
@@ -1546,7 +1546,7 @@
 	"dpcount": 594,
 	"dpscore": 97,
 	"id": "667136",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g4/M0B/92/E5/CggYHFX53PKAARvHAAPPT08kUnE776_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g4/M0B/92/E5/CggYHFX53PKAARvHAAPPT08kUnE776_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.111291,
 	"lon": 113.566431,
@@ -1557,7 +1557,7 @@
 	"shortName": "竹湾",
 	"star": "hotel_diamond03",
 	"stardesc": "舒适型",
-	"url": "/hotel/667136.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/667136.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "澳门半岛贡士旦甸奴街8号，近粤通码头。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1566,7 +1566,7 @@
 	"dpcount": 285,
 	"dpscore": 95,
 	"id": "2705996",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g3/M03/13/5D/CggYGVXezIWARBRKAAEUgKhMels157_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g3/M03/13/5D/CggYGVXezIWARBRKAAEUgKhMels157_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.193661,
 	"lon": 113.541933,
@@ -1577,7 +1577,7 @@
 	"shortName": "",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/2705996.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/2705996.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "澳门半岛道德巷1号（岐关车站侧），河边新街。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1597,7 +1597,7 @@
 	"shortName": "濠江",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/698118.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/698118.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "澳门半岛澳门福隆新巷10号清平大楼2楼，近清平巷。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1617,7 +1617,7 @@
 	"shortName": "",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/6760532.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/6760532.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "澳门半岛澳门南湾大堂斜巷5号（全座）时代商业中心后面，近南湾大马路。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1637,7 +1637,7 @@
 	"shortName": "嘉华",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/23413700.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/23413700.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "恋爱巷7号。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1657,7 +1657,7 @@
 	"shortName": "",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/19830893.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/19830893.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "路氹氹仔金光大道望德圣母湾大马路，近路氹连贯公路交界。 （ 凼仔）",
 	"city_id": "59",
@@ -1677,7 +1677,7 @@
 	"shortName": "威尼斯人",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344977.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/344977.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "澳门半岛葡京路，殷皇子大马路与葡京路交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1686,7 +1686,7 @@
 	"dpcount": 7426,
 	"dpscore": 99,
 	"id": "436487",
-	"img": "//dimg11.c-ctrip.com/images/hotel/66000/65895/5D9CB969-71A5-4F79-96F8-DC415A8764E9_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/66000/65895/5D9CB969-71A5-4F79-96F8-DC415A8764E9_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.187917,
 	"lon": 113.548503,
@@ -1697,7 +1697,7 @@
 	"shortName": "新葡京",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/436487.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/436487.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "路氹路氹连贯公路，近伟龙马路。 （ 凼仔）",
 	"city_id": "59",
@@ -1717,7 +1717,7 @@
 	"shortName": "摩珀斯",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/19606012.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/19606012.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "路氹连贯公路，近伟龙马路。 （ 凼仔）",
 	"city_id": "59",
@@ -1737,7 +1737,7 @@
 	"shortName": "新濠天地",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/1410226.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/1410226.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "澳门半岛友谊大马路，近仙德丽街、葡京酒店对面。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1746,7 +1746,7 @@
 	"dpcount": 668,
 	"dpscore": 99,
 	"id": "534123",
-	"img": "//dimg13.c-ctrip.com/images/hotel/49000/48450/5a408e1c61ea4b3ea03216c917d6b1e1_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/49000/48450/5a408e1c61ea4b3ea03216c917d6b1e1_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.186666,
 	"lon": 113.553259,
@@ -1757,7 +1757,7 @@
 	"shortName": "星际",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/534123.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/534123.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "澳门半岛蒙地卡罗前地203号，罗白沙街连胜马路交界。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1777,7 +1777,7 @@
 	"shortName": "金沙",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/371384.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/371384.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "澳门半岛新埗头街金豪大厦7号2,3楼全层。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1797,7 +1797,7 @@
 	"shortName": "",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/4331498.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/4331498.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "澳门半岛司打口群兴街4号3楼。 （ 澳门半岛）",
 	"city_id": "59",
@@ -1817,5 +1817,5 @@
 	"shortName": "",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/5084794.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/5084794.html?isFull=T#ctm_ref=hod_sr_map_dl_txt_16"
 }]

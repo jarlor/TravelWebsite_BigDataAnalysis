@@ -218,7 +218,7 @@
 </li>
 <li class="divider "></li>
 <li id="ul_c_ph_taocanj_h">
-<a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotel">酒店+景点</a>
+<a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotelInfo">酒店+景点</a>
 </li>
 <li class="divider "></li>
 <li id="ul_c_ph_inn_h">
@@ -233,7 +233,7 @@
 <a id="c_ph_meeting_h" href="http://meeting.ctrip.com/?channel=1#ctm_ref=mtg_meeting_2dh">会议</a>
 </li>
 </ul>
-<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotel"></i>酒店订单 &gt;</a>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotelInfo"></i>酒店订单 &gt;</a>
 </div>
 </li>
 <li class="divider "></li>
@@ -623,7 +623,7 @@
 <a rel="nofollow" href="https://secure.ctrip.com/webwallet/index#ctm_ref=ssc_hp_myctrip_wallet_a">携程钱包</a>
 </li>
 <li>
-<a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotel/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a">收藏</a>
+<a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotelInfo/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a">收藏</a>
 </li>
 <li>
 <a rel="nofollow" href="https://smarket.ctrip.com/Promocode/zh-cn/Promocode.aspx#ctm_ref=ssc_hp_myctrip_integral_a">票券与积分</a>
@@ -2981,7 +2981,7 @@
             var gnw = "";
             if (INTERFACE.isChina || isOverseas) {
                 gnw = "hod";
-                urlhead = "http://hotels.ctrip.com/hotel/";
+                urlhead = "http://hotels.ctrip.com/hotelInfo/";
             } else {
                 gnw = "hoi";
                 urlhead = "http://hotels.ctrip.com/international/";

@@ -17,7 +17,7 @@
 	"shortName": "皇悦卓越",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/24403644.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/24403644.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "东区铜锣湾永兴街8A，近电气道。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -37,7 +37,7 @@
 	"shortName": "皇悦卓越",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/6023614.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/6023614.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "油尖旺尖沙嘴 金巴利道62号，近天文台道香港教会众会所旁。 （ 尖沙咀）",
 	"city_id": "58",
@@ -46,7 +46,7 @@
 	"dpcount": 15954,
 	"dpscore": 97,
 	"id": "426593",
-	"img": "//dimg11.c-ctrip.com/images/hotel/20000/19955/57604ffeeb7b4c3c846efff9379ca4a5_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/20000/19955/57604ffeeb7b4c3c846efff9379ca4a5_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.298299,
 	"lon": 114.180007,
@@ -57,7 +57,7 @@
 	"shortName": "皇悦酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/426593.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/426593.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "湾仔轩尼诗道33号，近骆克道分域街交界。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -66,7 +66,7 @@
 	"dpcount": 12905,
 	"dpscore": 98,
 	"id": "426549",
-	"img": "//dimg10.c-ctrip.com/images/hotel/13000/12544/34bdab3a104d4bbd87f61b949756264d_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/13000/12544/34bdab3a104d4bbd87f61b949756264d_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.275213,
 	"lon": 114.175086,
@@ -77,7 +77,7 @@
 	"shortName": "皇悦酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/426549.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/426549.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "元朗天水围 天恩路18号，近天龙路，轻铁银座站对面。 （ 元朗）",
 	"city_id": "58",
@@ -86,7 +86,7 @@
 	"dpcount": 16997,
 	"dpscore": 98,
 	"id": "436835",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g4/M05/3C/45/CggYHFaqwuOAJ1J4AAlZXZEyqcY691_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g4/M05/3C/45/CggYHFaqwuOAJ1J4AAlZXZEyqcY691_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.454475,
 	"lon": 114.009172,
@@ -97,7 +97,7 @@
 	"shortName": "嘉湖海逸",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436835.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/436835.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "东区铜锣湾永兴街8号，近电气道。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -106,7 +106,7 @@
 	"dpcount": 12594,
 	"dpscore": 97,
 	"id": "426551",
-	"img": "//dimg10.c-ctrip.com/images/hotel/66000/65521/8b999d53e56a46aa9ed2d61173ce355e_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/66000/65521/8b999d53e56a46aa9ed2d61173ce355e_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.282324,
 	"lon": 114.196923,
@@ -117,7 +117,7 @@
 	"shortName": "皇悦",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/426551.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/426551.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "中西区中环九如坊3号，近莲香酒楼。 （ 西环、上环中环、金钟）",
 	"city_id": "58",
@@ -126,7 +126,7 @@
 	"dpcount": 1955,
 	"dpscore": 97,
 	"id": "371391",
-	"img": "//dimg12.c-ctrip.com/images/hotel/45000/44705/BA728E50-B8CF-430B-A32C-ED7AC0D433A6_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/45000/44705/BA728E50-B8CF-430B-A32C-ED7AC0D433A6_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.28159,
 	"lon": 114.158155,
@@ -137,7 +137,7 @@
 	"shortName": "九如坊",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/371391.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/371391.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "荃湾香港九龙葵涌健全街28号，近健全街路口。 （ 荃湾）",
 	"city_id": "58",
@@ -146,7 +146,7 @@
 	"dpcount": 5600,
 	"dpscore": 96,
 	"id": "778134",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g3/M0B/64/BA/CggYG1Y7B5aAT8hUACI7Q-lOi9E361_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g3/M0B/64/BA/CggYG1Y7B5aAT8hUACI7Q-lOi9E361_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.367636,
 	"lon": 114.135108,
@@ -157,7 +157,7 @@
 	"shortName": "荃湾帝盛",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/778134.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/778134.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "荃湾油柑头青山公路123号，近悠丽路。 （ 荃湾）",
 	"city_id": "58",
@@ -177,7 +177,7 @@
 	"shortName": "汀兰居",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/852906.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/852906.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "油尖旺九龙尖沙咀金马伦道22-24号东丽中心，尖沙咀港鐵站B2出口直走150米右手邊。 （ 尖沙咀）",
 	"city_id": "58",
@@ -197,7 +197,7 @@
 	"shortName": "连锁酒店",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/643732.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/643732.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "油尖旺香港九龙弥敦道34-40号重庆大厦4-5楼A座，近么地道。 （ 尖沙咀）",
 	"city_id": "58",
@@ -217,7 +217,7 @@
 	"shortName": "",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/6839034.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/6839034.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "油尖旺香港九龙尖沙咀弥敦道80号金銮大厦15字楼A室。 （ 尖沙咀）",
 	"city_id": "58",
@@ -237,7 +237,7 @@
 	"shortName": "香港天一旅舍金銮店",
 	"star": "",
 	"stardesc": "经济型",
-	"url": "/hotel/5980208.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/5980208.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "中西区中环皇后大道中74号（与士丹利街21号交叉口），近砵典乍街。 （ 中环、金钟）",
 	"city_id": "58",
@@ -246,7 +246,7 @@
 	"dpcount": 418,
 	"dpscore": 98,
 	"id": "1000587",
-	"img": "//dimg10.c-ctrip.com/images/hotel/791000/790262/0b9d494e93f14533b93cb91fe21058d7_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/791000/790262/0b9d494e93f14533b93cb91fe21058d7_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.280016,
 	"lon": 114.160379,
@@ -257,7 +257,7 @@
 	"shortName": "石板街酒店",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/1000587.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/1000587.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "油尖旺九龙尖沙咀金巴利道16号香槟大厦1字楼 (美丽华商场对面)，近加拿芬道。 （ 尖沙咀）",
 	"city_id": "58",
@@ -277,7 +277,7 @@
 	"shortName": "大都",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/1292302.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/1292302.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "油尖旺九龙尖沙咀漆咸道南117号，近柯士甸路 ( 香港历史博物馆)。 （ 尖沙咀）",
 	"city_id": "58",
@@ -286,7 +286,7 @@
 	"dpcount": 3779,
 	"dpscore": 97,
 	"id": "2037118",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g1/M02/8E/7F/CghzflWbUPyAFCsPAAqq752jBbU416_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g1/M02/8E/7F/CghzflWbUPyAFCsPAAqq752jBbU416_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.299003,
 	"lon": 114.181353,
@@ -297,7 +297,7 @@
 	"shortName": "珀荟酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/2037118.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/2037118.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "油尖旺九龙弥敦道385号平安大厦7字楼1室，与甘肃街交叉口。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -317,7 +317,7 @@
 	"shortName": "金岛",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/686176.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/686176.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
 }, {
 	"address": "九龙佐敦弥敦道322-326A百乐大厦，长乐街。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -337,7 +337,7 @@
 	"shortName": "百乐宾馆",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/1002535.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
+	"url": "/hotelInfo/1002535.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
 }, {
 	"address": "油尖旺尖沙咀弥敦道83-97号华源大厦8字楼B1室，近海防道。 （ 尖沙咀）",
 	"city_id": "58",
@@ -357,7 +357,7 @@
 	"shortName": "",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/1854731.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
+	"url": "/hotelInfo/1854731.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
 }, {
 	"address": "油尖旺九龙旺角弥敦道737号金轮大厦16字楼D室，近弼街。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -377,7 +377,7 @@
 	"shortName": "8天时尚",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/708649.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
+	"url": "/hotelInfo/708649.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
 }, {
 	"address": "九龙城佐敦弥敦道240-252号立信大厦9字楼A室，近德兴街。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -397,7 +397,7 @@
 	"shortName": "金怡",
 	"star": "hotel_diamond02",
 	"stardesc": "经济型",
-	"url": "/hotel/668629.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
+	"url": "/hotelInfo/668629.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
 }, {
 	"address": "荃湾荃湾 杨屋道8号，近大河道、荃湾西站D出口。 （ 荃湾）",
 	"city_id": "58",
@@ -410,14 +410,14 @@
 	"isSingleRec": false,
 	"lat": 22.366322,
 	"lon": 114.11795,
-	"name": "香港如心海景酒店暨会议中心(L‘hotel Nina Et Convention Centre)",
+	"name": "香港如心海景酒店暨会议中心(L‘hotelInfo Nina Et Convention Centre)",
 	"pinyin": "hong kong",
 	"price": 594,
 	"score": 4.5,
 	"shortName": "如心",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/436824.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
+	"url": "/hotelInfo/436824.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
 }, {
 	"address": "油尖旺九龙尖沙咀广东道3号海港城，近梳士巴利道。 （ 尖沙咀）",
 	"city_id": "58",
@@ -426,7 +426,7 @@
 	"dpcount": 14231,
 	"dpscore": 97,
 	"id": "396356",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g4/M04/A3/78/CggYHFXrjZ2AIgiSAAq6j3FiOCY772_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g4/M04/A3/78/CggYHFXrjZ2AIgiSAAq6j3FiOCY772_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.292178,
 	"lon": 114.173361,
@@ -437,7 +437,7 @@
 	"shortName": "马哥孛罗",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/396356.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
+	"url": "/hotelInfo/396356.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
 }, {
 	"address": "中西区中环 金融街8号，近国际金融中心。 （ 中环、金钟）",
 	"city_id": "58",
@@ -457,7 +457,7 @@
 	"shortName": "四季",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/425551.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
+	"url": "/hotelInfo/425551.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
 }, {
 	"address": "湾仔铜锣湾告士打道281号，近谢斐道世贸中心旁。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -466,7 +466,7 @@
 	"dpcount": 6613,
 	"dpscore": 98,
 	"id": "425559",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g3/M05/D6/CB/CggYGlX9zaOAYpz7AAL7grL3DNo389_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g3/M05/D6/CB/CggYGlX9zaOAYpz7AAL7grL3DNo389_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.279204,
 	"lon": 114.189304,
@@ -477,7 +477,7 @@
 	"shortName": "怡东",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/425559.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
+	"url": "/hotelInfo/425559.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
 }, {
 	"address": "湾仔铜锣湾告士打道310号，近京士顿街珠城大厦对面。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -486,7 +486,7 @@
 	"dpcount": 6553,
 	"dpscore": 98,
 	"id": "346244",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g4/M07/6C/B0/CggYHVYzaCKAH-C9ABjETvTzUEA103_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g4/M07/6C/B0/CggYHVYzaCKAH-C9ABjETvTzUEA103_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.27835,
 	"lon": 114.191224,
@@ -497,7 +497,7 @@
 	"shortName": "柏宁",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/346244.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
+	"url": "/hotelInfo/346244.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
 }, {
 	"address": "油尖旺尖沙嘴北京道8号，近广东道力宝太阳广场旁。 （ 尖沙咀）",
 	"city_id": "58",
@@ -517,7 +517,7 @@
 	"shortName": "朗廷",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344937.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/344937.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "油尖旺尖沙咀梳士巴利道，近弥敦道中间道交界。 （ 尖沙咀）",
 	"city_id": "58",
@@ -537,7 +537,7 @@
 	"shortName": "半岛酒店",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/425083.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/425083.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "离岛大屿山香港迪士尼乐园度假区。 （ 香港迪士尼乐园度假区）",
 	"city_id": "58",
@@ -557,7 +557,7 @@
 	"shortName": "迪士尼",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/385221.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/385221.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "油尖旺尖沙嘴 广东道33号，近港威大厦。 （ 尖沙咀）",
 	"city_id": "58",
@@ -566,7 +566,7 @@
 	"dpcount": 19444,
 	"dpscore": 98,
 	"id": "436832",
-	"img": "//dimg12.c-ctrip.com/images/hotel/437000/436832/4ab88e38824243fb80f16c63a4923d6a_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/437000/436832/4ab88e38824243fb80f16c63a4923d6a_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.297175,
 	"lon": 114.172614,
@@ -577,7 +577,7 @@
 	"shortName": "皇家太平洋",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436832.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/436832.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "中西区金钟中区法院道太古广场，近香港公园。 （ 中环、金钟）",
 	"city_id": "58",
@@ -597,7 +597,7 @@
 	"shortName": "香格里拉",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344948.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/344948.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "油尖旺九龙 柯士甸道西1号环球贸易广场，近柯士甸道西，连翔道交界。 （ 西九龙）",
 	"city_id": "58",
@@ -606,7 +606,7 @@
 	"dpcount": 3284,
 	"dpscore": 99,
 	"id": "344926",
-	"img": "//dimg12.c-ctrip.com/images/fd/hotel/g6/M0B/A0/6F/CggYtFcW3HyAUvopAAd7MRxfPqQ282_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/fd/hotelInfo/g6/M0B/A0/6F/CggYtFcW3HyAUvopAAd7MRxfPqQ282_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.30069,
 	"lon": 114.165168,
@@ -617,7 +617,7 @@
 	"shortName": "丽思卡尔顿",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344926.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/344926.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "油尖旺尖沙嘴弥敦道50号，近么地道重庆大厦旁。 （ 尖沙咀）",
 	"city_id": "58",
@@ -637,7 +637,7 @@
 	"shortName": "金域假日",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/392668.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/392668.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "油尖旺尖沙咀梳士巴利道18号，近星光大道新世界中心旁。 （ 尖沙咀）",
 	"city_id": "58",
@@ -646,7 +646,7 @@
 	"dpcount": 3700,
 	"dpscore": 99,
 	"id": "425077",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g3/M05/EB/06/CggYGlYAhhyAGpGMAADEOSSyDE8431_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g3/M05/EB/06/CggYGlYAhhyAGpGMAADEOSSyDE8431_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.290668,
 	"lon": 114.178922,
@@ -657,7 +657,7 @@
 	"shortName": "洲际",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/425077.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/425077.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "油尖旺弥敦道 20 号，近弥敦道，梳士巴利道交界。 （ 尖沙咀）",
 	"city_id": "58",
@@ -666,7 +666,7 @@
 	"dpcount": 6714,
 	"dpscore": 97,
 	"id": "385224",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g5/M08/80/2E/CggYsFcZ2fGAabp4AAJCnDFSDTA077_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g5/M08/80/2E/CggYsFcZ2fGAabp4AAJCnDFSDTA077_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.292511,
 	"lon": 114.177665,
@@ -677,7 +677,7 @@
 	"shortName": "喜来登",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/385224.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/385224.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "离岛迪士尼乐园度假区，近神奇道。 （ 香港迪士尼乐园度假区）",
 	"city_id": "58",
@@ -697,7 +697,7 @@
 	"shortName": "探索家",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/7011522.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/7011522.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "油尖旺尖沙嘴 广东道13号海港城，近海防道。 （ 尖沙咀）",
 	"city_id": "58",
@@ -706,7 +706,7 @@
 	"dpcount": 9682,
 	"dpscore": 98,
 	"id": "396352",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g4/M01/9D/DE/CggYHFXq6v6AfwtAABvhYCBDxqY841_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g4/M01/9D/DE/CggYHFXq6v6AfwtAABvhYCBDxqY841_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.295054,
 	"lon": 114.173506,
@@ -717,7 +717,7 @@
 	"shortName": "马哥孛罗",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/396352.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/396352.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "油尖旺旺角 上海街555号，近界限街。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -726,7 +726,7 @@
 	"dpcount": 8856,
 	"dpscore": 99,
 	"id": "344939",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g3/M0A/61/CA/CggYGlXmsuKAe0wfAB28_Gg0_E8201_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g3/M0A/61/CA/CggYGlXmsuKAe0wfAB28_Gg0_E8201_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.315354,
 	"lon": 114.173129,
@@ -737,7 +737,7 @@
 	"shortName": "康得思",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344939.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/344939.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "油尖旺红磡 都会道7号，近红磡火车站香港体育馆对面。 （ 红磡、九龙城）",
 	"city_id": "58",
@@ -746,7 +746,7 @@
 	"dpcount": 13830,
 	"dpscore": 96,
 	"id": "344975",
-	"img": "//dimg10.c-ctrip.com/images/t1/hotel/21000/20358/ebefae36e457434b8c028fb7d6a42b71_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/t1/hotelInfo/21000/20358/ebefae36e457434b8c028fb7d6a42b71_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.298606,
 	"lon": 114.18839,
@@ -757,7 +757,7 @@
 	"shortName": "都会海逸",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/344975.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/344975.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "中西区中环干诺道中5号，太子大厦对面。 （ 中环、金钟）",
 	"city_id": "58",
@@ -766,7 +766,7 @@
 	"dpcount": 2261,
 	"dpscore": 100,
 	"id": "344946",
-	"img": "//dimg11.c-ctrip.com/images/hotel/7000/6979/D0309164-F929-4C1E-A1F1-53B4D1D102A0_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/7000/6979/D0309164-F929-4C1E-A1F1-53B4D1D102A0_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.279198,
 	"lon": 114.164385,
@@ -777,7 +777,7 @@
 	"shortName": "文华东方",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344946.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/344946.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "湾仔港湾道1号，近会议道香港会议展览中心旁。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -786,7 +786,7 @@
 	"dpcount": 4106,
 	"dpscore": 98,
 	"id": "344952",
-	"img": "//dimg11.c-ctrip.com/images/hotel/13000/12594/f9ac5e799b414fd8bb5408e544a8980c_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/13000/12594/f9ac5e799b414fd8bb5408e544a8980c_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.278479,
 	"lon": 114.178639,
@@ -797,7 +797,7 @@
 	"shortName": "万丽",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344952.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/344952.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "东区北角邨里一号，近东区走廊。 （ 北角、鲗鱼涌）",
 	"city_id": "58",
@@ -817,7 +817,7 @@
 	"shortName": "海汇酒店",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/17322049.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/17322049.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
 }, {
 	"address": "沙田沙田 大涌桥路34-36号，近岗背街河畔花园旁。 （ 沙田）",
 	"city_id": "58",
@@ -837,7 +837,7 @@
 	"shortName": "丽豪",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436847.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
+	"url": "/hotelInfo/436847.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
 }, {
 	"address": "中西区红棉路22号，近花园道。 （ 中环、金钟）",
 	"city_id": "58",
@@ -857,7 +857,7 @@
 	"shortName": "美利酒店",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/11688823.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
+	"url": "/hotelInfo/11688823.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
 }, {
 	"address": "九龙城尖沙咀弥敦道118-130号美丽华广场，近弥敦道The One。 （ 尖沙咀）",
 	"city_id": "58",
@@ -866,7 +866,7 @@
 	"dpcount": 5733,
 	"dpscore": 98,
 	"id": "419352",
-	"img": "//dimg11.c-ctrip.com/images/hotel/7000/6374/2009DB2E-FB14-4803-BF43-C02E251E6F72_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/7000/6374/2009DB2E-FB14-4803-BF43-C02E251E6F72_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.297553,
 	"lon": 114.177337,
@@ -877,7 +877,7 @@
 	"shortName": "美丽华",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/419352.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
+	"url": "/hotelInfo/419352.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
 }, {
 	"address": "油尖旺九龙 尖沙嘴广东道23号海港城，近九龙公园径。 （ 尖沙咀）",
 	"city_id": "58",
@@ -886,7 +886,7 @@
 	"dpcount": 9779,
 	"dpscore": 98,
 	"id": "396354",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g3/M05/9E/13/CggYGVXrMyKAchhrAAsnL-o-rBQ899_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g3/M05/9E/13/CggYGVXrMyKAchhrAAsnL-o-rBQ899_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.296298,
 	"lon": 114.173199,
@@ -897,7 +897,7 @@
 	"shortName": "马哥孛罗",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/396354.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
+	"url": "/hotelInfo/396354.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
 }, {
 	"address": "油尖旺尖沙嘴麽地道71号，半岛中心对面。 （ 尖沙咀）",
 	"city_id": "58",
@@ -906,7 +906,7 @@
 	"dpcount": 10646,
 	"dpscore": 96,
 	"id": "370811",
-	"img": "//dimg11.c-ctrip.com/images/hotel/8000/7013/a91557ff89194005a809c60914283e46_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/8000/7013/a91557ff89194005a809c60914283e46_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.296172,
 	"lon": 114.183039,
@@ -917,7 +917,7 @@
 	"shortName": "富豪九龙",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/370811.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
+	"url": "/hotelInfo/370811.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
 }, {
 	"address": "东区北角油街二十三号，与京华道交界。 （ 北角、鲗鱼涌）",
 	"city_id": "58",
@@ -937,7 +937,7 @@
 	"shortName": "海逸君绰",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344950.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
+	"url": "/hotelInfo/344950.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
 }, {
 	"address": "离岛大屿山愉景湾海澄湖畔路88号，近愉景湾社区会堂/ 愉景北商场。 （ 香港迪士尼乐园度假区离岛）",
 	"city_id": "58",
@@ -946,7 +946,7 @@
 	"dpcount": 6686,
 	"dpscore": 99,
 	"id": "435560",
-	"img": "//dimg10.c-ctrip.com/images/t1/hotel/427000/426926/88e595fd023642628e61895ee90f514a_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/t1/hotelInfo/427000/426926/88e595fd023642628e61895ee90f514a_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.304691,
 	"lon": 114.021353,
@@ -957,7 +957,7 @@
 	"shortName": "愉景湾酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/435560.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
+	"url": "/hotelInfo/435560.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
 }, {
 	"address": "荃湾荃湾 荃华街3号，近关门口街。 （ 荃湾）",
 	"city_id": "58",
@@ -966,7 +966,7 @@
 	"dpcount": 11879,
 	"dpscore": 97,
 	"id": "436870",
-	"img": "//dimg11.c-ctrip.com/images/hotel/13000/12577/6187E561-632F-43AB-A6E7-C35615C8CEE0_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/13000/12577/6187E561-632F-43AB-A6E7-C35615C8CEE0_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.366438,
 	"lon": 114.125869,
@@ -977,7 +977,7 @@
 	"shortName": "悦来",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436870.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
+	"url": "/hotelInfo/436870.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
 }, {
 	"address": "湾仔香港铜锣湾 怡和街88号，近伊荣街礼顿道交界。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -986,7 +986,7 @@
 	"dpcount": 9659,
 	"dpscore": 97,
 	"id": "370815",
-	"img": "//dimg13.c-ctrip.com/images/hotel/7000/6982/0c714c6ed47a4911899739c36bfe9d2c_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/7000/6982/0c714c6ed47a4911899739c36bfe9d2c_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.276393,
 	"lon": 114.191836,
@@ -997,7 +997,7 @@
 	"shortName": "富豪香港",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/370815.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
+	"url": "/hotelInfo/370815.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
 }, {
 	"address": "东区北角城市花园道9号，(炮台山港铁站B出口)，近大强街面对城市花园。 （ 北角、鲗鱼涌）",
 	"city_id": "58",
@@ -1017,7 +1017,7 @@
 	"shortName": "城市花园",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/344965.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/344965.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "油尖旺尖沙咀東部麽地道70号，近尖东港铁站（P1出口）及红磡港铁站。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1037,7 +1037,7 @@
 	"shortName": "海景嘉福",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344922.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/344922.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "油尖旺尖沙嘴东部 么地道69号，好时中心对面。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1046,7 +1046,7 @@
 	"dpcount": 6648,
 	"dpscore": 98,
 	"id": "387383",
-	"img": "//dimg13.c-ctrip.com/images/hotel/8000/7015/300ca6bddca64041a2f361c1a03d1bf5_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/8000/7015/300ca6bddca64041a2f361c1a03d1bf5_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.295817,
 	"lon": 114.182559,
@@ -1057,7 +1057,7 @@
 	"shortName": "帝苑",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/387383.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/387383.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "九龙城红磡湾红鸾道38号，近黄埔铁路站C号出口。 （ 红磡、九龙城）",
 	"city_id": "58",
@@ -1077,7 +1077,7 @@
 	"shortName": "",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/6486217.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/6486217.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "湾仔铜锣湾礼顿道八号，黄泥涌道、礼顿道交界。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1097,7 +1097,7 @@
 	"shortName": "皇冠假日",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/427025.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/427025.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "油尖旺尖沙嘴弥敦道19-21号，近汉口道中间道交界。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1117,7 +1117,7 @@
 	"shortName": "九龙酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/425085.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/425085.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "中西区金钟 金钟道88号太古广场，近正义道。 （ 中环、金钟）",
 	"city_id": "58",
@@ -1137,7 +1137,7 @@
 	"shortName": "JW万豪",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344955.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/344955.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "油尖旺油麻地 弥敦道380号，近北海街。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -1157,7 +1157,7 @@
 	"shortName": "逸东",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/396346.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/396346.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "油尖旺尖沙嘴东部 麽地道72号，近科学馆道。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1166,7 +1166,7 @@
 	"dpcount": 5574,
 	"dpscore": 98,
 	"id": "344920",
-	"img": "//dimg13.c-ctrip.com/images/hotel/4000/3303/5d279ea1e3434e09b0c267aff41fe616_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/4000/3303/5d279ea1e3434e09b0c267aff41fe616_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.296992,
 	"lon": 114.184259,
@@ -1177,7 +1177,7 @@
 	"shortName": "千禧新世界",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344920.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/344920.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "离岛赤腊角 香港机场畅达路9号(9 Cheong Tat Road,HK International Airport, Chek Lap Kok)，机场管理局大楼对面。 （ 机场）",
 	"city_id": "58",
@@ -1186,7 +1186,7 @@
 	"dpcount": 14448,
 	"dpscore": 96,
 	"id": "436519",
-	"img": "//dimg12.c-ctrip.com/images/hotel/8000/7031/DFE54B32-D1D0-434C-A737-67A7ADB19C41_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/8000/7031/DFE54B32-D1D0-434C-A737-67A7ADB19C41_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.315935,
 	"lon": 113.938992,
@@ -1197,7 +1197,7 @@
 	"shortName": "富豪机场",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/436519.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/436519.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "离岛大屿山香港迪士尼乐园度假区，港铁迪士尼站转乘酒店班车直达。 （ 香港迪士尼乐园度假区）",
 	"city_id": "58",
@@ -1217,7 +1217,7 @@
 	"shortName": "迪士尼",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/392648.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/392648.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "屯门屯门 黄金海岸青山公路1号，近黄金海滩支路黄金海岸沙滩旁。 （ 元朗）",
 	"city_id": "58",
@@ -1226,7 +1226,7 @@
 	"dpcount": 5923,
 	"dpscore": 98,
 	"id": "436834",
-	"img": "//dimg12.c-ctrip.com/images/hotel/13000/12546/05493ddc8aa746b0a1a0e044721720bc_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/13000/12546/05493ddc8aa746b0a1a0e044721720bc_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.369047,
 	"lon": 113.994317,
@@ -1237,7 +1237,7 @@
 	"shortName": "黄金海岸",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/436834.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/436834.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "油尖旺尖沙嘴 弥敦道222号，近德兴街德成街交界。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -1246,7 +1246,7 @@
 	"dpcount": 7611,
 	"dpscore": 98,
 	"id": "437133",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g5/M0B/FF/51/CggYsFbzrDCAAW6RAAEwbWBvZQg673_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g5/M0B/FF/51/CggYsFbzrDCAAW6RAAEwbWBvZQg673_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.301429,
 	"lon": 114.176929,
@@ -1257,7 +1257,7 @@
 	"shortName": "恒丰",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/437133.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/437133.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "湾仔港湾道1号，近会议道香港会议展览中心旁。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1277,7 +1277,7 @@
 	"shortName": "君悦",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344917.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/344917.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "沙田新界沙田 泽祥街18号，近港铁大学站。 （ 沙田）",
 	"city_id": "58",
@@ -1286,7 +1286,7 @@
 	"dpcount": 6201,
 	"dpscore": 99,
 	"id": "370825",
-	"img": "//dimg13.c-ctrip.com/images/hotel/64000/63923/f86f41ad4c5d438187d90dba2b45f256_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/64000/63923/f86f41ad4c5d438187d90dba2b45f256_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.409303,
 	"lon": 114.216213,
@@ -1297,7 +1297,7 @@
 	"shortName": "凯悦",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/370825.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/370825.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "中西区金钟 金钟道88号太古广场，近香港公园。 （ 中环、金钟）",
 	"city_id": "58",
@@ -1317,7 +1317,7 @@
 	"shortName": "港丽",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344943.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/344943.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
 }, {
 	"address": "油尖旺尖沙嘴 赫德道8A，近么地道、河内道。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1326,7 +1326,7 @@
 	"dpcount": 5598,
 	"dpscore": 95,
 	"id": "354047",
-	"img": "//dimg10.c-ctrip.com/images/hotel/55000/54972/4ddb523238524c188e8fb9027bbd9310_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/hotelInfo/55000/54972/4ddb523238524c188e8fb9027bbd9310_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.294929,
 	"lon": 114.179707,
@@ -1337,7 +1337,7 @@
 	"shortName": "丽景",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/354047.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
+	"url": "/hotelInfo/354047.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
 }, {
 	"address": "湾仔摩理臣山道23号，近天乐里霎西街交界。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1357,7 +1357,7 @@
 	"shortName": "南洋",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436853.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
+	"url": "/hotelInfo/436853.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
 }, {
 	"address": "东区铜锣湾 英皇道18号，近天后庙道柏台景对面。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1370,14 +1370,14 @@
 	"isSingleRec": false,
 	"lat": 22.280435,
 	"lon": 114.197742,
-	"name": "香港如心铜锣湾海景酒店(L‘hotel Causeway Bay Harbour View Hong Kong)",
+	"name": "香港如心铜锣湾海景酒店(L‘hotelInfo Causeway Bay Harbour View Hong Kong)",
 	"pinyin": "hong kong",
 	"price": 759,
 	"score": 4.6,
 	"shortName": "如心",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/427031.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
+	"url": "/hotelInfo/427031.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
 }, {
 	"address": "沙田沙田 白鹤汀街8号，连接沙田港鉄站新城市广场旁。 （ 沙田）",
 	"city_id": "58",
@@ -1386,7 +1386,7 @@
 	"dpcount": 10769,
 	"dpscore": 99,
 	"id": "344961",
-	"img": "//dimg12.c-ctrip.com/images/hotel/8000/7033/c0311b12a16b42779a858d184372e1ba_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/8000/7033/c0311b12a16b42779a858d184372e1ba_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.377137,
 	"lon": 114.193411,
@@ -1397,7 +1397,7 @@
 	"shortName": "帝都",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/344961.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
+	"url": "/hotelInfo/344961.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20"
 }, {
 	"address": "东区北角 英皇道665号(665 Kings Road, North Point, Hong Kong)，近海裕街渣华道。 （ 北角、鲗鱼涌）",
 	"city_id": "58",
@@ -1406,7 +1406,7 @@
 	"dpcount": 3935,
 	"dpscore": 96,
 	"id": "393220",
-	"img": "//dimg11.c-ctrip.com/images/hotel/13000/12616/64b458325c3e47a79f436a3610994288_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/13000/12616/64b458325c3e47a79f436a3610994288_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.288809,
 	"lon": 114.21347,
@@ -1417,7 +1417,7 @@
 	"shortName": "北角海逸",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/393220.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
+	"url": "/hotelInfo/393220.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21"
 }, {
 	"address": "中西区金钟道88号太古广场，近香港公园。 （ 中环、金钟）",
 	"city_id": "58",
@@ -1426,7 +1426,7 @@
 	"dpcount": 1150,
 	"dpscore": 99,
 	"id": "436863",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g6/M0A/62/22/CggYs1cyoN6ASC8EAAEHhNl6RJU577_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g6/M0A/62/22/CggYs1cyoN6ASC8EAAEHhNl6RJU577_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.275244,
 	"lon": 114.1695,
@@ -1437,7 +1437,7 @@
 	"shortName": "奕居",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/436863.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
+	"url": "/hotelInfo/436863.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22"
 }, {
 	"address": "九龙城九龙 红磡黄埔花园德丰街20号，海名轩旁。 （ 红磡、九龙城）",
 	"city_id": "58",
@@ -1457,7 +1457,7 @@
 	"shortName": "海逸君绰",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344957.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
+	"url": "/hotelInfo/344957.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23"
 }, {
 	"address": "油尖旺九龙柯士甸道西一号港铁九龙站，港铁九龙站。 （ 西九龙）",
 	"city_id": "58",
@@ -1466,7 +1466,7 @@
 	"dpcount": 3638,
 	"dpscore": 99,
 	"id": "426542",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g1/M02/8E/86/CghzfFSPkC6AOtTiABPc41qLwDM625_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g1/M02/8E/86/CghzfFSPkC6AOtTiABPc41qLwDM625_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.302497,
 	"lon": 114.165773,
@@ -1477,7 +1477,7 @@
 	"shortName": "W酒店",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/426542.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
+	"url": "/hotelInfo/426542.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24"
 }, {
 	"address": "油尖旺尖沙嘴 梳士巴利道41号，漢口道與中間道交界。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1497,7 +1497,7 @@
 	"shortName": "港青酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/458487.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
+	"url": "/hotelInfo/458487.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25"
 }, {
 	"address": "油尖旺油麻地 弥敦道348号，近志和街，西贡街交界，近佐敦地铁站B1口。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -1517,7 +1517,7 @@
 	"shortName": "诺富特",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/430192.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
+	"url": "/hotelInfo/430192.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1"
 }, {
 	"address": "荃湾汀九 青山公路353号，近青山公路汀九村。 （ 荃湾）",
 	"city_id": "58",
@@ -1526,7 +1526,7 @@
 	"dpcount": 3391,
 	"dpscore": 97,
 	"id": "436515",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g4/M07/42/F2/CggYHVZXxZmAauMhADJQKCrGo_c912_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g4/M07/42/F2/CggYHVZXxZmAauMhADJQKCrGo_c912_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.366,
 	"lon": 114.083583,
@@ -1537,7 +1537,7 @@
 	"shortName": "帝景",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436515.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
+	"url": "/hotelInfo/436515.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2"
 }, {
 	"address": "九龙城九龙土瓜湾九龙城道199号，木厂街、九龙城道交界。 （ 红磡、九龙城）",
 	"city_id": "58",
@@ -1546,7 +1546,7 @@
 	"dpcount": 4995,
 	"dpscore": 96,
 	"id": "436498",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g1/M01/3A/61/CghzfFVtfsSAJRWvAAGvU0qQy7U252_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g1/M01/3A/61/CghzfFVtfsSAJRWvAAGvU0qQy7U252_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.320149,
 	"lon": 114.195472,
@@ -1557,7 +1557,7 @@
 	"shortName": "8度海逸",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436498.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
+	"url": "/hotelInfo/436498.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3"
 }, {
 	"address": "油尖旺尖沙咀柯士甸道8号，童军径交界。 （ 尖沙咀旺角、油麻地）",
 	"city_id": "58",
@@ -1566,7 +1566,7 @@
 	"dpcount": 11574,
 	"dpscore": 97,
 	"id": "436496",
-	"img": "//dimg13.c-ctrip.com/images/hotel/13000/12471/2784df92e77a4d7ebe315afa597c4d81_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/13000/12471/2784df92e77a4d7ebe315afa597c4d81_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.300246,
 	"lon": 114.174498,
@@ -1577,7 +1577,7 @@
 	"shortName": "龙堡国际",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436496.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
+	"url": "/hotelInfo/436496.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4"
 }, {
 	"address": "油尖旺旺角太子道西193号，近旺角火车站新世纪广场旁。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -1586,7 +1586,7 @@
 	"dpcount": 8372,
 	"dpscore": 99,
 	"id": "354012",
-	"img": "//dimg10.c-ctrip.com/images/fd/hotel/g6/M04/14/AB/CggYslarLM6AWIs0AAHU_dnYpG4081_R_300_225.jpg",
+	"img": "//dimg10.c-ctrip.com/images/fd/hotelInfo/g6/M04/14/AB/CggYslarLM6AWIs0AAHU_dnYpG4081_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.321311,
 	"lon": 114.17799,
@@ -1597,7 +1597,7 @@
 	"shortName": "帝京",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/354012.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
+	"url": "/hotelInfo/354012.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5"
 }, {
 	"address": "中西区西环 干诺道西152号，近德辅道西。 （ 西环、上环）",
 	"city_id": "58",
@@ -1617,7 +1617,7 @@
 	"shortName": "港岛太平洋",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436524.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
+	"url": "/hotelInfo/436524.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6"
 }, {
 	"address": "中西区中环 皇后大道中15号置地广场，近德辅道中。 （ 中环、金钟）",
 	"city_id": "58",
@@ -1626,7 +1626,7 @@
 	"dpcount": 1224,
 	"dpscore": 99,
 	"id": "344941",
-	"img": "//dimg11.c-ctrip.com/images/fd/hotel/g4/M0A/14/37/CggYHFaOCCaAQBBoABb1db9hgAE708_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/fd/hotelInfo/g4/M0A/14/37/CggYHFaOCCaAQBBoABb1db9hgAE708_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.278036,
 	"lon": 114.162678,
@@ -1637,7 +1637,7 @@
 	"shortName": "文华东方",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/344941.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
+	"url": "/hotelInfo/344941.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7"
 }, {
 	"address": "黄竹坑道180号，寿山村道。 （ 南区）",
 	"city_id": "58",
@@ -1657,7 +1657,7 @@
 	"shortName": "海洋公园万豪",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/25645516.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
+	"url": "/hotelInfo/25645516.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8"
 }, {
 	"address": "湾仔皇后大道东387-397号，近摩理臣山道。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1666,7 +1666,7 @@
 	"dpcount": 4182,
 	"dpscore": 95,
 	"id": "436846",
-	"img": "//dimg11.c-ctrip.com/images/hotel/23000/22209/4e696e55551d45338f2e85ab9024b2c8_R_300_225.jpg",
+	"img": "//dimg11.c-ctrip.com/images/hotelInfo/23000/22209/4e696e55551d45338f2e85ab9024b2c8_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.271799,
 	"lon": 114.183906,
@@ -1677,7 +1677,7 @@
 	"shortName": "帝盛",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/436846.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
+	"url": "/hotelInfo/436846.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9"
 }, {
 	"address": "九龙城红磡芜湖街83号。 （ 红磡、九龙城）",
 	"city_id": "58",
@@ -1697,7 +1697,7 @@
 	"shortName": "逸酒店",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/1569777.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
+	"url": "/hotelInfo/1569777.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10"
 }, {
 	"address": "南区香港仔黄竹坑道55号，近黃竹坑道、塘边径入。 （ 南区）",
 	"city_id": "58",
@@ -1706,18 +1706,18 @@
 	"dpcount": 8887,
 	"dpscore": 97,
 	"id": "432430",
-	"img": "//dimg13.c-ctrip.com/images/fd/hotel/g6/M01/51/D5/CggYslcMvAqAXs7EAATvdXw3DgU547_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/fd/hotelInfo/g6/M01/51/D5/CggYslcMvAqAXs7EAATvdXw3DgU547_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.246893,
 	"lon": 114.173107,
-	"name": "如心南湾海景酒店(L‘hotel Island South)",
+	"name": "如心南湾海景酒店(L‘hotelInfo Island South)",
 	"pinyin": "hong kong",
 	"price": 513,
 	"score": 4.4,
 	"shortName": "如心",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/432430.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
+	"url": "/hotelInfo/432430.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11"
 }, {
 	"address": "湾仔铜锣湾礼顿道133号，近伊荣街圣保禄学校。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1737,7 +1737,7 @@
 	"shortName": "逸兰精品",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/426708.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
+	"url": "/hotelInfo/426708.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12"
 }, {
 	"address": "油尖旺旺角窝打老道75号，近培正道。 （ 旺角、油麻地）",
 	"city_id": "58",
@@ -1757,7 +1757,7 @@
 	"shortName": "维景",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/344967.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
+	"url": "/hotelInfo/344967.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13"
 }, {
 	"address": "湾仔骆克道57-73号，近卢押道。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1766,7 +1766,7 @@
 	"dpcount": 4040,
 	"dpscore": 96,
 	"id": "344963",
-	"img": "//dimg12.c-ctrip.com/images/hotel/8000/7002/cffb5ce43a2e4dbc8a63d08215c74473_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/8000/7002/cffb5ce43a2e4dbc8a63d08215c74473_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.275551,
 	"lon": 114.17613,
@@ -1777,7 +1777,7 @@
 	"shortName": "华美粤海",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/344963.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
+	"url": "/hotelInfo/344963.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14"
 }, {
 	"address": "湾仔铜锣湾信德街8号，近礼顿道中央图书馆旁。 （ 湾仔、铜锣湾）",
 	"city_id": "58",
@@ -1797,7 +1797,7 @@
 	"shortName": "珀丽",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/428254.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
+	"url": "/hotelInfo/428254.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15"
 }, {
 	"address": "荃湾葵涌青山公路段\u00A0443号，近葵涌道。 （ 荃湾）",
 	"city_id": "58",
@@ -1817,7 +1817,7 @@
 	"shortName": "悦品荃湾",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/23879475.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
+	"url": "/hotelInfo/23879475.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16"
 }, {
 	"address": "油尖旺尖沙嘴金巴利道28号，近加拿芬道金巴利街交界。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1826,7 +1826,7 @@
 	"dpcount": 5832,
 	"dpscore": 96,
 	"id": "425443",
-	"img": "//dimg13.c-ctrip.com/images/hotel/8000/7045/fdc609ff688c4bb7b9dc895dcb62195d_R_300_225.jpg",
+	"img": "//dimg13.c-ctrip.com/images/hotelInfo/8000/7045/fdc609ff688c4bb7b9dc895dcb62195d_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.297782,
 	"lon": 114.178709,
@@ -1837,7 +1837,7 @@
 	"shortName": "君怡",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/425443.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
+	"url": "/hotelInfo/425443.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17"
 }, {
 	"address": "油尖旺尖沙咀 河内道18号，麽地道、河内道交界。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1846,7 +1846,7 @@
 	"dpcount": 2797,
 	"dpscore": 98,
 	"id": "425422",
-	"img": "//dimg12.c-ctrip.com/images/hotel/73000/72318/AACE136D-B4D4-4B63-AA41-BA36C711532F_R_300_225.jpg",
+	"img": "//dimg12.c-ctrip.com/images/hotelInfo/73000/72318/AACE136D-B4D4-4B63-AA41-BA36C711532F_R_300_225.jpg",
 	"isSingleRec": false,
 	"lat": 22.294815,
 	"lon": 114.178533,
@@ -1857,7 +1857,7 @@
 	"shortName": "凯悦",
 	"star": "hotel_diamond05",
 	"stardesc": "豪华型",
-	"url": "/hotel/425422.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
+	"url": "/hotelInfo/425422.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18"
 }, {
 	"address": "油尖旺尖沙咀宝勒巷18号。 （ 尖沙咀）",
 	"city_id": "58",
@@ -1877,5 +1877,5 @@
 	"shortName": "粤海",
 	"star": "hotel_diamond04",
 	"stardesc": "高档型",
-	"url": "/hotel/419933.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
+	"url": "/hotelInfo/419933.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19"
 }]

@@ -1,4 +1,4 @@
-package Util;
+package util;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
