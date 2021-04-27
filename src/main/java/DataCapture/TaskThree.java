@@ -6,7 +6,7 @@ import java.util.List;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import util.GetDocument;
+import Util.GetDocument;
 
 public class TaskThree {
 

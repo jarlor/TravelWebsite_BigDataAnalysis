@@ -1,4 +1,4 @@
-package util;
+package Util;
 
 import java.io.*;
 import java.util.*;
@@ -13,6 +13,7 @@ public class HBaseUtil {
 
 
     private static void startConn() throws Exception {
+
         conn = Connected.getHbase();  //获取hbase连接
     }
 

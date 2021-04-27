@@ -1,6 +1,6 @@
 package DataCapture;
+import Util.GetDocument;
 import org.jsoup.nodes.Document;
-import util.GetDocument;
 
 public class TaskOne {
     public static void main(String[] args) throws Exception {

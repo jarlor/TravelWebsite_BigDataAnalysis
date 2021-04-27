@@ -2,10 +2,10 @@ package DataClean;
 
 import java.util.*;
 
-import pojo.Hotel;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import pojo.Hotel;
 
 import java.io.*;
 
