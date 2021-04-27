@@ -1,4 +1,4 @@
-package DataCapture.step4;
+package pojo;
 
 public class HotelCity {
     /**

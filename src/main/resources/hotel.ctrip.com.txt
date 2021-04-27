@@ -204,7 +204,7 @@
 </li>
 <li class="divider "></li>
 <li id="ul_c_ph_taocanj_h">
-<a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotel">酒店+景点</a>
+<a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotelInfo">酒店+景点</a>
 </li>
 <li class="divider "></li>
 <li id="ul_c_ph_inn_h">
@@ -219,7 +219,7 @@
 <a id="c_ph_meeting_h" href="http://meeting.ctrip.com/?channel=1#ctm_ref=mtg_meeting_2dh">会议</a>
 </li>
 </ul>
-<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotel"></i>酒店订单 &gt;</a>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotelInfo"></i>酒店订单 &gt;</a>
 </div>
 </li>
 <li class="divider "></li>
@@ -609,7 +609,7 @@
 <a rel="nofollow" href="https://secure.ctrip.com/webwallet/index#ctm_ref=ssc_hp_myctrip_wallet_a">携程钱包</a>
 </li>
 <li>
-<a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotel/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a">收藏</a>
+<a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotelInfo/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a">收藏</a>
 </li>
 <li>
 <a rel="nofollow" href="https://smarket.ctrip.com/Promocode/zh-cn/Promocode.aspx#ctm_ref=ssc_hp_myctrip_integral_a">票券与积分</a>
@@ -866,7 +866,7 @@
 
 		<div class="side_sales">
 		<h2>促销特惠<span class="icon_sale"></span></h2>
-			<a title="" href="https://hotels.ctrip.com/events/baichengqiandianzhuyouxuanjiudian80yuanqi.html#ctm_ref=hod_hp_ad_def_i_45" target="_blank" data-adpos-id="1154"  class="side_sales_h144" data-ctm="" rel="nofollow"><img height="144" width="378" alt="" data-lazy="https://pages.c-ctrip.com/hotel/201812/00banner/1128_bcqd_378144.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a><a title="" href="https://hotels.ctrip.com/events/jiudianshishizhu60yuanqi.html#ctm_ref=hod_hp_ad_def_i_46" target="_blank"  data-adpos-id="477"  data-ctm="" rel="nofollow"><img height="63" width="378" alt="" data-lazy="https://images3.c-ctrip.com/tg/2016/05/zdf1_378_63.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a><a title="" href="//hotels.ctrip.com/events/jichangzhoubianjiudiantuijian.html#ctm_ref=hod_hp_ad_def_i_47" target="_blank"  data-adpos-id="169"  data-ctm="" rel="nofollow"><img height="63" width="378" alt="" data-lazy="https://pages.c-ctrip.com/hotel/201901/00banner/0121.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a><a title="" href="https://hotels.ctrip.com/events/25yiwangyouqincekoubeijiudiantuijian.html#ctm_ref=hod_hp_ad_def_i_48" target="_blank"  data-adpos-id="949"  data-ctm="" rel="nofollow"><img height="63" width="378" alt="" data-lazy="https://images3.c-ctrip.com/tg/2017/07/kbjd_378_63.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a>
+			<a title="" href="https://hotels.ctrip.com/events/baichengqiandianzhuyouxuanjiudian80yuanqi.html#ctm_ref=hod_hp_ad_def_i_45" target="_blank" data-adpos-id="1154"  class="side_sales_h144" data-ctm="" rel="nofollow"><img height="144" width="378" alt="" data-lazy="https://pages.c-ctrip.com/hotelInfo/201812/00banner/1128_bcqd_378144.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a><a title="" href="https://hotels.ctrip.com/events/jiudianshishizhu60yuanqi.html#ctm_ref=hod_hp_ad_def_i_46" target="_blank"  data-adpos-id="477"  data-ctm="" rel="nofollow"><img height="63" width="378" alt="" data-lazy="https://images3.c-ctrip.com/tg/2016/05/zdf1_378_63.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a><a title="" href="//hotels.ctrip.com/events/jichangzhoubianjiudiantuijian.html#ctm_ref=hod_hp_ad_def_i_47" target="_blank"  data-adpos-id="169"  data-ctm="" rel="nofollow"><img height="63" width="378" alt="" data-lazy="https://pages.c-ctrip.com/hotelInfo/201901/00banner/0121.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a><a title="" href="https://hotels.ctrip.com/events/25yiwangyouqincekoubeijiudiantuijian.html#ctm_ref=hod_hp_ad_def_i_48" target="_blank"  data-adpos-id="949"  data-ctm="" rel="nofollow"><img height="63" width="378" alt="" data-lazy="https://images3.c-ctrip.com/tg/2017/07/kbjd_378_63.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" /></a>
 			</div>
         <div class="sider_book hidden">
 			<strong>订阅促销信息</strong><input type="text" id="mailTxtId" style="width:238px; color:#999;" class="input_txt"><input type="button" id="mailSubmitId" title="订阅" class="btn_base" value="订阅">
@@ -881,7 +881,7 @@
     <img data-lazy="//hotels.ctrip.com/Domestic/img/hotel_affiliate_1.jpg" src="//pic.c-ctrip.com/common/pic_alpha.gif" alt="酒店加盟">
 </a>
 <a href="/commerce.html" target="_blank" class="hotel_affiliate" title="代理商加盟">
-    <img data-lazy="//pic.c-ctrip.com/hotels_seo/hotel-supplierJoin.png" src="//pic.c-ctrip.com/common/pic_alpha.gif" alt="代理商加盟">
+    <img data-lazy="//pic.c-ctrip.com/hotels_seo/hotelInfo-supplierJoin.png" src="//pic.c-ctrip.com/common/pic_alpha.gif" alt="代理商加盟">
 </a>
 <a href="//ebooking.ctrip.com/"  class="hotel_affiliate" title="eBooking酒店管理后台" target="_blank">
     <img _src="//pic.c-ctrip.com/hotels_seo/hotel_ebooking.png" src="//pic.c-ctrip.com/hotels_seo/hotel_ebooking.png" width="378" height="64" alt="eBooking酒店管理后台">
@@ -903,12 +903,12 @@
 		<h2>城市地标周边酒店</h2>
            <ul class="hotsold_city_list" data-defaultcity="">
            <li class="current">
-           <i></i><a href="/hotel/beijing1" data-id="1" data-py="beijing" >北京</a></li>
-           <li><i></i><a href="/hotel/shanghai2" data-id="2" data-py="shanghai">上海</a></li>
-           <li><i></i><a href="/hotel/guangzhou32" data-id="32" data-py="guangzhou">广州</a></li>
-           <li><i></i><a href="/hotel/chengdu28" data-id="28" data-py="chengdu">成都</a></li>
-           <li><i></i><a href="/hotel/shenzhen30" data-id="30" data-py="shenzhen">深圳</a></li>
-           <li><i></i><a href="/hotel/hangzhou17" data-id="17" data-py="hangzhou">杭州</a></li>
+           <i></i><a href="/hotelInfo/beijing1" data-id="1" data-py="beijing" >北京</a></li>
+           <li><i></i><a href="/hotelInfo/shanghai2" data-id="2" data-py="shanghai">上海</a></li>
+           <li><i></i><a href="/hotelInfo/guangzhou32" data-id="32" data-py="guangzhou">广州</a></li>
+           <li><i></i><a href="/hotelInfo/chengdu28" data-id="28" data-py="chengdu">成都</a></li>
+           <li><i></i><a href="/hotelInfo/shenzhen30" data-id="30" data-py="shenzhen">深圳</a></li>
+           <li><i></i><a href="/hotelInfo/hangzhou17" data-id="17" data-py="hangzhou">杭州</a></li>
 
            </ul>
 
@@ -944,7 +944,7 @@
 
 
     <div class="htl_specials">
-        <table class="htl_special_title"><tbody><tr><td  class="J_specialtitle current"><a href="https://hotels.ctrip.com/events/xinkaiyejiudianjianianhua.html#ctm_ref=hod_hp_ad_def_i_40" data-adpos-id="960" target="_blank" data-item="1" >新开业酒店嘉年华</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/baichengqiandianzhuyouxuanjiudian80yuanqi.html#ctm_ref=hod_hp_ad_def_i_41" data-adpos-id="807" target="_blank" data-item="2">百城千店80元起</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/yiyueremenlvxingmudedi.html#ctm_ref=hod_hp_ad_def_i_42" data-adpos-id="580" target="_blank" data-item="3">热门目的地</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/taolidushimanyouguzhen.html#ctm_ref=hod_hp_ad_def_i_43" data-adpos-id="579" target="_blank" data-item="4">古镇周边酒店65元起</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/pinpaijiudian85yuanqixin.html#ctm_ref=hod_hp_ad_def_i_44" data-adpos-id="1044" target="_blank" data-item="5">连锁酒店85元起</a></td></tr></tbody></table><div class="htl_special_pics"><a href="https://hotels.ctrip.com/events/xinkaiyejiudianjianianhua.html#ctm_ref=hod_hp_ad_def_i_40" target="_blank" class="J_specialpics previous" data-adpos-id="960" data-item="1" style="display: block;"><img src="https://images3.c-ctrip.com/ad/bigbutton/201702/0207_xky_780-180.jpg"></a><a href="https://hotels.ctrip.com/events/baichengqiandianzhuyouxuanjiudian80yuanqi.html#ctm_ref=hod_hp_ad_def_i_41" data-adpos-id="807" target="_blank" class="J_specialpics" data-item="2" style="display: none;"><img src="https://pages.c-ctrip.com/hotel/201812/00banner/1128_bcqd_780180.jpg"></a><a href="https://hotels.ctrip.com/events/yiyueremenlvxingmudedi.html#ctm_ref=hod_hp_ad_def_i_42" data-adpos-id="580" target="_blank" class="J_specialpics" data-item="3" style="display: none;"><img src="https://images3.c-ctrip.com/ad/bigbutton/promotion/160601_lylx_780_180.jpg"></a><a href="https://hotels.ctrip.com/events/taolidushimanyouguzhen.html#ctm_ref=hod_hp_ad_def_i_43" data-adpos-id="579" target="_blank" class="J_specialpics" data-item="4" style="display: none;"><img src="https://images3.c-ctrip.com/hotel/2018/09/0919_gz_pc_780x180.jpg"></a><a href="https://hotels.ctrip.com/events/pinpaijiudian85yuanqixin.html#ctm_ref=hod_hp_ad_def_i_44" data-adpos-id="1044" target="_blank" class="J_specialpics" data-item="5" style="display: none;"><img src="https://pages.c-ctrip.com/hotel/201810/banner/1018_liansuo_PC_780x180.jpg"></a></div>
+        <table class="htl_special_title"><tbody><tr><td  class="J_specialtitle current"><a href="https://hotels.ctrip.com/events/xinkaiyejiudianjianianhua.html#ctm_ref=hod_hp_ad_def_i_40" data-adpos-id="960" target="_blank" data-item="1" >新开业酒店嘉年华</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/baichengqiandianzhuyouxuanjiudian80yuanqi.html#ctm_ref=hod_hp_ad_def_i_41" data-adpos-id="807" target="_blank" data-item="2">百城千店80元起</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/yiyueremenlvxingmudedi.html#ctm_ref=hod_hp_ad_def_i_42" data-adpos-id="580" target="_blank" data-item="3">热门目的地</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/taolidushimanyouguzhen.html#ctm_ref=hod_hp_ad_def_i_43" data-adpos-id="579" target="_blank" data-item="4">古镇周边酒店65元起</a></td></tr><tr><td class="J_specialtitle"><a href="https://hotels.ctrip.com/events/pinpaijiudian85yuanqixin.html#ctm_ref=hod_hp_ad_def_i_44" data-adpos-id="1044" target="_blank" data-item="5">连锁酒店85元起</a></td></tr></tbody></table><div class="htl_special_pics"><a href="https://hotels.ctrip.com/events/xinkaiyejiudianjianianhua.html#ctm_ref=hod_hp_ad_def_i_40" target="_blank" class="J_specialpics previous" data-adpos-id="960" data-item="1" style="display: block;"><img src="https://images3.c-ctrip.com/ad/bigbutton/201702/0207_xky_780-180.jpg"></a><a href="https://hotels.ctrip.com/events/baichengqiandianzhuyouxuanjiudian80yuanqi.html#ctm_ref=hod_hp_ad_def_i_41" data-adpos-id="807" target="_blank" class="J_specialpics" data-item="2" style="display: none;"><img src="https://pages.c-ctrip.com/hotelInfo/201812/00banner/1128_bcqd_780180.jpg"></a><a href="https://hotels.ctrip.com/events/yiyueremenlvxingmudedi.html#ctm_ref=hod_hp_ad_def_i_42" data-adpos-id="580" target="_blank" class="J_specialpics" data-item="3" style="display: none;"><img src="https://images3.c-ctrip.com/ad/bigbutton/promotion/160601_lylx_780_180.jpg"></a><a href="https://hotels.ctrip.com/events/taolidushimanyouguzhen.html#ctm_ref=hod_hp_ad_def_i_43" data-adpos-id="579" target="_blank" class="J_specialpics" data-item="4" style="display: none;"><img src="https://images3.c-ctrip.com/hotelInfo/2018/09/0919_gz_pc_780x180.jpg"></a><a href="https://hotels.ctrip.com/events/pinpaijiudian85yuanqixin.html#ctm_ref=hod_hp_ad_def_i_44" data-adpos-id="1044" target="_blank" class="J_specialpics" data-item="5" style="display: none;"><img src="https://pages.c-ctrip.com/hotelInfo/201810/banner/1018_liansuo_PC_780x180.jpg"></a></div>
 	</div>
 
 <script type="text/javascript">
@@ -953,10 +953,10 @@ var ThemeData = "";
 
 		<div class="hot_sold_box">
 
-            <div style="display: none;" id="pop_box_city" class="pop_box_city"><a href="###" class="c_close">&times;</a><a href="/hotel/changsha206" data-id="206" data-py="Changsha">长沙</a><a href="/hotel/chongqing4" data-id="4" data-py="Chongqing">重庆</a><a href="/hotel/dalian6" data-id="6" data-py="Dalian">大连</a><a href="/hotel/fuzhou258" data-id="258" data-py="Fuzhou">福州</a><a href="/hotel/guiyang38" data-id="38" data-py="Guiyang">贵阳</a><a href="/hotel/guilin33" data-id="33" data-py="Guilin">桂林</a><a href="/hotel/huangshan23" data-id="23" data-py="Huangshan">黄山</a><a href="/hotel/harbin5" data-id="5" data-py="Harbin">哈尔滨</a><a href="/hotel/haikou42" data-id="42" data-py="Haikou">海口</a><a href="/hotel/hefei278" data-id="278" data-py="Hefei">合肥</a><a href="/hotel/hohhot103" data-id="103" data-py="Hohhot">呼和浩特</a><a href="/hotel/jinan144" data-id="144" data-py="Jinan">济南</a><a href="/hotel/kunming34" data-id="34" data-py="Kunming">昆明</a><a href="/hotel/lijiang37" data-id="37" data-py="Lijiang">丽江</a><a href="/hotel/nanchang376" data-id="376" data-py="Nanchang">南昌</a><a href="/hotel/nanjing12" data-id="12" data-py="Nanjing">南京</a><a href="/hotel/nanning380" data-id="380" data-py="Nanning">南宁</a><a href="/hotel/ningbo375" data-id="375" data-py="Ningbo">宁波</a><a href="/hotel/qingdao7" data-id="7" data-py="Qingdao">青岛</a><a href="/hotel/sanya43" data-id="43" data-py="Sanya">三亚</a><a href="/hotel/xiamen25" data-id="25" data-py="Xiamen">厦门</a><a href="/hotel/shenyang451" data-id="451" data-py="Shenyang">沈阳</a><a href="/hotel/shijiazhuang428" data-id="428" data-py="Shijiazhuang">石家庄</a><a href="/hotel/suzhou14" data-id="14" data-py="Suzhou">苏州</a><a href="/hotel/taipei617" data-id="617" data-py="Taipei">台北</a><a href="/hotel/taiyuan105" data-id="105" data-py="Taiyuan">太原</a><a href="/hotel/tianjin3" data-id="3" data-py="Tianjin">天津</a><a href="/hotel/urumqi39" data-id="39" data-py="Urumqi">乌鲁木齐</a><a href="/hotel/wuxi13" data-id="13" data-py="Wuxi">无锡</a><a href="/hotel/wuhan477" data-id="477" data-py="Wuhan">武汉</a><a href="/hotel/xi'an10" data-id="10" data-py="Xi'an">西安</a><a href="/hotel/hong kong58" data-id="58" data-py="Hong Kong">香港</a><a href="/hotel/yangshuo871" data-id="871" data-py="Yangshuo">阳朔</a><a href="/hotel/zhengzhou559" data-id="559" data-py="Zhengzhou">郑州</a><a href="/hotel/shangri-la660" data-id="660" data-py="Shangri-La">香格里拉</a><a href="/hotel/wutai21210" data-id="21210" data-py="Wutai">五台</a><a href="/hotel/foshan251" data-id="251" data-py="Foshan">佛山</a><a href="/hotel/longyan348" data-id="348" data-py="Longyan">龙岩</a><a href="/hotel/rizhao1106" data-id="1106" data-py="Rizhao">日照</a><a href="/hotel/lhasa41" data-id="41" data-py="Lhasa">拉萨</a><a href="/hotel/qidong697" data-id="697" data-py="Qidong">启东</a><a href="/hotel/mianyang370" data-id="370" data-py="Mianyang">绵阳</a><a href="/hotel/tangshan468" data-id="468" data-py="Tangshan">唐山</a><a href="/hotel/changzhou213" data-id="213" data-py="Changzhou">常州</a></div>
+            <div style="display: none;" id="pop_box_city" class="pop_box_city"><a href="###" class="c_close">&times;</a><a href="/hotelInfo/changsha206" data-id="206" data-py="Changsha">长沙</a><a href="/hotelInfo/chongqing4" data-id="4" data-py="Chongqing">重庆</a><a href="/hotelInfo/dalian6" data-id="6" data-py="Dalian">大连</a><a href="/hotelInfo/fuzhou258" data-id="258" data-py="Fuzhou">福州</a><a href="/hotelInfo/guiyang38" data-id="38" data-py="Guiyang">贵阳</a><a href="/hotelInfo/guilin33" data-id="33" data-py="Guilin">桂林</a><a href="/hotelInfo/huangshan23" data-id="23" data-py="Huangshan">黄山</a><a href="/hotelInfo/harbin5" data-id="5" data-py="Harbin">哈尔滨</a><a href="/hotelInfo/haikou42" data-id="42" data-py="Haikou">海口</a><a href="/hotelInfo/hefei278" data-id="278" data-py="Hefei">合肥</a><a href="/hotelInfo/hohhot103" data-id="103" data-py="Hohhot">呼和浩特</a><a href="/hotelInfo/jinan144" data-id="144" data-py="Jinan">济南</a><a href="/hotelInfo/kunming34" data-id="34" data-py="Kunming">昆明</a><a href="/hotelInfo/lijiang37" data-id="37" data-py="Lijiang">丽江</a><a href="/hotelInfo/nanchang376" data-id="376" data-py="Nanchang">南昌</a><a href="/hotelInfo/nanjing12" data-id="12" data-py="Nanjing">南京</a><a href="/hotelInfo/nanning380" data-id="380" data-py="Nanning">南宁</a><a href="/hotelInfo/ningbo375" data-id="375" data-py="Ningbo">宁波</a><a href="/hotelInfo/qingdao7" data-id="7" data-py="Qingdao">青岛</a><a href="/hotelInfo/sanya43" data-id="43" data-py="Sanya">三亚</a><a href="/hotelInfo/xiamen25" data-id="25" data-py="Xiamen">厦门</a><a href="/hotelInfo/shenyang451" data-id="451" data-py="Shenyang">沈阳</a><a href="/hotelInfo/shijiazhuang428" data-id="428" data-py="Shijiazhuang">石家庄</a><a href="/hotelInfo/suzhou14" data-id="14" data-py="Suzhou">苏州</a><a href="/hotelInfo/taipei617" data-id="617" data-py="Taipei">台北</a><a href="/hotelInfo/taiyuan105" data-id="105" data-py="Taiyuan">太原</a><a href="/hotelInfo/tianjin3" data-id="3" data-py="Tianjin">天津</a><a href="/hotelInfo/urumqi39" data-id="39" data-py="Urumqi">乌鲁木齐</a><a href="/hotelInfo/wuxi13" data-id="13" data-py="Wuxi">无锡</a><a href="/hotelInfo/wuhan477" data-id="477" data-py="Wuhan">武汉</a><a href="/hotelInfo/xi'an10" data-id="10" data-py="Xi'an">西安</a><a href="/hotelInfo/hong kong58" data-id="58" data-py="Hong Kong">香港</a><a href="/hotelInfo/yangshuo871" data-id="871" data-py="Yangshuo">阳朔</a><a href="/hotelInfo/zhengzhou559" data-id="559" data-py="Zhengzhou">郑州</a><a href="/hotelInfo/shangri-la660" data-id="660" data-py="Shangri-La">香格里拉</a><a href="/hotelInfo/wutai21210" data-id="21210" data-py="Wutai">五台</a><a href="/hotelInfo/foshan251" data-id="251" data-py="Foshan">佛山</a><a href="/hotelInfo/longyan348" data-id="348" data-py="Longyan">龙岩</a><a href="/hotelInfo/rizhao1106" data-id="1106" data-py="Rizhao">日照</a><a href="/hotelInfo/lhasa41" data-id="41" data-py="Lhasa">拉萨</a><a href="/hotelInfo/qidong697" data-id="697" data-py="Qidong">启东</a><a href="/hotelInfo/mianyang370" data-id="370" data-py="Mianyang">绵阳</a><a href="/hotelInfo/tangshan468" data-id="468" data-py="Tangshan">唐山</a><a href="/hotelInfo/changzhou213" data-id="213" data-py="Changzhou">常州</a></div>
 			<h2 class="hot_sold_title">热门酒店<span class="bg_hot"></span></h2>
             <ul id="hotsold_city_list" class="hotsold_city_list">
-				<li><i></i><a href="/hotel/beijing1" data-id="1" data-py="Beijing">北京</a></li><li><i></i><a href="/hotel/shanghai2" data-id="2" data-py="Shanghai">上海</a></li><li><i></i><a href="/hotel/guangzhou32" data-id="32" data-py="Guangzhou">广州</a></li><li><i></i><a href="/hotel/chengdu28" data-id="28" data-py="Chengdu">成都</a></li><li><i></i><a href="/hotel/shenzhen30" data-id="30" data-py="Shenzhen">深圳</a></li><li><i></i><a href="/hotel/hangzhou17" data-id="17" data-py="Hangzhou">杭州</a></li><li><i></i><a href="/hotel/changchun158" data-id="158" data-py="Changchun">长春</a></li><li><a class="more" id="city_chosen" href="javascript:;" rel="nofollow">更多<b></b></a></li>
+				<li><i></i><a href="/hotelInfo/beijing1" data-id="1" data-py="Beijing">北京</a></li><li><i></i><a href="/hotelInfo/shanghai2" data-id="2" data-py="Shanghai">上海</a></li><li><i></i><a href="/hotelInfo/guangzhou32" data-id="32" data-py="Guangzhou">广州</a></li><li><i></i><a href="/hotelInfo/chengdu28" data-id="28" data-py="Chengdu">成都</a></li><li><i></i><a href="/hotelInfo/shenzhen30" data-id="30" data-py="Shenzhen">深圳</a></li><li><i></i><a href="/hotelInfo/hangzhou17" data-id="17" data-py="Hangzhou">杭州</a></li><li><i></i><a href="/hotelInfo/changchun158" data-id="158" data-py="Changchun">长春</a></li><li><a class="more" id="city_chosen" href="javascript:;" rel="nofollow">更多<b></b></a></li>
 			</ul>
 <script type="text/javascript">
    var cityData={'1':true,'2':true,'32':true,'28':true,'30':true,'17':true,'158':true,'206':true,'4':true,'6':true,'258':true,'38':true,'33':true,'23':true,'5':true,'42':true,'278':true,'103':true,'144':true,'34':true,'37':true,'376':true,'12':true,'380':true,'375':true,'7':true,'43':true,'25':true,'451':true,'428':true,'14':true,'617':true,'105':true,'3':true,'39':true,'13':true,'477':true,'10':true,'58':true,'871':true,'559':true,'660':true,'21210':true,'251':true,'348':true,'1106':true,'41':true,'697':true,'370':true,'468':true,'213':true};
@@ -971,12 +971,12 @@ var ThemeData = "";
 <div class="hotel_brand_box">
 	<h2>更优惠酒店集团</h2>
 	<div class="hotel_brand_package">
-		<a class="joinin" href="//pages.c-ctrip.com/commerce/promote/201209/hotel/brand/index_gn.html" target="_blank" rel="nofollow">更多 ></a>
+		<a class="joinin" href="//pages.c-ctrip.com/commerce/promote/201209/hotelInfo/brand/index_gn.html" target="_blank" rel="nofollow">更多 ></a>
 		<a id="btnPrev" title="上一张" class="prev_slide" href="javascript:void(0);"><span class="slide_tri"></span></a>
 		<a id="btnNext" title="下一张" class="next_slide" href="javascript:void(0);"><span class="slide_tri"></span></a>
 		<div class="hotel_brand_list">
 			<div style="width:9999px; position:relative;" class="htl_brand" id="brandListBox">
-			<a href="http://pages.ctrip.com/commerce/promote/201109/hotel/wh/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_1" rel="nofollow"><img class="htl_brand_img" alt="万豪" title="万豪" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotel/gn/wh.jpg" /><span class="brand_name">万豪</span></a><a href="http://pages.ctrip.com/commerce/promote/201110/hotel/xrd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_2" rel="nofollow"><img class="htl_brand_img" alt="希尔顿" title="希尔顿" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotel/gn/xed.jpg" /><span class="brand_name">希尔顿</span></a><a href="http://pages.ctrip.com/commerce/promote/201110/hotel/xgll/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_3" rel="nofollow"><img class="htl_brand_img" alt="香格里拉" title="香格里拉" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotel/gn/xgll.jpg" /><span class="brand_name">香格里拉</span></a><a href="http://pages.ctrip.com/commerce/promote/201111/hotel/ht/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_4" rel="nofollow"><img class="htl_brand_img" alt="华住" title="华住" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/bigbutton/2014/01/华住logo.png" /><span class="brand_name">华住</span></a><a href="http://pages.c-ctrip.com/hotel/201705/rj/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_5" rel="nofollow"><img class="htl_brand_img" alt="首旅如家" title="首旅如家" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//dimg04.c-ctrip.com/images/2k0j0e000000785mc1B0B.jpg" /><span class="brand_name">首旅如家</span></a><a href="http://pages.ctrip.com/commerce/promote/201206/hotel/bgy/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_6" rel="nofollow"><img class="htl_brand_img" alt="碧桂园" title="碧桂园" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotel/gn/bjy.jpg" /><span class="brand_name">碧桂园</span></a><a href="http://pages.ctrip.com/tg/2017/5/jljt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_7" rel="nofollow"><img class="htl_brand_img" alt="君澜" title="君澜" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/button/2012/11/A81E07CA-9798-4E37-A2AC-D83958484C59.jpg" /><span class="brand_name">君澜</span></a><a href="http://pages.ctrip.com/commerce/promote/201211/hotel/wj-jt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_8" rel="nofollow"><img class="htl_brand_img" alt="港中旅维景" title="港中旅维景" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/button/2012/11/wj.jpg" /><span class="brand_name">港中旅维景</span></a><a href="http://pages.ctrip.com/commerce/promote/201212/hotel/sx_jd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_9" rel="nofollow"><img class="htl_brand_img" alt="书香连锁酒店" title="书香连锁酒店" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/banner/2012/12/SXLSlogo.png" /><span class="brand_name">书香连锁酒店</span></a><a href="http://pages.ctrip.com/commerce/promote/201212/hotel/yhjd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_10" rel="nofollow"><img class="htl_brand_img" alt="粤海" title="粤海" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/banner/2012/12/GDHlogo.jpg" /><span class="brand_name">粤海</span></a><a href="http://pages.ctrip.com/commerce/promote/201210/hotel/jjjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_11" rel="nofollow"><img class="htl_brand_img" alt="锦江酒店" title="锦江酒店" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/banner/2013/01/JJ-1.png" /><span class="brand_name">锦江酒店</span></a><a href="http://pages.ctrip.com/commerce/promote/201409/hotel/zt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_12" rel="nofollow"><img class="htl_brand_img" alt="御庭" title="御庭" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/t1/brand/279/261/318/ba6d95f5fe224943b8cab96b3db64515.jpg" /><span class="brand_name">御庭</span></a><a href="http://pages.ctrip.com/commerce/promote/201411/hotel/sx_jd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_13" rel="nofollow"><img class="htl_brand_img" alt="金陵集团" title="金陵集团" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/t1/brand/577/350/577/9a1987f7a8974d6896bf939304b47d11.jpg" /><span class="brand_name">金陵集团</span></a><a href="http://www.tujia.com/" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_14" rel="nofollow"><img class="htl_brand_img" alt="途家网" title="途家网" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g4/M04/3A/53/CggYHlXKrAeAKgCIAAA-luBzPEc190.jpg" /><span class="brand_name">途家网</span></a><a href="http://pages.ctrip.com/commerce/promote/201410/hotel/rj/indexbb.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_15" rel="nofollow"><img class="htl_brand_img" alt="大中华" title="大中华" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/rk/201410/logo1.jpg" /><span class="brand_name">大中华</span></a><a href="http://pages.ctrip.com/commerce/promote/201410/hotel/rj/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_16" rel="nofollow"><img class="htl_brand_img" alt="卡尔森瑞德" title="卡尔森瑞德" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/rk/201410/fv.jpg" /><span class="brand_name">卡尔森瑞德</span></a><a href="http://pages.ctrip.com/commerce/promote/201501/hotel/btjd/pc.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_17" rel="nofollow"><img class="htl_brand_img" alt="铂涛" title="铂涛" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/rk/201501/bt.jpg" /><span class="brand_name">铂涛</span></a><a href="http://pages.ctrip.com/commerce/promote/201501/hotel/hhjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_18" rel="nofollow"><img class="htl_brand_img" alt="海航" title="海航" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g1/M07/14/22/CghzfFTuxwyAdg90AAAWZClfuJM220.jpg" /><span class="brand_name">海航</span></a><a href="http://pages.ctrip.com/commerce/promote/201503/hotel/hjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_19" rel="nofollow"><img class="htl_brand_img" alt="花间堂" title="花间堂" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g2/M02/CF/A1/CghzgFURKkSAEegFAAGi2rwnAGk212.jpg" /><span class="brand_name">花间堂</span></a><a href="http://pages.ctrip.com/commerce/promote/201503/hotel/wyn/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_20" rel="nofollow"><img class="htl_brand_img" alt="维也纳" title="维也纳" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g2/M02/93/5D/CghzgFTFrueAcSGCAAEZNYP6FHU521.jpg" /><span class="brand_name">维也纳</span></a><a href="http://pages.ctrip.com/commerce/promote/201509/hotel/city/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_21" rel="nofollow"><img class="htl_brand_img" alt="城市名人" title="城市名人" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g4/M08/21/CE/CggYHFYbSt2AKrkzAABrXNKXFLg474.jpg" /><span class="brand_name">城市名人</span></a><a href="http://pages.ctrip.com/commerce/promote/201511/hotel/city/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_22" rel="nofollow"><img class="htl_brand_img" alt="东呈（城市便捷）" title="东呈（城市便捷）" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/t1/brand/369/116/717/da71917f697c4a8381c74ebbfbfdeeb4.jpg" /><span class="brand_name">东呈（城市便捷）</span></a><a href="http://pages.c-ctrip.com/commerce/promote/201602/hotel/yaduo/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_23" rel="nofollow"><img class="htl_brand_img" alt="亚朵" title="亚朵" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g6/M01/37/E6/CggYslawTCmAKTIdAAAmq5BHTUs201.jpg" /><span class="brand_name">亚朵</span></a><a href="http://pages.c-ctrip.com/commerce/promote/201605/hotel/ky/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_24" rel="nofollow"><img class="htl_brand_img" alt="开元" title="开元" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g6/M03/FB/78/CggYs1c0IOqAA84-AAC0702_qyk374.jpg" /><span class="brand_name">开元</span></a><a href="http://pages.ctrip.com/hotel/201607/yjjtpc/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_25" rel="nofollow"><img class="htl_brand_img" alt="隐居" title="隐居" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pic.c-ctrip.com/hotels110127/hotel_example.jpg" /><span class="brand_name">隐居</span></a><a href="http://pages.ctrip.com/hotel/201812/hdjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_26" rel="nofollow"><img class="htl_brand_img" alt="恒大" title="恒大" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/bigbutton/promotion/201711/hdlogo_new_shu.png" /><span class="brand_name">恒大</span></a><a href="http://pages.c-ctrip.com/hotel/201804/qs/index2.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_27" rel="nofollow"><img class="htl_brand_img" alt="千宿" title="千宿" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//dimg04.c-ctrip.com/images/2k0c0q000000gacig5475.jpg" /><span class="brand_name">千宿</span></a>
+			<a href="http://pages.ctrip.com/commerce/promote/201109/hotelInfo/wh/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_1" rel="nofollow"><img class="htl_brand_img" alt="万豪" title="万豪" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotelInfo/gn/wh.jpg" /><span class="brand_name">万豪</span></a><a href="http://pages.ctrip.com/commerce/promote/201110/hotelInfo/xrd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_2" rel="nofollow"><img class="htl_brand_img" alt="希尔顿" title="希尔顿" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotelInfo/gn/xed.jpg" /><span class="brand_name">希尔顿</span></a><a href="http://pages.ctrip.com/commerce/promote/201110/hotelInfo/xgll/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_3" rel="nofollow"><img class="htl_brand_img" alt="香格里拉" title="香格里拉" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotelInfo/gn/xgll.jpg" /><span class="brand_name">香格里拉</span></a><a href="http://pages.ctrip.com/commerce/promote/201111/hotelInfo/ht/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_4" rel="nofollow"><img class="htl_brand_img" alt="华住" title="华住" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/bigbutton/2014/01/华住logo.png" /><span class="brand_name">华住</span></a><a href="http://pages.c-ctrip.com/hotelInfo/201705/rj/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_5" rel="nofollow"><img class="htl_brand_img" alt="首旅如家" title="首旅如家" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//dimg04.c-ctrip.com/images/2k0j0e000000785mc1B0B.jpg" /><span class="brand_name">首旅如家</span></a><a href="http://pages.ctrip.com/commerce/promote/201206/hotelInfo/bgy/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_6" rel="nofollow"><img class="htl_brand_img" alt="碧桂园" title="碧桂园" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pages.ctrip.com/commerce/promote/201210/hotelInfo/gn/bjy.jpg" /><span class="brand_name">碧桂园</span></a><a href="http://pages.ctrip.com/tg/2017/5/jljt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_7" rel="nofollow"><img class="htl_brand_img" alt="君澜" title="君澜" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/button/2012/11/A81E07CA-9798-4E37-A2AC-D83958484C59.jpg" /><span class="brand_name">君澜</span></a><a href="http://pages.ctrip.com/commerce/promote/201211/hotelInfo/wj-jt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_8" rel="nofollow"><img class="htl_brand_img" alt="港中旅维景" title="港中旅维景" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/button/2012/11/wj.jpg" /><span class="brand_name">港中旅维景</span></a><a href="http://pages.ctrip.com/commerce/promote/201212/hotelInfo/sx_jd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_9" rel="nofollow"><img class="htl_brand_img" alt="书香连锁酒店" title="书香连锁酒店" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/banner/2012/12/SXLSlogo.png" /><span class="brand_name">书香连锁酒店</span></a><a href="http://pages.ctrip.com/commerce/promote/201212/hotelInfo/yhjd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_10" rel="nofollow"><img class="htl_brand_img" alt="粤海" title="粤海" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/banner/2012/12/GDHlogo.jpg" /><span class="brand_name">粤海</span></a><a href="http://pages.ctrip.com/commerce/promote/201210/hotelInfo/jjjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_11" rel="nofollow"><img class="htl_brand_img" alt="锦江酒店" title="锦江酒店" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/banner/2013/01/JJ-1.png" /><span class="brand_name">锦江酒店</span></a><a href="http://pages.ctrip.com/commerce/promote/201409/hotelInfo/zt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_12" rel="nofollow"><img class="htl_brand_img" alt="御庭" title="御庭" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/t1/brand/279/261/318/ba6d95f5fe224943b8cab96b3db64515.jpg" /><span class="brand_name">御庭</span></a><a href="http://pages.ctrip.com/commerce/promote/201411/hotelInfo/sx_jd/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_13" rel="nofollow"><img class="htl_brand_img" alt="金陵集团" title="金陵集团" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/t1/brand/577/350/577/9a1987f7a8974d6896bf939304b47d11.jpg" /><span class="brand_name">金陵集团</span></a><a href="http://www.tujia.com/" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_14" rel="nofollow"><img class="htl_brand_img" alt="途家网" title="途家网" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g4/M04/3A/53/CggYHlXKrAeAKgCIAAA-luBzPEc190.jpg" /><span class="brand_name">途家网</span></a><a href="http://pages.ctrip.com/commerce/promote/201410/hotelInfo/rj/indexbb.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_15" rel="nofollow"><img class="htl_brand_img" alt="大中华" title="大中华" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/rk/201410/logo1.jpg" /><span class="brand_name">大中华</span></a><a href="http://pages.ctrip.com/commerce/promote/201410/hotelInfo/rj/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_16" rel="nofollow"><img class="htl_brand_img" alt="卡尔森瑞德" title="卡尔森瑞德" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/rk/201410/fv.jpg" /><span class="brand_name">卡尔森瑞德</span></a><a href="http://pages.ctrip.com/commerce/promote/201501/hotelInfo/btjd/pc.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_17" rel="nofollow"><img class="htl_brand_img" alt="铂涛" title="铂涛" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/rk/201501/bt.jpg" /><span class="brand_name">铂涛</span></a><a href="http://pages.ctrip.com/commerce/promote/201501/hotelInfo/hhjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_18" rel="nofollow"><img class="htl_brand_img" alt="海航" title="海航" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g1/M07/14/22/CghzfFTuxwyAdg90AAAWZClfuJM220.jpg" /><span class="brand_name">海航</span></a><a href="http://pages.ctrip.com/commerce/promote/201503/hotelInfo/hjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_19" rel="nofollow"><img class="htl_brand_img" alt="花间堂" title="花间堂" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g2/M02/CF/A1/CghzgFURKkSAEegFAAGi2rwnAGk212.jpg" /><span class="brand_name">花间堂</span></a><a href="http://pages.ctrip.com/commerce/promote/201503/hotelInfo/wyn/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_20" rel="nofollow"><img class="htl_brand_img" alt="维也纳" title="维也纳" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g2/M02/93/5D/CghzgFTFrueAcSGCAAEZNYP6FHU521.jpg" /><span class="brand_name">维也纳</span></a><a href="http://pages.ctrip.com/commerce/promote/201509/hotelInfo/city/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_21" rel="nofollow"><img class="htl_brand_img" alt="城市名人" title="城市名人" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g4/M08/21/CE/CggYHFYbSt2AKrkzAABrXNKXFLg474.jpg" /><span class="brand_name">城市名人</span></a><a href="http://pages.ctrip.com/commerce/promote/201511/hotelInfo/city/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_22" rel="nofollow"><img class="htl_brand_img" alt="东呈（城市便捷）" title="东呈（城市便捷）" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/t1/brand/369/116/717/da71917f697c4a8381c74ebbfbfdeeb4.jpg" /><span class="brand_name">东呈（城市便捷）</span></a><a href="http://pages.c-ctrip.com/commerce/promote/201602/hotelInfo/yaduo/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_23" rel="nofollow"><img class="htl_brand_img" alt="亚朵" title="亚朵" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g6/M01/37/E6/CggYslawTCmAKTIdAAAmq5BHTUs201.jpg" /><span class="brand_name">亚朵</span></a><a href="http://pages.c-ctrip.com/commerce/promote/201605/hotelInfo/ky/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_24" rel="nofollow"><img class="htl_brand_img" alt="开元" title="开元" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images4.c-ctrip.com/target/fd/brand/g6/M03/FB/78/CggYs1c0IOqAA84-AAC0702_qyk374.jpg" /><span class="brand_name">开元</span></a><a href="http://pages.ctrip.com/hotelInfo/201607/yjjtpc/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_25" rel="nofollow"><img class="htl_brand_img" alt="隐居" title="隐居" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//pic.c-ctrip.com/hotels110127/hotel_example.jpg" /><span class="brand_name">隐居</span></a><a href="http://pages.ctrip.com/hotelInfo/201812/hdjt/index.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_26" rel="nofollow"><img class="htl_brand_img" alt="恒大" title="恒大" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//images3.c-ctrip.com/ad/bigbutton/promotion/201711/hdlogo_new_shu.png" /><span class="brand_name">恒大</span></a><a href="http://pages.c-ctrip.com/hotelInfo/201804/qs/index2.html" target="_blank"  data-ctm="#ctm_ref=hd_hp_th_pe_hi_i_a_27" rel="nofollow"><img class="htl_brand_img" alt="千宿" title="千宿" src="//pic.c-ctrip.com/common/pic_alpha.gif" data-lazy="//dimg04.c-ctrip.com/images/2k0c0q000000gacig5475.jpg" /><span class="brand_name">千宿</span></a>
 			</div>
 		</div>
 	</div>
@@ -998,61 +998,61 @@ var ThemeData = "";
 <p class="p">携程酒店官网为您提供国内1300个城市酒店预订及价格查询，包括全球200多个国家，5万个城市的酒店预订服务，国内外超过25万家的酒店、宾馆、旅社、客栈、经济连锁、酒店公寓、青年旅社等住宿信息，覆盖酒店图片、房间照片、酒店电话、酒店地址以及真实用户的酒店点评等。网上预订携程神秘特价酒店，还可体验不可思议低价惊喜。<a href="javascript:;" id="seo_more" class="seo_more" rel="nofollow">查看全部</a></p>
 <dl class="seo_hot sta_unfold">
 <dt><h4>热门城市</h4></dt>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_1" href="/hotel/beijing1" title="北京酒店预订" >北京酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_2" href="/hotel/shanghai2" title="上海酒店预订" >上海酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_3" href="/hotel/guangzhou32" title="广州酒店预订" >广州酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_4" href="/hotel/shenzhen30" title="深圳酒店预订" >深圳酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_5" href="/hotel/nanjing12" title="南京酒店预订" >南京酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_6" href="/hotel/hangzhou17" title="杭州酒店预订" >杭州酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_7" href="/hotel/chengdu28" title="成都酒店预订" >成都酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_8" href="/hotel/xiamen25" title="厦门酒店预订" >厦门酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_9" href="/hotel/qingdao7" title="青岛酒店预订" >青岛酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_10" href="/hotel/sanya43" title="三亚酒店预订" >三亚酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_11" href="/hotel/hong-kong58" title="香港酒店预订" >香港酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_12" href="/hotel/macau59" title="澳门酒店预订" >澳门酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_13" href="/hotel/xian10" title="西安酒店预订" >西安酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_14" href="/hotel/suzhou14" title="苏州酒店预订" >苏州酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_15" href="/hotel/changsha206" title="长沙酒店预订" >长沙酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_16" href="/hotel/wuhan477" title="武汉酒店预订" >武汉酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_17" href="/hotel/dalian6" title="大连酒店预订" >大连酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_18" href="/hotel/tianjin3" title="天津酒店预订" >天津酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_19" href="/hotel/chongqing4" title="重庆酒店预订" >重庆酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_20" href="/hotel/changchun158" title="长春酒店预订" >长春酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_21" href="/hotel/jinan144" title="济南酒店预订" >济南酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_22" href="/hotel/guiyang38" title="贵阳酒店预订" >贵阳酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_23" href="/hotel/kunming34" title="昆明酒店预订" >昆明酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_24" href="/hotel/zhengzhou559" title="郑州酒店预订" >郑州酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_25" href="/hotel/yinchuan99" title="银川酒店预订" >银川酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_26" href="/hotel/nanchang376" title="南昌酒店预订" >南昌酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_27" href="/hotel/shenyang451" title="沈阳酒店预订" >沈阳酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_28" href="/hotel/shijiazhuang428" title="石家庄酒店预订" >石家庄酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_29" href="/hotel/fuzhou258" title="福州酒店预订" >福州酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_30" href="/hotel/hefei278" title="合肥酒店预订" >合肥酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_31" href="/hotel/nanning380" title="南宁酒店预订" >南宁酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_32" href="/hotel/urumqi39" title="乌鲁木齐酒店预订" >乌鲁木齐酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_33" href="/hotel/taiyuan105" title="太原酒店预订" >太原酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_34" href="/hotel/harbin5" title="哈尔滨酒店预订" >哈尔滨酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_35" href="/hotel/lanzhou100" title="兰州酒店预订" >兰州酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_36" href="/hotel/taipei617" title="台北酒店预订" >台北酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_37" href="/hotel/lasa41" title="拉萨酒店预订" >拉萨酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_38" href="/hotel/xining124" title="西宁酒店预订" >西宁酒店</a></dd>
-<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_39" href="/hotel/huhehaote103" title="呼和浩特酒店预订" >呼和浩特酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_1" href="/hotelInfo/beijing1" title="北京酒店预订" >北京酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_2" href="/hotelInfo/shanghai2" title="上海酒店预订" >上海酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_3" href="/hotelInfo/guangzhou32" title="广州酒店预订" >广州酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_4" href="/hotelInfo/shenzhen30" title="深圳酒店预订" >深圳酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_5" href="/hotelInfo/nanjing12" title="南京酒店预订" >南京酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_6" href="/hotelInfo/hangzhou17" title="杭州酒店预订" >杭州酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_7" href="/hotelInfo/chengdu28" title="成都酒店预订" >成都酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_8" href="/hotelInfo/xiamen25" title="厦门酒店预订" >厦门酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_9" href="/hotelInfo/qingdao7" title="青岛酒店预订" >青岛酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_10" href="/hotelInfo/sanya43" title="三亚酒店预订" >三亚酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_11" href="/hotelInfo/hong-kong58" title="香港酒店预订" >香港酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_12" href="/hotelInfo/macau59" title="澳门酒店预订" >澳门酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_13" href="/hotelInfo/xian10" title="西安酒店预订" >西安酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_14" href="/hotelInfo/suzhou14" title="苏州酒店预订" >苏州酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_15" href="/hotelInfo/changsha206" title="长沙酒店预订" >长沙酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_16" href="/hotelInfo/wuhan477" title="武汉酒店预订" >武汉酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_17" href="/hotelInfo/dalian6" title="大连酒店预订" >大连酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_18" href="/hotelInfo/tianjin3" title="天津酒店预订" >天津酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_19" href="/hotelInfo/chongqing4" title="重庆酒店预订" >重庆酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_20" href="/hotelInfo/changchun158" title="长春酒店预订" >长春酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_21" href="/hotelInfo/jinan144" title="济南酒店预订" >济南酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_22" href="/hotelInfo/guiyang38" title="贵阳酒店预订" >贵阳酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_23" href="/hotelInfo/kunming34" title="昆明酒店预订" >昆明酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_24" href="/hotelInfo/zhengzhou559" title="郑州酒店预订" >郑州酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_25" href="/hotelInfo/yinchuan99" title="银川酒店预订" >银川酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_26" href="/hotelInfo/nanchang376" title="南昌酒店预订" >南昌酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_27" href="/hotelInfo/shenyang451" title="沈阳酒店预订" >沈阳酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_28" href="/hotelInfo/shijiazhuang428" title="石家庄酒店预订" >石家庄酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_29" href="/hotelInfo/fuzhou258" title="福州酒店预订" >福州酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_30" href="/hotelInfo/hefei278" title="合肥酒店预订" >合肥酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_31" href="/hotelInfo/nanning380" title="南宁酒店预订" >南宁酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_32" href="/hotelInfo/urumqi39" title="乌鲁木齐酒店预订" >乌鲁木齐酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_33" href="/hotelInfo/taiyuan105" title="太原酒店预订" >太原酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_34" href="/hotelInfo/harbin5" title="哈尔滨酒店预订" >哈尔滨酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_35" href="/hotelInfo/lanzhou100" title="兰州酒店预订" >兰州酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_36" href="/hotelInfo/taipei617" title="台北酒店预订" >台北酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_37" href="/hotelInfo/lasa41" title="拉萨酒店预订" >拉萨酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_38" href="/hotelInfo/xining124" title="西宁酒店预订" >西宁酒店</a></dd>
+<dd><a target="_blank" data-ctm="#ctm_ref=hd_hp_hc_lst_hi_i_a_39" href="/hotelInfo/huhehaote103" title="呼和浩特酒店预订" >呼和浩特酒店</a></dd>
 </dl>
 <div class="seo_line"></div>
 <dl class="seo_hot sta_unfold"><dt><h4>热门景点</h4></dt>
-<dd><a target="_blank" href="/hotel/xitangD15_596" title="西塘酒店预订" >西塘酒店</a></dd>
-<dd><a target="_blank" href="/hotel/wuzhenD508_580" title="乌镇酒店预订" >乌镇酒店</a></dd>
-<dd><a target="_blank" href="/hotel/gulangyuD9458_25" title="鼓浪屿酒店预订" >鼓浪屿酒店</a></dd>
-<dd><a target="_blank" href="/hotel/zhujiajianD256_19" title="朱家尖酒店预订" >朱家尖酒店</a></dd>
-<dd><a target="_blank" href="/hotel/putuoshanD16_19" title="普陀山酒店预订" >普陀山酒店</a></dd>
-<dd><a target="_blank" href="/hotel/qiandaohuD17_20" title="千岛湖酒店预订" >千岛湖酒店</a></dd>
-<dd><a target="_blank" href="/hotel/weizhoudaoD978_189" title="涠洲岛酒店预订" >涠洲岛酒店</a></dd>
-<dd><a target="_blank" href="/hotel/shengsiD82_19" title="嵊泗酒店预订" >嵊泗酒店</a></dd>
-<dd><a target="_blank" href="/hotel/luguhuD105_37" title="泸沽湖酒店预订" >泸沽湖酒店</a></dd>
-<dd><a target="_blank" href="/hotel/moganshanD87_1367" title="莫干山酒店预订" >莫干山酒店</a></dd>
-<dd><a target="_blank" href="/hotel/nanxunD80_86" title="南浔酒店预订" >南浔酒店</a></dd>
-<dd><a target="_blank" href="/hotel/beidaiheD1938_147" title="北戴河酒店预订" >北戴河酒店</a></dd>
-<dd><a target="_blank" href="/hotel/sanqingshanD159_411" title="三清山酒店预订" >三清山酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/xitangD15_596" title="西塘酒店预订" >西塘酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/wuzhenD508_580" title="乌镇酒店预订" >乌镇酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/gulangyuD9458_25" title="鼓浪屿酒店预订" >鼓浪屿酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/zhujiajianD256_19" title="朱家尖酒店预订" >朱家尖酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/putuoshanD16_19" title="普陀山酒店预订" >普陀山酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/qiandaohuD17_20" title="千岛湖酒店预订" >千岛湖酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/weizhoudaoD978_189" title="涠洲岛酒店预订" >涠洲岛酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/shengsiD82_19" title="嵊泗酒店预订" >嵊泗酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/luguhuD105_37" title="泸沽湖酒店预订" >泸沽湖酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/moganshanD87_1367" title="莫干山酒店预订" >莫干山酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/nanxunD80_86" title="南浔酒店预订" >南浔酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/beidaiheD1938_147" title="北戴河酒店预订" >北戴河酒店</a></dd>
+<dd><a target="_blank" href="/hotelInfo/sanqingshanD159_411" title="三清山酒店预订" >三清山酒店</a></dd>
 </dl>
 
 <div class="seo_line"></div>
@@ -1125,10 +1125,10 @@ var ThemeData = "";
 <dt><h4>快速入口</h4></dt>
 <dd><a target="_blank" href="/jiudian/" title="酒店导航" >酒店导航</a></dd>
 <dd><a target="_blank" href="/brand/" title="品牌大全" >品牌酒店</a></dd>
-<dd><a target="_blank" href="/domestic-city-hotel.html" title="国内酒店大全" >酒店大全</a></dd>
+<dd><a target="_blank" href="/domestic-city-hotelInfo.html" title="国内酒店大全" >酒店大全</a></dd>
 <dd><a target="_blank" href="/international/landmarks/" title="全球国家酒店" >国家酒店</a></dd>
-<dd><a target="_blank" href="/hot-newadd-hotel-A.html" title="热门酒店推荐" >热门酒店</a></dd>
-<dd><a target="_blank" href="/nojoin-hotel.html" title="城市酒店大全" >城市酒店大全</a></dd>
+<dd><a target="_blank" href="/hot-newadd-hotelInfo-A.html" title="热门酒店推荐" >热门酒店</a></dd>
+<dd><a target="_blank" href="/nojoin-hotelInfo.html" title="城市酒店大全" >城市酒店大全</a></dd>
 <dd><a target="_blank" href="//www.kztpms.com#ctm_ref=4" title="客栈通PMS">客栈通PMS</a></dd>
 <dd><a target="_blank" href="//ebooking.ctrip.com/" title="eBooking酒店管理后台">eBooking</a></dd>
 <dd><a target="_blank" href="//lipin.ctrip.com/ " title="礼品卡" >礼品卡</a></dd>
@@ -1137,7 +1137,7 @@ var ThemeData = "";
 <div class="seo_line"></div>
 <dl class="seo_hot sta_unfold seo_booking" id="J_latestOrdered">
 <dt><h4>最新预订</h4></dt>
-<dd><a title="锦江之星（漯河人民路店）" href="/hotel/749861.html" target="_blank">锦江之星（漯河人民路店）在6分钟前被预订</a></dd><dd><a title="济南索菲特银座大饭店" href="/hotel/430148.html" target="_blank">济南索菲特银座大饭店在2分钟前被预订</a></dd><dd><a title="千岛湖温馨岛浙旅度假酒店" href="/hotel/435356.html" target="_blank">千岛湖温馨岛浙旅度假酒店在5分钟前被预订</a></dd><dd><a title="澳门东望洋酒店(Hotel Guia" href="/hotel/ Macau),425995.html" target="_blank">澳门东望洋酒店(Hotel Guia在3分钟前被预订</a></dd><dd><a title="北京金融街丽思卡尔顿酒店" href="/hotel/387040.html" target="_blank">北京金融街丽思卡尔顿酒店在5分钟前被预订</a></dd><dd><a title="上海通茂大酒店" href="/hotel/345063.html" target="_blank">上海通茂大酒店在9分钟前被预订</a></dd><dd><a title="如家快捷酒店（金华八一南街金发广场店）(原金华八一南街店)" href="/hotel/64028.html" target="_blank">如家快捷酒店（金华八一南街金发广场店）(原金华八一南街店)在7分钟前被预订</a></dd><dd><a title="船长青年酒店（上海福州路店）" href="/hotel/73707.html" target="_blank">船长青年酒店（上海福州路店）在5分钟前被预订</a></dd><dd><a title="金华嘉恒澜庭大酒店" href="/hotel/662640.html" target="_blank">金华嘉恒澜庭大酒店在2分钟前被预订</a></dd><dd><a title="全季酒店（扬州文昌阁店）" href="/hotel/842883.html" target="_blank">全季酒店（扬州文昌阁店）在5分钟前被预订</a></dd><dd><a title="贵州美福假日酒店" href="/hotel/107680.html" target="_blank">贵州美福假日酒店在8分钟前被预订</a></dd><dd><a title="北京奥友宾馆" href="/hotel/48016.html" target="_blank">北京奥友宾馆在3分钟前被预订</a></dd>
+<dd><a title="锦江之星（漯河人民路店）" href="/hotelInfo/749861.html" target="_blank">锦江之星（漯河人民路店）在6分钟前被预订</a></dd><dd><a title="济南索菲特银座大饭店" href="/hotelInfo/430148.html" target="_blank">济南索菲特银座大饭店在2分钟前被预订</a></dd><dd><a title="千岛湖温馨岛浙旅度假酒店" href="/hotelInfo/435356.html" target="_blank">千岛湖温馨岛浙旅度假酒店在5分钟前被预订</a></dd><dd><a title="澳门东望洋酒店(Hotel Guia" href="/hotelInfo/ Macau),425995.html" target="_blank">澳门东望洋酒店(Hotel Guia在3分钟前被预订</a></dd><dd><a title="北京金融街丽思卡尔顿酒店" href="/hotelInfo/387040.html" target="_blank">北京金融街丽思卡尔顿酒店在5分钟前被预订</a></dd><dd><a title="上海通茂大酒店" href="/hotelInfo/345063.html" target="_blank">上海通茂大酒店在9分钟前被预订</a></dd><dd><a title="如家快捷酒店（金华八一南街金发广场店）(原金华八一南街店)" href="/hotelInfo/64028.html" target="_blank">如家快捷酒店（金华八一南街金发广场店）(原金华八一南街店)在7分钟前被预订</a></dd><dd><a title="船长青年酒店（上海福州路店）" href="/hotelInfo/73707.html" target="_blank">船长青年酒店（上海福州路店）在5分钟前被预订</a></dd><dd><a title="金华嘉恒澜庭大酒店" href="/hotelInfo/662640.html" target="_blank">金华嘉恒澜庭大酒店在2分钟前被预订</a></dd><dd><a title="全季酒店（扬州文昌阁店）" href="/hotelInfo/842883.html" target="_blank">全季酒店（扬州文昌阁店）在5分钟前被预订</a></dd><dd><a title="贵州美福假日酒店" href="/hotelInfo/107680.html" target="_blank">贵州美福假日酒店在8分钟前被预订</a></dd><dd><a title="北京奥友宾馆" href="/hotelInfo/48016.html" target="_blank">北京奥友宾馆在3分钟前被预订</a></dd>
 </dl>
 
 
@@ -1172,14 +1172,14 @@ var ThemeData = "";
         <h2>我浏览过的酒店</h2>
         <div class="index_history_cont">
             <ul class="index_history_list J_historyHotelsList">
-                {{each(index,hotel) $data}}
+                {{each(index,hotelInfo) $data}}
                 <li>
-                  <a id="ctl00_repeaterHome_ctl00_linkDelete" class="delete" data-id="${hotel.HotelId}" href="javascript:void(0);">×</a>
-                  <a id="ctl00_repeaterHome_ctl00_linkHotelPicture" class="sider_hotel_pic J_trace_scanedHotel" data-hotel="${hotel.HotelId}" href="/hotel/${hotel.HotelId}.html#ctm_ref=hod_hp_hv_def_i_1" target="_blank">
-                      <img id="ctl00_repeaterHome_ctl00_imgHotelPicture" src="${hotel.LogoUrl}" style="border-width:0px;"></a>
-                  <a id="ctl00_repeaterHome_ctl00_linkHotelName" class="J_trace_scanedHotel hotel_name" data-dopost="T" data-hotel="${hotel.HotelId}" href="/hotel/${hotel.HotelId}.html#ctm_ref=hod_hp_hv_def_n_1" target="_blank">${hotel.HotelName}</a>
-                  <span class="${hotel.CustomerEvalCss}" title="${hotel.CustomerEvalStr}"></span>
-                  <p class="info"><a target="_blank" href="/hotel/dianping/${hotel.HotelId}.html#ctm_ref=hod_hp_hv_def_c_1"><span>${hotel.Score || 0}</span>分/<span>5分</span>  源自${hotel.Voter || 0}位住客点评</a></p>
+                  <a id="ctl00_repeaterHome_ctl00_linkDelete" class="delete" data-id="${hotelInfo.HotelId}" href="javascript:void(0);">×</a>
+                  <a id="ctl00_repeaterHome_ctl00_linkHotelPicture" class="sider_hotel_pic J_trace_scanedHotel" data-hotelInfo="${hotelInfo.HotelId}" href="/hotelInfo/${hotelInfo.HotelId}.html#ctm_ref=hod_hp_hv_def_i_1" target="_blank">
+                      <img id="ctl00_repeaterHome_ctl00_imgHotelPicture" src="${hotelInfo.LogoUrl}" style="border-width:0px;"></a>
+                  <a id="ctl00_repeaterHome_ctl00_linkHotelName" class="J_trace_scanedHotel hotel_name" data-dopost="T" data-hotelInfo="${hotelInfo.HotelId}" href="/hotelInfo/${hotelInfo.HotelId}.html#ctm_ref=hod_hp_hv_def_n_1" target="_blank">${hotelInfo.HotelName}</a>
+                  <span class="${hotelInfo.CustomerEvalCss}" title="${hotelInfo.CustomerEvalStr}"></span>
+                  <p class="info"><a target="_blank" href="/hotelInfo/dianping/${hotelInfo.HotelId}.html#ctm_ref=hod_hp_hv_def_c_1"><span>${hotelInfo.Score || 0}</span>分/<span>5分</span>  源自${hotelInfo.Voter || 0}位住客点评</a></p>
                 </li>
                 {{/each}}
             </ul>
@@ -1585,7 +1585,7 @@ var ThemeData = "";
         {{enum(key, item) data}}
             {{if key==="subCity"}}
                 <div class="keyword_sub_city">
-                    ${item.cnname}：{{if (item.data)}}{{each item.data}}<a href="/{{if (searchOptions.isInn)}}inn{{else}}hotel{{/if}}/${ename}${id}" class="subCity" data-dopost="T">${name}</a>{{/each}}{{/if}}
+                    ${item.cnname}：{{if (item.data)}}{{each item.data}}<a href="/{{if (searchOptions.isInn)}}inn{{else}}hotelInfo{{/if}}/${ename}${id}" class="subCity" data-dopost="T">${name}</a>{{/each}}{{/if}}
                 </div>
             {{else}}
                 <dl class="key_word_list">
@@ -1605,7 +1605,7 @@ var ThemeData = "";
         {{enum(key, item) $data.data}}
             {{if key==="subCity"}}
             <div class="keyword_sub_city">
-                ${item.cnname}：{{if (item.data)}}{{each (key, it) item.data}}<a href="/{{if (searchOptions.isInn)}}inn{{else}}hotel{{/if}}/${it.ename}${it.id}" class="subCity" data-dopost="T">${it.name}</a>{{/each}}{{/if}}
+                ${item.cnname}：{{if (item.data)}}{{each (key, it) item.data}}<a href="/{{if (searchOptions.isInn)}}inn{{else}}hotelInfo{{/if}}/${it.ename}${it.id}" class="subCity" data-dopost="T">${it.name}</a>{{/each}}{{/if}}
             </div>
             {{else}}
             <dl class="key_word_list">
@@ -2021,7 +2021,7 @@ var ThemeData = "";
             defaultValue: ['上海','2','shanghai']
         };
         var validateMessageConfig = {
-            hotel: {
+            hotelInfo: {
                 city: '请选择酒店所在城市',
                 checkIn: '请选择入住日期',
                 checkOut: '请选择离店日期',
@@ -2063,12 +2063,12 @@ var ThemeData = "";
 
         var keywordMessageConfig = {
           placeholder: {
-              hotel: '（选填）酒店名/地标/商圈',
+              hotelInfo: '（选填）酒店名/地标/商圈',
               inn:'（选填）客栈名/地标/商圈',
               hotHotel:'选填）酒店名/地标/商圈'
           },
           searchButtonText : {
-            hotel:'搜索',
+            hotelInfo:'搜索',
             inn:'搜索 客栈民宿',
             hotHotel:'搜索特价酒店'
           }
@@ -2104,7 +2104,7 @@ var ThemeData = "";
                     //e.stop()
                     var adid = $(this).attr("data-adpos-id");
                     var advValue ="version=1.0&channelid=4&moduleid=hod_hp_ad_def&hoteladvertiseid="+adid;
-                    _tracklog("hotel.adclick",advValue);
+                    _tracklog("hotelInfo.adclick",advValue);
                 });
 
                 var  middle$ads = $(".J_specialtitle").find("a");//.bind("click",function(){
@@ -2114,7 +2114,7 @@ var ThemeData = "";
                         //advid
                         var adid = $(this).attr("data-adpos-id")
                         var advValue ="version=1.0&channelid=4&moduleid=hod_hp_ad_def&hoteladvertiseid="+adid;
-                        _tracklog("hotel.adclick",advValue);
+                        _tracklog("hotelInfo.adclick",advValue);
                         //e.data-adpos-id
                     });
                 });
@@ -2148,7 +2148,7 @@ var ThemeData = "";
                     if(homeClick){
                         window['__bfi'].push(['_tracklog', 'htl.home', "adid=${"+adid+"}&adurl={"+href+"}&moduleid=htl_ad_top&type=home"]);
                     } else {
-                        window['__bfi'].push(['_tracklog', 'hotel.ad.swit.imp', "adid=${"+adid+"}&page_id=${"+page_id+"}&adurl={"+href+"}&moduleid=htl_ad_top&type=switch"]);
+                        window['__bfi'].push(['_tracklog', 'hotelInfo.ad.swit.imp', "adid=${"+adid+"}&page_id=${"+page_id+"}&adurl={"+href+"}&moduleid=htl_ad_top&type=switch"]);
                     }
                 }
 
@@ -2421,7 +2421,7 @@ var ThemeData = "";
         {
             var valueList = '1154,477,169,949,960,807,580,579,1044';
             var advValue ="version=1.0&channelid=4&moduleid=hod_hp_ad_def&hoteladvertiseid_list="+valueList;
-            _tracklog("hotel.adimpression",advValue);
+            _tracklog("hotelInfo.adimpression",advValue);
         }
 
         //class 为   side_sales_h144 de a标签bindclick

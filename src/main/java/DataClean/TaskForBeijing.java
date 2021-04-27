@@ -1,14 +1,15 @@
-package DataClean.step2;
+package DataClean;
 
 import java.util.*;
 
+import pojo.Hotel;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 import java.io.*;
 
-public class Task {
+public class TaskForBeijing {
 
     /**
      * 使用fastjson解析数据
@@ -16,7 +17,7 @@ public class Task {
      * @param hotelResult 已经为你解析的所需json数据
      * @return
      */
-    public List<Hotel> getHotle(String hotelResult) {
+    public static List<Hotel> getHotle(String hotelResult) {
         /**********   Begin   **********/
         ArrayList<Hotel> hotels = new ArrayList<>();
 
@@ -45,10 +46,10 @@ public class Task {
      *
      * @return
      */
-    public String getHotelListString(String cityId, String url) {
+    public static String getHotelListString(String cityId, String url) {
         String hotelResult = "";
         try {
-            InputStream is = new FileInputStream(new File("src/main/java/DataClean/step2/hotelResult.txt"));
+            InputStream is = new FileInputStream(new File("src/main/resources/hotelResult.txt"));
             byte[] b = new byte[1024];
             int len = 0;
             try {
@@ -64,6 +65,15 @@ public class Task {
         }
 
         return hotelResult;
+    }
+
+    public static void main(String[] args) {
+        String hotelResult = TaskForBeijing.getHotelListString("1", "http://hotels.ctrip.com/Domestic/Tool/AjaxHotelList.aspx");
+        List<Hotel> hotle = TaskForBeijing.getHotle(hotelResult);
+        System.out.println("北京市酒店个数："+hotle.size());
+        for (int i = 0; i < hotle.size(); i++) {
+            System.out.println(hotle.get(i));
+        }
     }
 
 }

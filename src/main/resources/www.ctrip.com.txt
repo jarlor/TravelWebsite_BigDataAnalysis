@@ -143,7 +143,7 @@
 <a class="person-text nav-myctrip" href="http://my.ctrip.com/home/myinfo.aspx#ctm_ref=ssc_hp_myctrip_a "><span class="set-text"> 我的携程 <b class="n-arrow"></b></span></a>
 <ul class="nav-drowndrop" style="display: none;">
 <li>
-<a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotel/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a ">我的收藏 </a>
+<a rel="nofollow" href="http://my.ctrip.com/FavoriteOnline/hotelInfo/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a ">我的收藏 </a>
 </li>
 <li>
 <a rel="nofollow" href="https://smarket.ctrip.com/Promocode/zh-cn/Promocode.aspx#ctm_ref=ssc_hp_myctrip_integral_a ">我的优惠券 </a>
@@ -260,7 +260,7 @@
 </li>
 <li class="divider "></li>
 <li id="ul_c_ph_taocanj_h">
-<a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotel">酒店+景点</a>
+<a id="c_ph_taocanj_h" href="http://taocan.ctrip.com/sh/HotelDefault.aspx?fluxentrance=10405&amp;FromMenu=hotelInfo">酒店+景点</a>
 </li>
 <li class="divider "></li>
 <li id="ul_c_ph_inn_h">
@@ -275,7 +275,7 @@
 <a id="c_ph_meeting_h" href="http://meeting.ctrip.com/?channel=1#ctm_ref=mtg_meeting_2dh">会议</a>
 </li>
 </ul>
-<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotel"></i>酒店订单 &gt;</a>
+<a class="cui_ico_order" rel="nofollow" href="http://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotelInfo"></i>酒店订单 &gt;</a>
 </div>
 </li>
 <li class="divider "></li>
@@ -638,7 +638,7 @@
 <div class="mod cui_subway_internal">
 <h2 class="line-title">境外直通车<i class="icon-arrow"></i></h2>
 <ul class="line-list">
-<li><i class="cui-icon-hotel"></i><a href="http://hotels.ctrip.com/international#ctm_ref=tti_hp_sni_hoi_txt_1">海外酒店</a></li>
+<li><i class="cui-icon-hotelInfo"></i><a href="http://hotels.ctrip.com/international#ctm_ref=tti_hp_sni_hoi_txt_1">海外酒店</a></li>
 <li><i class="cui-icon-flight"></i><a href="http://flights.ctrip.com/international#ctm_ref=tti_hp_sni_fli_txt_2">国际&#8226;港澳台机票</a></li>
 <li><i class="cui-icon-car"></i><a href="http://car.ctrip.com/hwzijia#ctm_ref=tti_hp_sni_car_txt_3">境外租车</a></li>
 <li><i class="cui-icon-train"></i><a href="http://rails.ctrip.com#ctm_ref=tti_hp_sni_tra_txt_4">国际&#8226;港台火车票</a></li>
@@ -659,8 +659,8 @@
 <div class="mod mod-search">
 <!-- searchbox start -->
 <div id="searchBox" class="searchbox searchbox_animate">
-<script type="text/javascript">var searchFile = { package: "//webresource.c-ctrip.com/pub/52920f0b/691c7878/bc26a87b/85240dcb.js", vacation: "//webresource.c-ctrip.com/pub/902a0cad/08a88ec8/7e6fbc19/7a4317e6.js", inteFlight: "//webresource.c-ctrip.com/pub/ea225d57/a1cb9bec/00600ab0/85e75a8c.js", car: "//webresource.c-ctrip.com/pub/7b544f0c/b603beb2/391f9383/63d1a681.js", ticket: "//webresource.c-ctrip.com/pub/76aadd9d/8d92f212/14ce675f/3b8be56e.js", free: "//webresource.c-ctrip.com/pub/5322e4e3/09c6f8f9/5618311d/fbe905ab.js", groupHotel: "//webresource.c-ctrip.com/pub/de8e62ac/7ca29847/e01808b4/db6b23eb.js", train: "//webresource.c-ctrip.com/pub/d5eca345/3c02f5b9/bf5a99f0/4d9e4559.js", inteHotel: "//webresource.c-ctrip.com/pub/ae62cb7e/2395bee6/c892d579/1238563a.js", chinaHotel: "//webresource.c-ctrip.com/pub/433d35e4/2d4bc059/94d36cad/4207c09c.js", hotelMeeing: "//webresource.c-ctrip.com/pub/0ec7498e/bc33950b/387a0528/6582021e.js", chinaFlight: "//webresource.c-ctrip.com/pub/f06780ff/1d2d0e34/846ece24/5614a886.js", flightFuzzySearch: "//webresource.c-ctrip.com/pub/5f5055ed/733f317e/49d815b4/ae3f4a3c.js", hotel: "//webresource.c-ctrip.com/pub/fe0aa699/72e2ebd3/b7be91f9/88e419a5.js", you: "//webresource.c-ctrip.com/pub/3672e7bd/e9643863/15113bc5/91a9a02a.js"};</script><ul id="searchBoxUl" class="s_tab">
-<li styletag="hotel" class="s_tab_current"><b>酒店</b></li>
+<script type="text/javascript">var searchFile = { package: "//webresource.c-ctrip.com/pub/52920f0b/691c7878/bc26a87b/85240dcb.js", vacation: "//webresource.c-ctrip.com/pub/902a0cad/08a88ec8/7e6fbc19/7a4317e6.js", inteFlight: "//webresource.c-ctrip.com/pub/ea225d57/a1cb9bec/00600ab0/85e75a8c.js", car: "//webresource.c-ctrip.com/pub/7b544f0c/b603beb2/391f9383/63d1a681.js", ticket: "//webresource.c-ctrip.com/pub/76aadd9d/8d92f212/14ce675f/3b8be56e.js", free: "//webresource.c-ctrip.com/pub/5322e4e3/09c6f8f9/5618311d/fbe905ab.js", groupHotel: "//webresource.c-ctrip.com/pub/de8e62ac/7ca29847/e01808b4/db6b23eb.js", train: "//webresource.c-ctrip.com/pub/d5eca345/3c02f5b9/bf5a99f0/4d9e4559.js", inteHotel: "//webresource.c-ctrip.com/pub/ae62cb7e/2395bee6/c892d579/1238563a.js", chinaHotel: "//webresource.c-ctrip.com/pub/433d35e4/2d4bc059/94d36cad/4207c09c.js", hotelMeeing: "//webresource.c-ctrip.com/pub/0ec7498e/bc33950b/387a0528/6582021e.js", chinaFlight: "//webresource.c-ctrip.com/pub/f06780ff/1d2d0e34/846ece24/5614a886.js", flightFuzzySearch: "//webresource.c-ctrip.com/pub/5f5055ed/733f317e/49d815b4/ae3f4a3c.js", hotelInfo: "//webresource.c-ctrip.com/pub/fe0aa699/72e2ebd3/b7be91f9/88e419a5.js", you: "//webresource.c-ctrip.com/pub/3672e7bd/e9643863/15113bc5/91a9a02a.js"};</script><ul id="searchBoxUl" class="s_tab">
+<li styletag="hotelInfo" class="s_tab_current"><b>酒店</b></li>
 <li styletag="flight" class="s_tab_nocurrent"><b>机票</b></li>
 <li styletag="vacation" class="s_tab_nocurrent"><b>旅游</b></li>
 <li styletag="package" class="s_tab_nocurrent"><b>跟团游</b></li>
@@ -669,7 +669,7 @@
 <li styletag="car" class="s_tab_nocurrent"><b>用车</b></li>
 </ul>
 <!-- 酒店搜索开始 -->
-<div styletag="hotel" class="s_content">
+<div styletag="hotelInfo" class="s_content">
 <p class="s_subtab_a" id="hotelSwitch">
 <a href="javascript:void(0);" class="current" data-index="0">国内酒店</a>
 <a href="javascript:void(0);" data-index="1" class="">海外酒店</a>
@@ -812,7 +812,7 @@ suggestTitle: ["名称", "机场火车站", "位置"],
 defaultValue: ['上海', '2', 'shanghai']
 },
 validateMessageConfig: {
-hotel: {
+hotelInfo: {
 city: '请选择酒店所在城市',
 checkIn: '请选择入住日期',
 checkOut: '请选择离店日期',
@@ -1071,7 +1071,7 @@ keywordSuggestion: '\
 {{enum(key, item) data}}\
 {{if key==="subCity"}}\
 <div class="keyword_sub_city">\
-${item.cnname}：{{if (item.data)}}{{each item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotel/${ename}${id}" class="subCity" data-dopost="T">${name}</a>{{/each}}{{/if}}\
+${item.cnname}：{{if (item.data)}}{{each item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotelInfo/${ename}${id}" class="subCity" data-dopost="T">${name}</a>{{/each}}{{/if}}\
 </div>\
 {{else}}\
 <p class="business_title">${item.cnname}</p>\
@@ -1090,7 +1090,7 @@ keywordSuggestionIPad: '\
 {{enum(key, item) $data.data}}\
 {{if key==="subCity"}}\
 <div class="keyword_sub_city">\
-${item.cnname}：{{if (item.data)}}{{each (key, it) item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotel/${it.ename}${it.id}" class="subCity" data-dopost="T">${it.name}</a>{{/each}}{{/if}}\
+${item.cnname}：{{if (item.data)}}{{each (key, it) item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotelInfo/${it.ename}${it.id}" class="subCity" data-dopost="T">${it.name}</a>{{/each}}{{/if}}\
 </div>\
 {{else}}\
 <p class="business_title">${item.cnname}</p>\
@@ -1432,7 +1432,7 @@ noFilterResult: '找不到：${val}',
 city: '城市',
 airport: '机场',
 city_placeholder: '城市/机场',
-hotel: '酒店',
+hotelInfo: '酒店',
 landmark: '地标',
 keyword_placeholder: '(选填)酒店/地标',
 notice: {
@@ -1655,7 +1655,7 @@ suggestTitle: ["名称", "机场火车站", "位置"],
 defaultValue: ['上海', '2', 'shanghai']
 },
 validateMessageConfig: {
-hotel: {
+hotelInfo: {
 city: '请选择酒店所在城市',
 checkIn: '请选择入住日期',
 checkOut: '请选择离店日期',
@@ -1954,7 +1954,7 @@ keywordSuggestion: '\
 {{enum(key, item) data}}\
 {{if key==="subCity"}}\
 <div class="keyword_sub_city">\
-${item.cnname}：{{if (item.data)}}{{each item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotel/${ename}${id}" class="subCity" data-dopost="T">${name}</a>{{/each}}{{/if}}\
+${item.cnname}：{{if (item.data)}}{{each item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotelInfo/${ename}${id}" class="subCity" data-dopost="T">${name}</a>{{/each}}{{/if}}\
 </div>\
 {{else}}\
 <dl class="key_word_list">\
@@ -1973,7 +1973,7 @@ keywordSuggestionIPad: '\
 {{enum(key, item) $data.data}}\
 {{if key==="subCity"}}\
 <div class="keyword_sub_city">\
-${item.cnname}：{{if (item.data)}}{{each (key, it) item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotel/${it.ename}${it.id}" class="subCity" data-dopost="T">${it.name}</a>{{/each}}{{/if}}\
+${item.cnname}：{{if (item.data)}}{{each (key, it) item.data}}<a href="{{tmpl HD_ENV_FOR_TMPL}}/hotelInfo/${it.ename}${it.id}" class="subCity" data-dopost="T">${it.name}</a>{{/each}}{{/if}}\
 </div>\
 {{else}}\
 <dl class="key_word_list">\
@@ -3749,8 +3749,8 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 <script type="text/json" id="searchFrameConfig">
 {
 "veticalflagConfig":[
-{"idname":"searchBoxUl","domname":"hotel","classname":"tag-sale-hotel","time":"2017-08-25T15:00:00+08:00#2017-09-30T15:00:00+08:00"}
-,{"idname":"searchBoxUl","domname":"vacation","classname":"tag-sale-hotel","time":"2017-08-26T15:00:00+08:00#2017-09-30T15:00:00+08:00"}
+{"idname":"searchBoxUl","domname":"hotelInfo","classname":"tag-sale-hotelInfo","time":"2017-08-25T15:00:00+08:00#2017-09-30T15:00:00+08:00"}
+,{"idname":"searchBoxUl","domname":"vacation","classname":"tag-sale-hotelInfo","time":"2017-08-26T15:00:00+08:00#2017-09-30T15:00:00+08:00"}
 ],
 "verticalConfig":[
 {"idname":"searchBoxUl","domname":"ticket","icontype":"label-cn","text":"迪士尼","time":"2016/03/28#2016/04/29"}
@@ -3796,7 +3796,7 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 <p>选中的产品类型，会出现在推荐里</p>
 <p class="text-waring" style="display:none"><span class="icon-waring"></span>您需要选择至少一个类型哦！</p>
 <ul class="griddle-list">
-<li data-cde="hotel">酒店<span class="icon-plus"></span></li>
+<li data-cde="hotelInfo">酒店<span class="icon-plus"></span></li>
 <li data-cde="flt">机票<span class="icon-plus" ></span></li>
 <li data-cde="tour">旅游<span class="icon-plus"></span></li>
 <li data-cde="ticket">门票<span class="icon-plus" ></span></li>
@@ -3997,7 +3997,7 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 <!--度假 end -->
 
 <!--酒店 start -->
-<div class="mod hotel">
+<div class="mod hotelInfo">
 <div class="mod-hd">
 <h2 class="title">
 <span class="current" idx="1">海外酒店<i></i></span>
@@ -4009,7 +4009,7 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 </h2>
 </div>
 <div class="mod-bd">
-<div class="mod-bd-panel hotel-internal" idx="1" style="display: block;">
+<div class="mod-bd-panel hotelInfo-internal" idx="1" style="display: block;">
 <!-- entrance start -->
 <div class="entrance">
 <dl class="keyword-short">
@@ -4036,7 +4036,7 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 <!-- product end -->
 </div>
 <!-- 海外民宿+短租 -->
-<div class="mod-bd-panel hotel-homestay" idx="6" style="display: none;">
+<div class="mod-bd-panel hotelInfo-homestay" idx="6" style="display: none;">
 <!-- product start -->
 <div class="product">
 <div class="product-hd">
@@ -4052,7 +4052,7 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 <!-- product end -->
 </div>
 
-<div class="mod-bd-panel hotel-china" idx="2" style="display: none;">
+<div class="mod-bd-panel hotelInfo-china" idx="2" style="display: none;">
 <!-- entrance start -->
 <div class="entrance">
 <dl class="keyword-short">
@@ -4080,7 +4080,7 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 </div>
 <!-- product end -->
 </div>
-<div class="mod-bd-panel hotel-china" idx="3" style="display: none;">
+<div class="mod-bd-panel hotelInfo-china" idx="3" style="display: none;">
 <!-- entrance start -->
 <div class="entrance">
 <dl class="keyword-short">
@@ -4540,12 +4540,12 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 <dt>酒店预订</dt>
 <dd><a target="_blank" href="http://hotels.ctrip.com/citylist">城市酒店</a></dd>
 <dd><a target="_blank" href="http://hotels.ctrip.com/international/landmarks/">国家酒店</a></dd>
-<dd><a target="_blank" href="http://hotels.ctrip.com/hotel/beijing1">北京酒店</a></dd>
-<dd><a target="_blank" href="http://hotels.ctrip.com/hotel/shanghai2">上海酒店</a></dd>
-<dd><a target="_blank" href="http://hotels.ctrip.com/hotel/guangzhou32">广州酒店</a></dd>
-<dd><a target="_blank" href="http://hotels.ctrip.com/hotel/chengdu28">成都酒店</a></dd>
-<dd><a target="_blank" href="http://hotels.ctrip.com/hotel/hangzhou17">杭州酒店</a></dd>
-<dd><a target="_blank" href="http://hotels.ctrip.com/hotel/xian10">西安酒店</a></dd>
+<dd><a target="_blank" href="http://hotels.ctrip.com/hotelInfo/beijing1">北京酒店</a></dd>
+<dd><a target="_blank" href="http://hotels.ctrip.com/hotelInfo/shanghai2">上海酒店</a></dd>
+<dd><a target="_blank" href="http://hotels.ctrip.com/hotelInfo/guangzhou32">广州酒店</a></dd>
+<dd><a target="_blank" href="http://hotels.ctrip.com/hotelInfo/chengdu28">成都酒店</a></dd>
+<dd><a target="_blank" href="http://hotels.ctrip.com/hotelInfo/hangzhou17">杭州酒店</a></dd>
+<dd><a target="_blank" href="http://hotels.ctrip.com/hotelInfo/xian10">西安酒店</a></dd>
 <dd><a target="_blank" href="http://hotels.ctrip.com/international/singapore73">新加坡酒店</a></dd>
 <dd><a target="_blank" href="http://hotels.ctrip.com/international/dubai220">迪拜酒店</a></dd>
 <dd><a target="_blank" href="http://hotels.ctrip.com/international/country4/">泰国酒店</a></dd>
@@ -4560,7 +4560,7 @@ filterStyle: ['.c_address_select {font-family: Arial,Simsun;font-size: 12px;}.c_
 <dd><a target="_blank" href="http://hotels.ctrip.com/brand/h39/">速8酒店</a></dd>
 <dd><a target="_blank" href="http://hotels.ctrip.com/brand/">酒店品牌</a></dd>
 <dd><a target="_blank" href="http://hotels.ctrip.com/domestic-city-land.html">酒店地标</a></dd>
-<dd><a target="_blank" href="http://hotels.ctrip.com/hot-newadd-hotel-A.html">热门酒店</a></dd>
+<dd><a target="_blank" href="http://hotels.ctrip.com/hot-newadd-hotelInfo-A.html">热门酒店</a></dd>
 <dd><a target="_blank" href="http://hotels.ctrip.com/jiudian/guangdong">广东酒店</a></dd>
 <dd><a target="_blank" href="http://tuan.ctrip.com/group/city_shanghai/">上海酒店团购</a></dd>
 <dd><a target="_blank" href="http://tuan.ctrip.com/group/city_beijing/">北京酒店团购</a></dd>

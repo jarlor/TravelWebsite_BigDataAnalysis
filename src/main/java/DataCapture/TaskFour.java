@@ -1,4 +1,4 @@
-package DataCapture.step4;
+package DataCapture;
 
 import java.io.File;
 import java.io.IOException;
@@ -9,16 +9,11 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import pojo.HotelCity;
+import util.GetDocument;
+import util.StringUtil;
 
-public class Task {
-
-    //通过filePath文件路径获取Docment对象
-    public Document getDoc(String filePath) throws IOException {
-        /**********   Begin   **********/
-        Document document = Jsoup.parse(new File(filePath), "utf-8", "http://www.educoder.net/");
-        return document;
-        /**********   End   **********/
-    }
+public class TaskFour {
 
     /**
      * 获取所有城市返回城市信息集合
@@ -26,8 +21,7 @@ public class Task {
      * @param doc
      * @return
      */
-    public List<HotelCity> getAllCitys(Document doc) {
-        /**********   Begin   **********/
+    public static List<HotelCity> getAllCitys(Document doc) {
         ArrayList<HotelCity> cities = new ArrayList<>();
 
         Elements pinyin_filter_elements = doc.getElementsByClass("pinyin_filter_detail layoutfix");
@@ -80,6 +74,16 @@ public class Task {
             }
         }
         return cities;
-        /**********   End   **********/
+    }
+
+    public static void main(String[] args) throws IOException {
+
+        //通过文件路径获取Docment对象
+        Document doc = GetDocument.getDoc("src/main/resources/hotels.ctrip.com_domestic-city-hotel.txt");
+        List<HotelCity> allCitys = TaskFour.getAllCitys(doc);
+        System.out.println("总共有："+allCitys.size()+"个城市，下面列出前十个：");
+        for (int i = 0; i < allCitys.size(); i++) {
+            System.out.println(allCitys.get(i));
+        }
     }
 }

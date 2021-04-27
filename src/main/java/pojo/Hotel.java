@@ -1,4 +1,4 @@
-package DataClean.step2;
+package pojo;
 public class Hotel {
     private String id;
     private String name;
@@ -147,7 +147,7 @@ public class Hotel {
 
     @Override
     public String toString() {
-        return "Hotel [id=" + id + ", name=" + name + ", price=" + price
+        return "HotelInfo [id=" + id + ", name=" + name + ", price=" + price
                 + ", lat=" + lat + ", lon=" + lon + ", url=" + url + ", img="
                 + img + ", address=" + address + ", score=" + score
                 + ", dpscore=" + dpscore + ", dpcount=" + dpcount + ", star="
