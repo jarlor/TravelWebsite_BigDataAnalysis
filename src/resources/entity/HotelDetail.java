@@ -1,4 +1,4 @@
-package com.entity;
+package resources.entity;
 
 public class HotelDetail {
 

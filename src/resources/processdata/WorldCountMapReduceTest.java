@@ -1,4 +1,4 @@
-package com.processdata;
+package resources.processdata;
 
 import org.apache.hadoop.hbase.CompareOperator;
 import org.apache.hadoop.hbase.HBaseConfiguration;

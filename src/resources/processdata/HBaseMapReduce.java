@@ -1,7 +1,8 @@
-package com.processdata;
+package resources.processdata;
+
 import java.io.IOException;
-import java.util.List;
 import java.util.Scanner;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.hbase.HBaseConfiguration;
@@ -14,26 +15,22 @@ import org.apache.hadoop.hbase.mapreduce.TableMapReduceUtil;
 import org.apache.hadoop.hbase.mapreduce.TableMapper;
 import org.apache.hadoop.hbase.mapreduce.TableReducer;
 import org.apache.hadoop.hbase.util.Bytes;
-import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
-import org.apdplat.word.WordSegmenter;
-import org.apdplat.word.segmentation.Word;
+
 import com.util.HBaseUtil;
-import com.vdurmont.emoji.EmojiParser;
 
 /**
- * 词频统计
- *
+ * 使用MapReduce程序处理HBase中的数据并将最终结果存入到另一张表 1中
  */
-public class WorldCountMapReduce extends Configured implements Tool {
+public class HBaseMapReduce extends Configured implements Tool {
 
-
-    public static class MyMapper extends TableMapper<Text, IntWritable> {
-        private static byte[] family = "comment_info".getBytes();
-        private static byte[] column = "content".getBytes();
+    public static class MyMapper extends TableMapper<Text, DoubleWritable> {
+        public static final byte[] column = "price".getBytes();
+        public static final byte[] family = "hotel_info".getBytes();
 
         @Override
         protected void map(ImmutableBytesWritable rowKey, Result result, Context context)
@@ -41,24 +38,14 @@ public class WorldCountMapReduce extends Configured implements Tool {
             /********** Begin *********/
 
 
-
-
-
             /********** End *********/
         }
     }
 
-    public static class MyReducer extends TableReducer<Text, IntWritable, ImmutableBytesWritable> {
-        private static byte[] family =  "word_info".getBytes();
-        private static byte[] column = "count".getBytes();
-
+    public static class MyTableReducer extends TableReducer<Text, DoubleWritable, ImmutableBytesWritable> {
         @Override
-        public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
+        public void reduce(Text key, Iterable<DoubleWritable> values, Context context) throws IOException, InterruptedException {
             /********** Begin *********/
-
-
-
-
 
             /********** End *********/
         }
@@ -78,8 +65,10 @@ public class WorldCountMapReduce extends Configured implements Tool {
         Scanner sc = new Scanner(System.in);
         String arg1 = sc.next();
         String arg2 = sc.next();
+        //String arg1 = "t_city_hotels_info";
+        //String arg2 = "average_table";
         try {
-            HBaseUtil.createTable("comment_word_count", new String[] {"word_info"});
+            HBaseUtil.createTable("average_table", new String[] {"average_infos"});
         } catch (Exception e) {
             // 创建表失败
             e.printStackTrace();
@@ -95,11 +84,14 @@ public class WorldCountMapReduce extends Configured implements Tool {
         Scan scan = new Scan();
         scan.setCaching(300);
         scan.setCacheBlocks(false);//在mapreduce程序中千万不要设置允许缓存
-        //初始化Mapper Reduce程序
-        TableMapReduceUtil.initTableMapperJob(tablename,scan,MyMapper.class, Text.class, IntWritable.class,job);
-        TableMapReduceUtil.initTableReducerJob(targetTable,MyReducer.class,job);
+        //初始化Mapreduce程序
+        TableMapReduceUtil.initTableMapperJob(tablename,scan,MyMapper.class, Text.class, DoubleWritable.class,job);
+        //初始化Reduce
+        TableMapReduceUtil.initTableReducerJob(
+                targetTable,        // output table
+                MyTableReducer.class,    // reducer class
+                job);
         job.setNumReduceTasks(1);
         return job;
     }
-
 }

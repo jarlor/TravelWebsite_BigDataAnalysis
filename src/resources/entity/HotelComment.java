@@ -1,4 +1,4 @@
-package com.entity;
+package resources.entity;
 
 import java.util.List;
 

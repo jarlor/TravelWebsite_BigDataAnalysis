@@ -1,4 +1,4 @@
-package com.savedata;
+package resources.save;
 
 import java.io.IOException;
 import java.io.InputStream;

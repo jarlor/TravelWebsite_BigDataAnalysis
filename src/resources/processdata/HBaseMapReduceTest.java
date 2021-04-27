@@ -1,4 +1,4 @@
-package com.processdata;
+package resources.processdata;
 
 import org.apache.hadoop.hbase.HBaseConfiguration;
 import org.apache.hadoop.util.ToolRunner;

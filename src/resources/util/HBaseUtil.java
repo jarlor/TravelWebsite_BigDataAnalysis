@@ -1,4 +1,4 @@
-package com.util;
+package resources.util;
 
 import java.io.*;
 import java.util.*;
