@@ -38,9 +38,6 @@ public class HBaseMapReduce extends Configured implements Tool {
             /********** Begin *********/
 
 
-
-
-
             /********** End *********/
         }
     }
@@ -49,10 +46,6 @@ public class HBaseMapReduce extends Configured implements Tool {
         @Override
         public void reduce(Text key, Iterable<DoubleWritable> values, Context context) throws IOException, InterruptedException {
             /********** Begin *********/
-
-
-
-
 
             /********** End *********/
         }

@@ -16,8 +16,8 @@ public class HBaseMapReduceTest {
     public static void main(String[] args) throws Exception {
         SaveData.saveCityAndHotelInfo();
         //开始执行
-        //HBaseUtil.scanCityTable("average_table");
-        // HBaseUtil.scanCityTable("t_city_hotels_info");
+//        HBaseUtil.scanCityTable("average_table");
+//         HBaseUtil.scanCityTable("t_city_hotels_info");
         int result = ToolRunner.run(HBaseConfiguration.create(), new HBaseMapReduce(), args);
         HBaseUtil.scanTable("average_table");
         System.exit(result);
