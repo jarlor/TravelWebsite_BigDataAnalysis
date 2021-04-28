@@ -12,15 +12,24 @@ public class HBaseUtil {
     private static Connection conn;
 
 
-    private static void startConn() throws Exception {
-
-        conn = Connected.getHbase();  //获取hbase连接
+    private static void startConn()  {
+        try {
+            conn = Connected.getHbase();  //获取hbase连接
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
-    private static void closeConn() throws IOException {
-        conn.close();
+    private static void closeConn()  {
+        try {
+            conn.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
+
+//DDL
     /**
      * 创建表
      *
@@ -28,7 +37,7 @@ public class HBaseUtil {
      * @param columnNames 列族的动态数组
      * @throws Exception
      */
-    public static void createTable(String tableName, String... columnNames) throws Exception {
+    public static void createTable(String tableName, String... columnNames) throws IOException {
         startConn();
         //获取表对象操作
         Admin admin = conn.getAdmin();
@@ -46,7 +55,6 @@ public class HBaseUtil {
         }
         closeConn();
     }
-
     /**
      * 刪除表
      *
@@ -65,12 +73,33 @@ public class HBaseUtil {
     }
 
     /**
+     *  列出所有表
+     * @return
+     * @throws IOException
+     */
+    public static List<String> listTables() throws IOException {
+        startConn();
+        ArrayList<String> strings = new ArrayList<>();
+        Admin admin = conn.getAdmin();
+
+        TableName[] tableNames = admin.listTableNames();
+        for (TableName tableName : tableNames) {
+            strings.add(tableName.toString());
+        }
+
+        closeConn();
+        return strings;
+
+    }
+
+//DML
+    /**
      * 删除指定行键数据
      * @param tablename
      * @param rowkey
      * @throws Exception
      */
-    public static void deleteByRowkey(String tablename, String rowkey) throws Exception {
+    public static void delDataByRowkey(String tablename, String rowkey) throws Exception {
         startConn();
         Table table = conn.getTable(TableName.valueOf(tablename));
         Delete delete = new Delete(Bytes.toBytes(rowkey));
@@ -79,7 +108,15 @@ public class HBaseUtil {
         closeConn();
     }
 
-    public static void deletColumuns(String tablename,String rowkey,String family,String... columns) throws Exception {
+    /**
+     *  删除指定列
+     * @param tablename
+     * @param rowkey
+     * @param family
+     * @param columns
+     * @throws Exception
+     */
+    public static void delDataByColumuns(String tablename,String rowkey,String family,String... columns) throws Exception {
         startConn();
         Table table = conn.getTable(TableName.valueOf(tablename));
         Delete delete = new Delete(Bytes.toBytes(rowkey));
@@ -89,8 +126,22 @@ public class HBaseUtil {
         }
 
         table.delete(delete);
-
         table.close();
+        closeConn();
+    }
+    /**
+     * 通过rowkey删除数据
+     * @param tablename
+     * @param rowkey
+     */
+    public static void delDataByRowKey(String tablename,String rowkey) throws Exception {
+        startConn();
+
+        Table table = conn.getTable(TableName.valueOf(tablename));
+
+        Delete delete = new Delete(Bytes.toBytes(rowkey));
+
+        table.delete(delete);
         closeConn();
     }
 
@@ -102,7 +153,7 @@ public class HBaseUtil {
      * @return long 返回执行时间
      * @throws IOException
      */
-    public static long putByTable(String tablename, List<Put> puts) throws Exception {
+    public static long putDataByTable(String tablename, List<Put> puts) throws Exception {
         startConn();
         long currentTime = System.currentTimeMillis();
 
@@ -136,14 +187,26 @@ public class HBaseUtil {
             List<Cell> cells = result.listCells();
             List<String> strings = printFormat(cells);
             value.addAll(strings);
-//            for (String string : strings) {
-//                value.
-//            }
         }
         table.close();
         closeConn();
 
         return value;
+    }
+    public static void clearTable(String tablename) throws IOException {
+        startConn();
+        Table table = conn.getTable(TableName.valueOf(tablename));
+
+        Scan scan = new Scan();
+        ResultScanner scanner = table.getScanner(scan);
+
+        Delete delete=null;
+        for (Result result : scanner) {
+            delete=new Delete(result.getRow());
+            table.delete(delete);
+        }
+
+        closeConn();
     }
 
     /**
@@ -154,7 +217,7 @@ public class HBaseUtil {
      * @return
      * @throws IOException
      */
-    public static List<Cell> getRowkey(String tablename, String rowkey) throws Exception {
+    public static List<Cell> getDataByRowkey(String tablename, String rowkey) throws Exception {
         startConn();
         Table table = conn.getTable(TableName.valueOf(tablename));
         Get get = new Get(Bytes.toBytes(rowkey));
@@ -197,13 +260,15 @@ public class HBaseUtil {
         return strings;
     }
 
+
+
     /**
      * 行个数
      *
      * @param tName
      * @return
      */
-    public static long rowCount(String tName) throws Exception {
+    public static long getRowCount(String tName) throws Exception {
         startConn();
         long rowCount = 0;
         try {

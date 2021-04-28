@@ -60,7 +60,7 @@ public class SaveData {
                 puts.add(put);
             }
             // 批量保存数据
-            HBaseUtil.putByTable("t_city_hotels_info", puts);
+            HBaseUtil.putDataByTable("t_city_hotels_info", puts);
     }
 
     /**
@@ -99,6 +99,6 @@ public class SaveData {
                 puts.add(put);
             }
             // 上传数据
-            HBaseUtil.putByTable("t_hotel_comment", puts);
+            HBaseUtil.putDataByTable("t_hotel_comment", puts);
     }
 }
