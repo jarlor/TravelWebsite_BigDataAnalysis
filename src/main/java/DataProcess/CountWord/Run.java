@@ -10,5 +10,7 @@ import org.apache.hadoop.util.ToolRunner;
 public class Run {
     public static void main(String[] args) throws Exception {
         ToolRunner.run(new CWTool(),args);
+
+
     }
 }
