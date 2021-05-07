@@ -109,6 +109,35 @@ public class HBaseUtil {
     }
 
     /**
+     *    根据列名查询数据
+     * @param tablename 表名
+     * @param family 列族
+     * @param column    列名
+     * @return
+     */
+    public static List<String> getDataByColumn(String tablename,String family,String column) throws IOException {
+        startConn();
+        Table table = conn.getTable(TableName.valueOf(tablename));
+        //获取表所有的rowkey
+        Scan scan = new Scan();
+
+        ResultScanner scanner = table.getScanner(scan);
+        String value=null;
+
+        ArrayList<String> soult = new ArrayList<>();
+        byte[] prevalue=null;
+        for (Result result : scanner) {
+            prevalue = result.getValue(Bytes.toBytes(family), Bytes.toBytes(column));
+            value =Bytes.toString(prevalue);
+            soult.add(value);
+        }
+        closeConn();
+        return soult;
+    }
+
+//     public static List<String> getDatabyCName(String cityName,String tablename,String startRowkey,int dataLength)
+
+    /**
      *  删除指定列
      * @param tablename
      * @param rowkey
