@@ -12,7 +12,7 @@ public class HBaseUtil {
     private static Connection conn;
 
 
-    private static void startConn()  {
+    private static void startConn() {
         try {
             conn = Connected.getHbase();  //获取hbase连接
         } catch (Exception e) {
@@ -20,7 +20,7 @@ public class HBaseUtil {
         }
     }
 
-    private static void closeConn()  {
+    private static void closeConn() {
         try {
             conn.close();
         } catch (IOException e) {
@@ -30,6 +30,7 @@ public class HBaseUtil {
 
 
 //DDL
+
     /**
      * 创建表
      *
@@ -55,6 +56,7 @@ public class HBaseUtil {
         }
         closeConn();
     }
+
     /**
      * 刪除表
      *
@@ -73,7 +75,8 @@ public class HBaseUtil {
     }
 
     /**
-     *  列出所有表
+     * 列出所有表
+     *
      * @return
      * @throws IOException
      */
@@ -93,8 +96,10 @@ public class HBaseUtil {
     }
 
 //DML
+
     /**
      * 删除指定行键数据
+     *
      * @param tablename
      * @param rowkey
      * @throws Exception
@@ -109,61 +114,95 @@ public class HBaseUtil {
     }
 
     /**
-     *    根据列名查询数据
-     * @param tablename 表名
+     * 根据结果集查询数据
+     * @param sourceResults 源数据
      * @param family 列族
-     * @param column    列名
+     * @param column 列名
      * @return
+     * @throws IOException
      */
-    public static List<String> getDataByColumn(String tablename,String family,String column) throws IOException {
+    public static Map<String,String> getDataByColumn(List<Result> sourceResults, String familyk, String columnk,String familyv, String columnv) throws IOException {
         startConn();
-        Table table = conn.getTable(TableName.valueOf(tablename));
-        //获取表所有的rowkey
         Scan scan = new Scan();
 
-        ResultScanner scanner = table.getScanner(scan);
-        String value=null;
 
-        ArrayList<String> soult = new ArrayList<>();
-        byte[] prevalue=null;
-        for (Result result : scanner) {
-            prevalue = result.getValue(Bytes.toBytes(family), Bytes.toBytes(column));
-            value =Bytes.toString(prevalue);
-            soult.add(value);
+        byte[] prek = null;
+        String k = null;
+        byte[] prev = null;
+        String v = null;
+        HashMap<String, String> soult = new HashMap<>();
+
+        for (Result result : sourceResults) {
+            prek = result.getValue(Bytes.toBytes(familyk), Bytes.toBytes(columnk));
+            k = Bytes.toString(prek);
+
+            prev = result.getValue(Bytes.toBytes(familyv), Bytes.toBytes(columnv));
+            v = Bytes.toString(prev);
+            soult.put(k,v);
         }
         closeConn();
         return soult;
     }
 
-//     public static List<String> getDatabyCName(String cityName,String tablename,String startRowkey,int dataLength)
+    /**
+     *  查询指定城市的result和要查询的长度
+     * @param cityName
+     * @param tablename
+     * @param dataLength
+     * @return
+     * @throws IOException
+     */
+    public static List<Result> getDatabyCName(String cityName, String tablename, int dataLength) throws IOException {
+        startConn();
+        Table table = conn.getTable(TableName.valueOf(tablename));
+        Scan scan = new Scan();
+
+        ResultScanner scanner = table.getScanner(scan);
+
+        ArrayList<Result> value = new ArrayList<Result>();
+        byte[] precityName=null;
+        for (Result result : scanner) {
+            precityName=result.getValue(Bytes.toBytes("cityInfo"), Bytes.toBytes("cityName"));
+//            System.out.println(Bytes.toString(precityName));
+            if ((dataLength>0)&&Bytes.toString(precityName).equals(cityName)) {
+                dataLength--;
+                value.add(result);
+            }
+        }
+        closeConn();
+    return value;
+    }
 
     /**
-     *  删除指定列
+     * 删除指定列
+     *
      * @param tablename
      * @param rowkey
      * @param family
      * @param columns
      * @throws Exception
      */
-    public static void delDataByColumuns(String tablename,String rowkey,String family,String... columns) throws Exception {
+    public static void delDataByColumuns(String tablename, String rowkey, String family, String... columns) throws Exception {
         startConn();
         Table table = conn.getTable(TableName.valueOf(tablename));
         Delete delete = new Delete(Bytes.toBytes(rowkey));
 
         for (String column : columns) {
-            delete.addColumn(Bytes.toBytes(family),Bytes.toBytes(column));
+            delete.addColumn(Bytes.toBytes(family), Bytes.toBytes(column));
         }
 
         table.delete(delete);
         table.close();
         closeConn();
     }
+
     /**
      * 通过rowkey删除数据
+     *
      * @param tablename
      * @param rowkey
      */
-    public static void delDataByRowKey(String tablename,String rowkey) throws Exception {
+    public static void delDataByRowKey(String tablename, String rowkey) throws Exception {
         startConn();
 
         Table table = conn.getTable(TableName.valueOf(tablename));
@@ -222,6 +261,7 @@ public class HBaseUtil {
 
         return value;
     }
+
     public static void clearTable(String tablename) throws IOException {
         startConn();
         Table table = conn.getTable(TableName.valueOf(tablename));
@@ -229,9 +269,9 @@ public class HBaseUtil {
         Scan scan = new Scan();
         ResultScanner scanner = table.getScanner(scan);
 
-        Delete delete=null;
+        Delete delete = null;
         for (Result result : scanner) {
-            delete=new Delete(result.getRow());
+            delete = new Delete(result.getRow());
             table.delete(delete);
         }
 
@@ -259,7 +299,8 @@ public class HBaseUtil {
     }
 
     /**
-     *  打印输出Cells
+     * 打印输出Cells
+     *
      * @param cells
      * @return
      * @throws Exception
@@ -290,7 +331,6 @@ public class HBaseUtil {
     }
 
 
-
     /**
      * 行个数
      *
@@ -310,7 +350,7 @@ public class HBaseUtil {
             }
             System.out.println("rowCount-->" + rowCount);
         } catch (IOException e) {
-        }finally {
+        } finally {
             closeConn();
         }
         return rowCount;
