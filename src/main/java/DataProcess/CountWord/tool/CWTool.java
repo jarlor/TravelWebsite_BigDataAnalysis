@@ -3,10 +3,13 @@ package DataProcess.CountWord.tool;
 import DataProcess.CountWord.mapper.CWMapper;
 import DataProcess.CountWord.reducer.CWReducer;
 import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.hbase.HBaseConfiguration;
 import org.apache.hadoop.hbase.client.Scan;
 import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
 import org.apache.hadoop.hbase.mapreduce.TableMapReduceUtil;
 import org.apache.hadoop.io.DoubleWritable;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.JobStatus;
 import org.apache.hadoop.util.Tool;
@@ -28,22 +31,21 @@ public class CWTool implements Tool {
                 new Scan(),
                 CWMapper.class,
 
-                ImmutableBytesWritable.class,
-                DoubleWritable.class,
+                Text.class,
+                IntWritable.class,
                 job
         );
 
         //reducer
         TableMapReduceUtil.initTableReducerJob(
                 "CountWord",
-
                 CWReducer.class,
                 job
         );
 
         //execute
         boolean status = job.waitForCompletion(true);
-        return status? JobStatus.State.SUCCEEDED.getValue(): JobStatus.State.FAILED.getValue();
+        return status ? JobStatus.State.SUCCEEDED.getValue() : JobStatus.State.FAILED.getValue();
     }
 
     public void setConf(Configuration conf) {
