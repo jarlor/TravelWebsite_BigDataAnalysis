@@ -114,10 +114,12 @@ public class HBaseUtil {
     }
 
     /**
-     * 根据结果集查询数据
-     * @param sourceResults 源数据
-     * @param family 列族
-     * @param column 列名
+     *  根据数据源将结果存到map里
+     * @param sourceResults 数据源
+     * @param familyk   要查询的k的列族
+     * @param columnk   要查询的k的列名
+     * @param familyv   要查询的v的列族
+     * @param columnv   要查询的v的列名
      * @return
      * @throws IOException
      */
