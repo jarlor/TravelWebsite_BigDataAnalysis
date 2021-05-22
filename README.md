@@ -127,7 +127,7 @@ Bigtable利用Chubby作为协同服务，HBase利用Zookeeper作为对应。
 HDFS为HBase提供了高可靠性的底层存储支持；Hadoop
 MapReduce为HBase提供了高性能的计算能力；Zookeeper为HBase提供了稳定服务和failover机制。
 
-![image-20210522193431459](C:\Users\GCJL\AppData\Roaming\Typora\typora-user-images\image-20210522193431459.png)
+![HBase结构图](https://imgtu.com/i/gL6Is0 "在这里输入图片标题")
 
 图3-1 HBase结构图
 
