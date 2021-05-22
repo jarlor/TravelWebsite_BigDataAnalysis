@@ -59,15 +59,15 @@ Jsoup拥有十分方便的api来处理html文档，比如参考了DOM对象的�
 
 使用Jsoup获取到的是整个页面的资源，其中包含html的代码，也就会包含无意义的数据，需将它进行清洗。
 
-1.  获取所有\<dd\>\</dd\>标签。
+1. 获取所有\<dd\>\</dd\>标签。
 
-    Elements all_dd = pinyin_filter.getElementsByTag("dd");
+   Elements all_dd = pinyin_filter.getElementsByTag("dd");
 
-2.  获取\<dd\>\</dd\>标签下的所有a标签。
+2. 获取\<dd\>\</dd\>标签下的所有a标签。
 
-    String cityID = StringUtil.getNumbers(element.attr("href"));
+   String cityID = StringUtil.getNumbers(element.attr("href"));
 
-3.  获取所有a标签中的文本并添加到HotelCity类中，HotelCity实体类信息如表2-1所示：
+3. 获取所有a标签中的文本并添加到HotelCity类中，HotelCity实体类信息如表2-1所示：
 
 表2-1 HotelCity实体类信息
 
@@ -141,7 +141,7 @@ HDFS文件系统上，主要包括上述提出的两种文件类型：
 2.  HLog File，HBase中WAL（Write Ahead Log）的存储格式，物理上是Hadoop的Sequence
     File。
 
-## 存储酒店数据
+## ## 存储酒店数据
 
 ### HBaseUtil工具类设计
 
@@ -266,9 +266,9 @@ context.write(k, v);
 
 ```
 
-1.  Reducer阶段
+1. Reducer阶段
 
-    输入类型：\<ImmutableBytesWritable, DoubleWritable\>
+   输入类型：\<ImmutableBytesWritable, DoubleWritable\>
 
 输出类型：\<ImmutableBytesWritable, Put\>
 
@@ -347,9 +347,9 @@ context.write(text,v);
 
 ```
 
-1.  Reducer阶段
+1. Reducer阶段
 
-    输入类型：\<Text, IntWritable\>
+   输入类型：\<Text, IntWritable\>
 
 输出类型：\<ImmutableBytesWritable, Put\>
 
@@ -396,11 +396,9 @@ job);
 
 
 # 数据可视化
-
 ## 相关技术
 
 数据可视化主要是对数据分析得到的结果进行可视化，形成直观的图表展示。对于分析出来的数据，我们只有将他们进行展示才能彰显分析出来的数据的真正的价值，因此一个好的可视化框架至关重要，因此，我们将选取Echarts作为我们数据可视化的框架。
-
 ### Echarts
 
 ECharts是一款基于JavaScript的数据可视化图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。
@@ -429,56 +427,22 @@ encode
 本设计采用Echarts作为可视化数据展示框架，并采用柱状图展示酒店价格分布，
 最终效果如图5-1所示。
 
+核心代码如下：
+
+```js
+yAxis: {
+	type: 'category',
+	data: ['香港中环石板街酒店', '香港百乐宾馆酒店', '香港美利酒店', '香港大都酒店', '香港逸酒店','香港海汇酒店','香港星星宾馆','香港珀荟酒店','悦品酒店','香港皇悦卓越酒店','海洋公园万豪酒店','平均价格']
+	  }
+yAxis: {
+	type: 'category',
+	data: ['澳门镇兴宾馆', '澳门港湾大酒店', '澳门罗斯福酒店', '澳门万事发酒店', '澳门皇庭海景酒店', '澳门东亚酒店','澳门凯旋门酒店','澳门濠江酒店','澳门华都酒店','澳门东京别墅','澳门回力酒店', '平均价格']
+	  }
+
+```
+
 ![image-20210522193918731](C:\Users\GCJL\AppData\Roaming\Typora\typora-user-images\image-20210522193918731.png)
 
 图 5-1 酒店价格分布图
 
 ### 酒店平均价格对比图
-
-酒店平均价格对比图，最终效果如图5-2所示。
-
-![image-20210522193937726](C:\Users\GCJL\AppData\Roaming\Typora\typora-user-images\image-20210522193937726.png)
-
-图 5-2 酒店平均价格对比图
-
-### 酒店房型统计图
-
-酒店房型统计图，最终效果如图5-3所示。
-
-![image-20210522193948397](C:\Users\GCJL\AppData\Roaming\Typora\typora-user-images\image-20210522193948397.png)
-
-图 5-3 酒店房型统计图
-
-## 数据可视化展示
-
-通过echarts框架可以轻松实现数据的可视化展示，下图是根据echarts统计绘制的图表信息。
-
-![image-20210522194006714](C:\Users\GCJL\AppData\Roaming\Typora\typora-user-images\image-20210522194006714.png)
-
-图 5‑4 携程网数据分析
-
-# 结语
-
-由于受硬件资源的限制，本项目只分析了携程网部分酒店的信息。在统计词频这一MR程序上，由于调用了第三方Jar包，导致在服务器上运行MR程序的过程中碰到了ClassNotFoundException。经多次调试依旧无法解决问题。考虑到数据量相对较小的情况，最终通过JAVA
-SE程序设计分析数据并转存到HBase中。
-
-考虑到工作量的问题，本设计最终可视化展示为静态网页。同时由于小组缺少美工，最终展示效果较为单调。
-
-从数据抓取，数据清洗，数据分析，数据存储，数据可视化过程中，本小组通过Gitee实现开发同步。本小组通过多种形式的学习,不断地提高自己的技术水平。总的来说，本次项目开发获益良多。
-
-随着大数据时代的到来,国内不同的旅游行业也开始重视大数据的应用，相信未来大数据将随着产业互联网深入到广大传统行业,相应的生态建设也会越来越完善。
-
-# 参考文献
-
-1.  王泽梁,汪丽华."互联网+旅游大数据时代旅游人才计算机能力培养[J].西昌学院学报(自然科学版),2019,33(3):109-113.
-
-2.  刘力钢,陈金大数据时代边境地区县域全域旅游目的地品牌形象提升策略[J].企业经济,2019,38(10):48-54.
-
-3.  吕雨阶.大数据背景下智慧旅游管理模式研究[J].旅游纵览(下半月),2019(18):34-35.
-
-4.  彭灵芝.大数据时代在线旅游企业发展路径研究[J].商场现代化,2019(17):138-139.
-
-5.  秦燕.大数据在旅游管理中的应肌[J]佳木斯职业学院学报,2019(9):61-62.
-
-6.  王秀玲大数据在旅游统计中的应用研究[J].产业与科技论坛,2018,17(23);:47-48.
-
