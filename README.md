@@ -1,79 +1,144 @@
-# 数据分析
+# [最终数据可视化【Click Me】](http://123.56.102.254:8084/hotel)
+
+
+
+
+
+
+
+
+
+# 绪论
+
+## 研究背景
+
+当今时代信息资源日益丰富大量，信息资源的利用对社会的发展起着主要作用，运用信息技术协助产业设计越来越成为行业发展的重要趋势。
+
+旅游产业是典型的体验服务产业，在任何发展阶段，信息反馈的准确性与及时性都具有非凡的意义。大数据的3V特征，海量的数据规模(Volume)、快速的数据流转和动态的数据体系(Velocity)、多样的数据类型(Variety)都能够很好地满足旅游产业对信息的各方面需求。从现阶段发展来看，旅游大数据在系统了解旅游市场构成、细分市场特征、消费者需求和竞争者状况，保证品牌市场个性化方面以及在统计分析消费者行为、兴趣偏好和产品的市场口碑，有针对性地制订旅游产品和营销计划方面;在帮助企业管理者掌握旅游行业潜在的市场需求推进旅游行业收益管理等方面得到了有效应用，大数据分析技术在定制旅游上的应用更是逐渐发展成为一种全新的旅游生产方式。本文通过分析国内旅游市场现状、大数据的应用特点以及现有定制旅游网站产品服务的模式及特征，试图通过某种方式理解旅游用户的真正需求，从而帮助实现定制旅游网站的产品及服务设计最优。
+
+## 研究现状
+
+“定制旅游”是旅游市场发展的需要，同样是高度同质化的在线旅游市场发展的结果。它是以旅游者为主导进行旅游行动流程的设计，通常根据旅游者的消费能力，以满足其个性化的需求为原则，，设计出最大限度符合旅游者心理预期产品的一种旅游方式。定制旅游发展到现在不仅包括面向垂直细分人群的旅游产品设计更衍生出多种在线旅游产品平台模式。通过资料研究，现有基于大数据的定制旅游网站一般为两种模式。
+
+其一，“反向定制”旅游网站模式。基于庞大的用户数据，进行旅游用户群行为的预测，从而根据旅游用户群体的喜好或消费倾向，制订相应主题的旅游产品。
+
+其二，自主旅游定制模式。由旅游者提出具体求，旅游平台进行对接。“反向定制”模式创造性地结合了多样化与标准化，在满足客户个性化需求的同时，能够降低定制成本，加快定制速度。而自主旅游定制模式要求网站能够第一时间对用户需求做出反应，这里是指利用大数据和智能化技术，为用户一键生成出游路线计划。两种模式的定制旅游突破了传统旅游典型的标准化产品和服务，向人们展示了一种更便捷、更主动的旅行方式，在产品或服务的设计过程中，行程计划根据用户的需求定制，使旅行的灵活性极大增强，有效提升了旅游质量。自主定制旅游更突出科技的高效精准，大数据挖掘技术代替旅游用户本人做了行前大量的准备、调研工作，能够节省用户更多的时间成本。
+
+然而，通过实例分析，现有定制旅游网站在概念层面以及满足用户个性化需求层面上存在不同程度的局限性。所谓“定制”是指个人属性强烈的产品，“反向定制”突出反映产品设计中人们普遍关注一个在线旅游用户群体，而较少从旅游用户个体的角度进行关联分析的现状;自主旅游模式更是从用户简单的几步倾向选择出发，进行用户求片面妄断。两种旅游定制模式严格意义上无法真正触及每个旅游个体用户的真正心理，无法实现真正的个性化定制。
+
+## 开发环境
+
+本文用到的开发环境如下：
+
+1.  IDEA 2018.3
+2.  Hadoop 2.7.2
+3.  Zookeeper 3.4.10
+4.  Hive 1.2.1
+5.  HBase 1.3.1
+6.  Echarts 5.1.1
+
+# 数据抓取和清洗
 
 ## 相关技术
 
-### Hadoop概述
+### Jsoup
 
-Hadoop是一个由Apache基金会所开发的分布式系统基础架构。用户可以在不了解分布式底层细节的情况下，开发分布式程序。充分利用集群的威力进行高速运算和存储。Hadoop实现了一个分布式文件系统（Distributed
-File System），其中一个组件是HDFS（Hadoop Distributed File
-System）。HDFS有高容错性的特点，并且设计用来部署在低廉的（low-cost）硬件上；而且它提供高吞吐量（high
-throughput）来访问应用程序的数据，适合那些有着超大数据集（large data
-set）的应用程序。HDFS放宽了（relax）POSIX的要求，可以以流的形式访问（streaming
-access）文件系统中的数据。Hadoop的框架最核心的设计就是：HDFS和MapReduce。HDFS为海量的数据提供了存储，而MapReduce则为海量的数据提供了计算。
+Java中支持的爬虫框架有很多，比如WebMagic、Spider、Jsoup等。我们使用Jsoup来实现一个简单的爬虫程序。
 
-### 核心架构
+Jsoup拥有十分方便的api来处理html文档，比如参考了DOM对象的文档遍历方法，参考了CSS选择器的用法等等，因此我们可以使用Jsoup快速地掌握爬取页面数据的技巧。
 
-Hadoop 由许多元素构成。其最底部是 Hadoop Distributed File
-System（HDFS），它存储Hadoop集群中所有存储节点上的文件。HDFS的上一层是MapReduce引擎，该引擎由JobTrackers和TaskTrackers组成。通过对Hadoop分布式计算平台最核心的分布式文件系统HDFS、MapReduce处理过程，以及数据仓库工具Hive和分布式数据库Hbase的介绍，基本涵盖了Hadoop分布式平台的所有技术核心。
+## 数据抓取
 
-### HDFS
+### 利用Jsoup抓取旅游网站数据
 
-对外部客户机而言，HDFS就像一个传统的分级文件系统。可以创建、删除、移动或重命名文件，等等。但是HDFS的架构是基于一组特定的节点构建的，这是由它自身的特点决定的。这些节点包括NameNode（仅一个），它在HDFS内部提供元数据服务；DataNode，它为HDFS提供存储块。由于仅存在一个NameNode，因此这是HDFS
-1.x版本的一个缺点（单点失败）。在Hadoop
-2.x版本可以存在两个NameNode，解决了单节点故障问题。
+通过Jsoup对网页中有用的数据进行解析，之后我们将得到想要的数据。获取城市所有信息，首先需要获取到城市名称也就是获取所有\<dd\>\</dd\>标签中的所有a链接的文本。
 
-存储在HDFS中的文件被分成块，然后将这些块复制到多个计算机中（DataNode）。这与传统的RAID架构大不相同。块的大小（1.x版本默认为64MB，2.x版本默认为128MB）和复制的块数量在创建文件时由客户机决定。
+## 数据清洗
 
-NameNode可以控制所有文件操作，HDFS内部的所有通信都基于标准的TCP/IP协议。
+数据清洗是指发现并纠正数据文件中可识别的错误的最后一道程序，包括检查数据一致性，处理无效值和缺失值等。与问卷审核不同，录入后的数据清理一般是由计算机而不是人工完成。
 
-### NameNode
+使用Jsoup获取到的是整个页面的资源，其中包含html的代码，也就会包含无意义的数据，需将它进行清洗。
 
-NameNode是一个通常在HDFS实例中的单独机器上运行的[软件](https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6)。它负责管理文件系统名称空间和控制外部客户机的访问。NameNode决定是否将文件映射到DataNode上的复制块上。对于最常见的3个复制块，第一个复制块存储在同一机架的不同节点上，最后一个复制块存储在不同机架的某个节点上。
+1. 获取所有\<dd\>\</dd\>标签。
 
-实际的I/O[事务](https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1)并没有经过NameNode，只有表示DataNode和块的文件映射的元数据经过NameNode。当外部客户机发送请求要求创建文件时，NameNode会以块标识和该块的第一个副本的DataNodeIP地址作为响应。这个NameNode还会通知其他将要接收该块的副本的DataNode。
+   Elements all_dd = pinyin_filter.getElementsByTag("dd");
 
-NameNode在一个称为FsImage的文件中存储所有关于文件系统[名称空间](https://baike.baidu.com/item/%E5%90%8D%E7%A7%B0%E7%A9%BA%E9%97%B4)的信息。这个文件和一个包含所有事务的[记录文件](https://baike.baidu.com/item/%E8%AE%B0%E5%BD%95%E6%96%87%E4%BB%B6)（这里是EditLog）将存储在NameNode的本地文件系统上。FsImage和EditLog文件也需要复制副本，以防文件损坏或NameNode系统丢失。
+2. 获取\<dd\>\</dd\>标签下的所有a标签。
 
-NameNode本身不可避免地具有SPOF（Single Point Of
-Failure）单点失效的风险，主备模式并不能解决这个问题，通过Hadoop Non-stop
-Namenode才能实现100%uptime可用时间。
+   String cityID = StringUtil.getNumbers(element.attr("href"));
 
-### DataNode
+3. 获取所有a标签中的文本并添加到HotelCity类中，HotelCity实体类信息如表2-1所示：
 
-DataNode也是一个通常在[HDFS](https://baike.baidu.com/item/HDFS)实例中的单独机器上运行的软件。Hadoop集群包含一个NameNode和大量DataNode。DataNode通常以机架的形式组织，机架通过一个[交换机](https://baike.baidu.com/item/%E4%BA%A4%E6%8D%A2%E6%9C%BA)将所有系统连接起来。Hadoop的一个假设是：机架内部[节点](https://baike.baidu.com/item/%E8%8A%82%E7%82%B9)之间的传输速度快于机架间节点的传输速度。
+表2-1 HotelCity实体类信息
 
-DataNode响应来自HDFS客户机的读写请求。它们还响应来NameNode的创建、删除和复制块的命令。NameNode依赖来自每个DataNode的定期心跳（heartbeat）消息。每条消息都包含一个块报告，NameNode可以根据这个报告验证块映射和其他文件系统元数据。如果DataNode不能发送心跳消息，NameNode将采取修复措施，重新复制在该节点上丢失的块。
+| id        | int     |
+| :-------- | ------- |
+| name      | varchar |
+| price     | double  |
+| lat       | double  |
+| lon       | double  |
+| url       | varchar |
+| img       | varchar |
+| score     | double  |
+| dpsocre   | int     |
+| star      | varchar |
+| stardesc  | varchar |
+| shortName | varchar |
 
-## 数据统计
+核心代码如下：
 
-mapreduce程序分成三个部分：Mapper、Reducer和Driver。
+```java
+String headPinyin = dt_headPinyin.text();
 
-1.  Mapper阶段
+hotelCity.setHeadPinyin(headPinyin)；
+```
 
-(1) 用户自定义的Mapp er要继承自己的父类。
+### 清洗无意义数据
 
-(2) Mapper的输入数据是\<K,V\>的形式(K、V的类型可自定义)。
+将获取到携程网的城市酒店的HTML数据（包含所有元素）进行清洗，得到我们需要的标签数据。为了更好的解析数据，我们要将一些无意义的数据进行清洗。Jsoup在这里提供了一个方便的清洗数据方法。然后就可以通过Jsoup进行数据的清洗。
 
-(3) Mapper中的业务逻辑写在map()方法中。
+## 获取所有酒店信息
 
-(4) Mapper的输出数据是\<K,V\>的形式。
+通过分析酒店相关信息是ajax加载存放在json数据中，价格也在同一个json中但是放在另外的位置通过酒店id对应，并且请求方式是POST，请求的参数有很多，经检验可只传城市id获取，下面简单介绍通过网络请求将json数据拿到，最后将重要数据进行截取，返回一个清晰重要的json数据，再对json数据进行解析便可得到酒店相关信息。
 
-(5)map()方法(MapTask进程)对每一个\<K,V\>调用一次。
+# 数据存储
 
-1.  Reducer阶段
+## 相关技术
 
-(1) 用户自定义的Reducer要继承自己的父类
+### HBase
 
-(2) Reducer的输入数据类型对应Mapper的输出数据类型，也是\<K,V\>。
+HBase是一个分布式的、面向列的开源数据库，该技术来源于Fay
+Chang所撰写的Google论文“Bigtable：一个结构化数据的分布式存储系统”。就像Bigtable利用了Google文件系统（File
+System）所提供的分布式数据存储一样，HBase在Hadoop之上提供了类似于Bigtable的能力。HBase是Apache的Hadoop项目的子项目。HBase不同于一般的关系数据库，它是一个适合于非结构化数据存储的数据库。另一个不同的是HBase基于列的而不是基于行的模式。
 
-(3) Reducer的业务逻辑写在reduce()方法中。
+### 结构介绍
 
-(4) ReduceTask进程对每一组相同K的\<K,V\>组调用一次reduce()方法。
+HBase——Hadoop
+Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储，利用HBase技术可在廉价PC
+Server上搭建起大规模结构化存储集群。
 
-1.  Driver阶段
+与FUJITSU Cliq等商用大数据产品不同，HBase是Google Bigtable的开源实现，类似Google
+Bigtable利用GFS作为其文件存储系统，HBase利用Hadoop
+HDFS作为其文件存储系统；Google运行MapReduce来处理Bigtable中的海量数据，HBase同样利用Hadoop
+MapReduce来处理HBase中的海量数据；Google
+Bigtable利用Chubby作为协同服务，HBase利用Zookeeper作为对应。
 
-(1) 相当于YARN集群的客户端，用于提交我们整个程序到YARN集群。
+下图描述Hadoop EcoSystem中的各层系统。其中,HBase位于结构化存储层，Hadoop
+HDFS为HBase提供了高可靠性的底层存储支持；Hadoop
+MapReduce为HBase提供了高性能的计算能力；Zookeeper为HBase提供了稳定服务和failover机制。
 
-(2) 提交的是封装了MapReduce程序相关运行参数的job对象。
+![image-20210522193431459](C:\Users\GCJL\AppData\Roaming\Typora\typora-user-images\image-20210522193431459.png)
 
-### 
+图3-1 HBase结构图
+
+### 存储格式
+
+HBase中的所有数据文件都存储在Hadoop
+HDFS文件系统上，主要包括上述提出的两种文件类型：
+
+1.  HFile，HBase中KeyValue数据的存储格式，HFile是Hadoop的二进制格式文件，实际上StoreFile就是对HFile做了轻量级包装，即StoreFile底层就是HFile。
+
+2.  HLog File，HBase中WAL（Write Ahead Log）的存储格式，物理上是Hadoop的Sequence
+    File。
+
+## 
