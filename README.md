@@ -141,4 +141,258 @@ HDFS文件系统上，主要包括上述提出的两种文件类型：
 2.  HLog File，HBase中WAL（Write Ahead Log）的存储格式，物理上是Hadoop的Sequence
     File。
 
-## 
+## ## 存储酒店数据
+
+### HBaseUtil工具类设计
+
+1.  创建Hbase表的方法
+
+代码如下：
+
+```java
+public static void createTable(String tableName, String... columnNames) throws IOException {
+
+ startConn();
+
+ //获取表对象操作
+
+ Admin admin = conn.getAdmin();
+
+ TableName tableNameObj = TableName.valueOf(Bytes.toBytes(tableName));
+
+ //判断表是否为空
+
+ if (tableName != null && !tableName.isEmpty()) {
+
+   if (!admin.tableExists(tableNameObj)) {
+
+  HTableDescriptor hdr = new HTableDescriptor(tableNameObj);
+
+  for (String columnName : columnNames) {
+
+​    hdr.addFamily(new HColumnDescriptor(columnName));}
+
+  admin.createTable(hdr);
+
+}
+
+ }
+
+ closeConn();
+
+  }
+```
+
+
+
+1.  向指定表插入数据的方法
+
+代码如下：
+
+```java
+public static long putDataByTable(String tablename, List<Put> puts) throws Exception {
+  startConn();
+  long currentTime = System.currentTimeMillis();
+  Table table = conn.getTable(TableName.valueOf(Bytes.toBytes(tablename)));
+  try {
+      table.put(puts);
+  } finally {
+table.close();
+closeConn();
+  }
+  return System.currentTimeMillis() - currentTime;  //返回插入数据花费的时间(毫秒)}
+
+```
+
+
+
+### 酒店信息表
+
+表名: t_city_hotels_info
+
+列族：cityInfo、hotel_info
+
+列族cityinfo下的列：cityId、cityName、pinyin、collectionTime
+
+列族hotel_info下的列：id、name、price、lon、url、img、address、score、dpscore、dpscore、dpcount、star、stardesc、shortName、isSingleRec
+
+从Hotel实体类中提取数据并保存到Hbase表中。
+
+核心代码如下：
+
+### 酒店评论信息表
+
+表名: t_hotel_comment
+
+列族：hotel_info、comment_info
+
+列族c hotel_info下的列：hotel\_name、hotel_id
+
+列族comment_info下的列：id、baseRoomId、baseRoomName、checkInDate、postDate、content、highlightPosition、hasHotelFeedback、userNickName
+
+从HotelComment实体类中提取数据并保存到Hbase表中。
+
+核心代码如下：
+
+```java
+List<Hotel> parseArray = JSONObject.parseArray(readFileToString, Hotel.class);
+List<Hotel> hongkongHotel = JSONObject.parseArray(hongkong, Hotel.class);
+parseArray.addAll(hongkongHotel);
+HBaseUtil.putDataByTable("t_city_hotels_info", puts);
+
+```
+
+
+
+### MapReduce程序——统计平均价格
+
+1.  Mapper阶段
+
+输入类型：\< ImmutableBytesWritable, Result\>
+
+输出类型：\<ImmutableBytesWritable, DoubleWritable\>
+
+在Mapper阶段，从Hbase表t_city_hotels_info中读取数据，查询出每个RowKey的列cityInfo:cityName、列hotel_info:price对应的值。将列cityInfo:cityName对应的值设置为输出的K、列hotel_info:price对应的值设置为输出的V。
+
+核心代码如下:
+
+```java
+byte[] cityName = value.getValue(Bytes.toBytes("cityInfo"), Bytes.toBytes("cityName"));
+k.set(cityName);
+byte[] byte_price = value.getValue(Bytes.toBytes("hotel_info"), Bytes.toBytes("price"));
+double doulble_price = Double.parseDouble(Bytes.toString(byte_price));
+v.set(doulble_price);
+context.write(k, v);
+
+```
+
+1. Reducer阶段
+
+   输入类型：\<ImmutableBytesWritable, DoubleWritable\>
+
+输出类型：\<ImmutableBytesWritable, Put\>
+
+在Reducer阶段，从Mapper中取出数据，取出具有相同的K的V，求平均值。
+
+将结果输出到Hbase表AveragePrice，将K设置为RowKey,平均值设置为列info: price的值。
+
+核心代码如下：
+
+```java
+for (DoubleWritable value : values) {
+sum += value.get();
+count++;}
+double average = sum / count;
+v.addColumn(Bytes.toBytes("info"), Bytes.toBytes("price"),	 Bytes.toBytes(String.valueOf(average)));
+context.write(key,v);
+
+```
+
+
+
+1.  Driver阶段
+
+Hbase提供了TableMapReduceUtil的initTableMapperJob和initTableReducerJob两个方法来完成MapReduce的配置。需指定Mapper要读取的表以及Reducer分析数据后要导入的表。
+
+核心代码如下：
+
+```java
+TableMapReduceUtil.initTableMapperJob(
+"t_city_hotels_info",
+new Scan(),
+APMapper.class,
+Text.class,
+IntWritable.class,
+job);
+//reducer
+TableMapReduceUtil.initTableReducerJob(
+"AveragePrice",
+CWReducer.class,
+job);
+
+```
+
+
+
+### MapReduce程序——统计词频
+
+word分词是一个Java实现的中文分词组件，提供了多种基于词典的分词算法。能准确识别英文、数字，以及日期、时间等数量词，能识别人名、地名、组织机构名等未登录词。通过HBASE的MapReduce进行数据分析，得到词频较高的数量并进行汇总。
+
+1.  Mapper阶段
+
+输入类型：\< ImmutableBytesWritable, Result\>
+
+输出类型：\<Text, IntWritable\>
+
+在Mapper阶段，从Hbase表t_hotel_comment中读取数据，查询出每个RowKey的列comment_info:
+content对应的值。将列comment_info:
+content对应的值设置为输出的K、该词出现次数指定为1并设置为V。
+
+核心代码如下:
+
+```java
+private static byte[] family = "comment_info".getBytes();
+private static byte[] column = "content".getBytes();
+byte[] value = result.getValue(family, column);
+String word = new String(value,"utf-8");
+if(!word.isEmpty()){
+String filter = EmojiParser.removeAllEmojis(word);
+List<Word> segs = WordSegmenter.seg(filter);
+for(Word cont : segs) {
+Text text = new Text(cont.getText());
+IntWritable v = new IntWritable(1);
+context.write(text,v);
+}
+}
+
+```
+
+1. Reducer阶段
+
+   输入类型：\<Text, IntWritable\>
+
+输出类型：\<ImmutableBytesWritable, Put\>
+
+在Reducer阶段，从Mapper中取出数据，取出具有相同的K的V，求和。将结果输出到Hbase表CountWord，将K设置为RowKey,求和结果设置为列word_info:
+count的值。
+
+核心代码如下：
+
+```java
+int sum=0;
+for(IntWritablevalue:values){
+sum+=value.get();
+}
+Put put=new Put(Bytes.toBytes(key.toString()));
+put.addColumn(family,column,Bytes.toBytes(sum));
+context.write(null,put);
+```
+
+
+
+1.  Driver阶段
+
+需指定Mapper要读取的表以及Reducer分析数据后要导入的表。
+
+核心代码如下：
+
+```java
+//mapper
+TableMapReduceUtil.initTableMapperJob(
+"t_hotel_comment",
+new Scan(),
+CWMapper.class,
+Text.class,
+IntWritable.class,
+job);
+//reducer
+TableMapReduceUtil.initTableReducerJob(
+"CountWord",
+CWReducer.class,
+job);
+
+```
+
+
+
+# 数据可视化
