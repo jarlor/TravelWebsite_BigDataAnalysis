@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<!-- 引入 echarts.js -->
+	<script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
+	<style type="text/css">
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		.main{
+			width: 100%;
+			height: 100%;
+			position: absolute;
+		}
+		.quarter-div{
+			width: 50%;
+			height: 50%;
+			float: left;
+		}
+	</style>
+</head>
+<body>
+<div class="main">
+	<h1 align="center">携程网数据分析(部分)</h1>
+	<br />
+
+	<div class="quarter-div" id="hongkong_hotel">
+		<script type="text/javascript">
+			var chartDom = document.getElementById('hongkong_hotel');
+			var myChart = echarts.init(chartDom);
+			var option;
+
+			option = {
+				title: {
+					text: '香港部分酒店价格分布'
+				},
+				tooltip: {
+					trigger: 'axis',
+					axisPointer: {
+						type: 'shadow'
+					}
+				},
+				legend: {
+					data: ['酒店价格']
+				},
+				grid: {
+					left: '3%',
+					right: '4%',
+					bottom: '5%',
+					containLabel: true
+				},
+				xAxis: {
+					type: 'value',
+					boundaryGap: [0, 0.01]
+				},
+				yAxis: {
+					type: 'category',
+					data: ['香港中环石板街酒店', '香港百乐宾馆酒店', '香港美利酒店', '香港大都酒店', '香港逸酒店',
+						'香港海汇酒店','香港星星宾馆','香港珀荟酒店','悦品酒店','香港皇悦卓越酒店','海洋公园万豪酒店',
+						'平均价格']
+				},
+				series: [
+					{
+						name: '酒店价格',
+						type: 'bar',
+						data: [1789.0,360.0,2318.0,472.0,528.0,1215.0,509.0,628.0,241.0,1259.0,1403.0,1145]
+					}
+				]
+			};
+
+			option && myChart.setOption(option);
+		</script>
+	</div>
+	<div class="quarter-div" id="aomen_hotel">
+		<script type="text/javascript">
+			var chartDom = document.getElementById('aomen_hotel');
+			var myChart = echarts.init(chartDom);
+			var option;
+
+			option = {
+				title: {
+					text: '澳门部分酒店价格分布'
+				},
+				tooltip: {
+					trigger: 'axis',
+					axisPointer: {
+						type: 'shadow'
+					}
+				},
+				legend: {
+					data: ['酒店价格']
+				},
+				grid: {
+					left: '3%',
+					right: '4%',
+					bottom: '5%',
+					containLabel: true
+				},
+				xAxis: {
+					type: 'value',
+					boundaryGap: [0, 0.01]
+				},
+				yAxis: {
+					type: 'category',
+					data: ['澳门镇兴宾馆', '澳门港湾大酒店', '澳门罗斯福酒店', '澳门万事发酒店', '澳门皇庭海景酒店',
+						'澳门东亚酒店','澳门凯旋门酒店','澳门濠江酒店','澳门华都酒店','澳门东京别墅','澳门回力酒店',
+						'平均价格']
+				},
+				series: [
+					{
+						name: '酒店价格',
+						type: 'bar',
+						data: [286.0,263.0,540.0,407.0,263.0,419.0,1527.0,428.0,446.0,370.0,561.0,797]
+					}
+				]
+			};
+
+			option && myChart.setOption(option);
+		</script>
+	</div>
+	<div class="quarter-div" id="average">
+		<script type="text/javascript">
+			var chartDom = document.getElementById('average');
+			var myChart = echarts.init(chartDom);
+			var option;
+
+			option = {
+				title: {
+					text: '酒店平均价格对比',
+					left: 'center'
+				},
+				tooltip: {
+					trigger: 'item'
+				},
+				legend: {
+					orient: 'vertical',
+					left: 'left',
+				},
+				series: [
+					{
+						name: '平均价格',
+						type: 'pie',
+						radius: '50%',
+						data: [
+							{value: 797, name: '澳门酒店'},
+							{value: 1145, name: '香港酒店'}
+						],
+						emphasis: {
+							itemStyle: {
+								shadowBlur: 10,
+								shadowOffsetX: 0,
+								shadowColor: 'rgba(0, 0, 0, 0.5)'
+							}
+						}
+					}
+				]
+			};
+
+			option && myChart.setOption(option);
+		</script>
+	</div>
+	<div class="quarter-div" id="hotel_type">
+		<script type="text/javascript">
+			var chartDom = document.getElementById('hotel_type');
+			var myChart = echarts.init(chartDom);
+			var option;
+
+			option = {
+				title: {
+					text: "酒店房型统计",
+					left: "center",
+				},
+				tooltip: {
+					trigger: 'item'
+				},
+				legend: {
+					top: '10%',
+					left: 'center'
+				},
+				series: [
+					{
+						name: '房间销量',
+						type: 'pie',
+						radius: ['33%', '58%'],
+						avoidLabelOverlap: false,
+						itemStyle: {
+							borderRadius: 10,
+							borderColor: '#fff',
+							borderWidth: 2
+						},
+						label: {
+							show: false,
+							position: 'center'
+						},
+						emphasis: {
+							label: {
+								show: true,
+								fontSize: '40',
+								fontWeight: 'bold'
+							}
+						},
+						labelLine: {
+							show: false
+						},
+						data: [
+							{value: 957, name: '标准房'},
+							{value: 68, name: '三人客房'},
+							{value: 104, name: '豪华双床客房'},
+							{value: 2, name: '高级大床客房'},
+							{value: 24, name: '豪华双床阳台客房'},
+							{value: 13, name: '丝丽套房'},
+							{value: 55, name: '经济大床客房'},
+							{value: 133, name: '其他'}
+						]
+					}
+				]
+			};
+
+			option && myChart.setOption(option);
+		</script>
+	</div>
+</div>
+</body>
+</html>
