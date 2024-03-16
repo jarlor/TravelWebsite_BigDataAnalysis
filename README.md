@@ -2,7 +2,7 @@
 ## 此处提供hadoop生态集群快速搭建项目地址和博客
 地址:https://github.com/jarlor/hadoop_on_docker
 
-博客:https://jarlor.github.io/2023/10/15/hadoop-on-docker/
+博客:https://www.jarlor.site/2023/10/15/hadoop-on-docker/
 
 
 # 最终数据可视化样式
